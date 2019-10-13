@@ -1,0 +1,2394 @@
+﻿"CNTY","CHILD_DEATH_YR","UNDERLYING_COD","CNT_BY_UNDERLYING_COD","CNTY_YR_DEATH_TOTAL","PCT_CNTY_YR_TOTAL","CHILD_DEATH_CNTY_POP","CNTY_YR_DEATH_TOTAL_PER_10000_CNTY_RES"
+ADAMS,2010,Other specified noninfective disorders of lymphatic vessels and lymph nodes,1,4,25.000000,34387,1.160000
+ADAMS,2010,Unspecified pulmonary hemorrhage originating in the perinatal period,1,4,25.000000,34387,1.160000
+ADAMS,2010,"Congenital malformation of the heart, unspecified",1,4,25.000000,34387,1.160000
+ADAMS,2010,"Polycystic kidney, unspecified",1,4,25.000000,34387,1.160000
+ADAMS,2011,Primary atelectasis of newborn,1,5,20.000000,34384,1.450000
+ADAMS,2011,"Renal agenesis, unspecified",1,5,20.000000,34384,1.450000
+ADAMS,2011,"Bacterial sepsis of newborn, unspecified",1,5,20.000000,34384,1.450000
+ADAMS,2011,Other specified conditions originating in the perinatal period,1,5,20.000000,34384,1.450000
+ADAMS,2011,"Influenza with pneumonia, virus not identified",1,5,20.000000,34384,1.450000
+ADAMS,2012,Persistent fetal circulation,1,2,50.000000,34439,0.580000
+ADAMS,2012,"Chromosomal abnormality, unspecified",1,2,50.000000,34439,0.580000
+ADAMS,2013,Sudden infant death syndrome,3,4,75.000000,34664,1.150000
+ADAMS,2013,"Congenital malformation of brain, unspecified",1,4,25.000000,34664,1.150000
+ADAMS,2014,Other bacterial sepsis of newborn,1,1,100.000000,34764,0.280000
+ADAMS,2015,Other viral infections of unspecified site,1,3,33.333300,34967,0.850000
+ADAMS,2015,Unspecified pulmonary hemorrhage originating in the perinatal period,1,3,33.333300,34967,0.850000
+ADAMS,2015,Sepsis of newborn due to Escherichia coli,1,3,33.333300,34967,0.850000
+ADAMS,2016,Other reduction deformities of brain,1,6,16.666600,35232,1.700000
+ADAMS,2016,Hydrops fetalis not due to hemolytic disease,1,6,16.666600,35232,1.700000
+ADAMS,2016,"Congenital malformation of the heart, unspecified",1,6,16.666600,35232,1.700000
+ADAMS,2016,Primary atelectasis of newborn,1,6,16.666600,35232,1.700000
+ADAMS,2016,"Sepsis of newborn due to streptococcus, group B",1,6,16.666600,35232,1.700000
+ADAMS,2016,"Down's syndrome, unspecified",1,6,16.666600,35232,1.700000
+ADAMS,2017,Accidental suffocation and strangulation in bed,2,6,33.333300,35232,1.700000
+ADAMS,2017,Disorders of glycine metabolism,1,6,16.666600,35232,1.700000
+ADAMS,2017,Hyperkalemia,1,6,16.666600,35232,1.700000
+ADAMS,2017,Unspecified chronic respiratory disease originating in the perinatal period,1,6,16.666600,35232,1.700000
+ADAMS,2017,Sudden infant death syndrome,1,6,16.666600,35232,1.700000
+ADAMS,2018,Other specified cerebrovascular diseases,1,4,25.000000,35232,1.130000
+ADAMS,2018,Extreme immaturity,1,4,25.000000,35232,1.130000
+ADAMS,2018,Extremely low birthweight,1,4,25.000000,35232,1.130000
+ADAMS,2018,Sudden infant death syndrome,1,4,25.000000,35232,1.130000
+ADAMS,2018,"Intrauterine hypoxia, unspecified",1,4,25.000000,35232,1.130000
+ALLEN,2010,Necrotizing enterocolitis of newborn,3,18,16.666600,355329,0.500000
+ALLEN,2010,Sudden infant death syndrome,2,18,11.111100,355329,0.500000
+ALLEN,2010,Accidental suffocation and strangulation in bed,2,18,11.111100,355329,0.500000
+ALLEN,2010,"Congenital malformation of the heart, unspecified",2,18,11.111100,355329,0.500000
+ALLEN,2010,Other specified chromosome abnormalities,1,18,5.555500,355329,0.500000
+ALLEN,2010,Cytomegaloviral pneumonitis,1,18,5.555500,355329,0.500000
+ALLEN,2010,Extreme immaturity,1,18,5.555500,355329,0.500000
+ALLEN,2010,Newborn affected by premature rupture of membranes,1,18,5.555500,355329,0.500000
+ALLEN,2010,Acute tracheitis,1,18,5.555500,355329,0.500000
+ALLEN,2010,Septicemia due to Streptococcus pneumoniae,1,18,5.555500,355329,0.500000
+ALLEN,2010,"Septicemia, unspecified",1,18,5.555500,355329,0.500000
+ALLEN,2010,"Pneumonia, unspecified",1,18,5.555500,355329,0.500000
+ALLEN,2010,Assault (homicide) by unspecified means,1,18,5.555500,355329,0.500000
+ALLEN,2011,Sudden infant death syndrome,5,15,33.333300,358759,0.410000
+ALLEN,2011,"Congenital malformation of the heart, unspecified",2,15,13.333300,358759,0.410000
+ALLEN,2011,Sepsis of newborn due to other and unspecified streptococci,1,15,6.666600,358759,0.410000
+ALLEN,2011,Necrotizing enterocolitis of newborn,1,15,6.666600,358759,0.410000
+ALLEN,2011,"Acute renal failure, unspecified",1,15,6.666600,358759,0.410000
+ALLEN,2011,"Spinal muscular atrophy, unspecified",1,15,6.666600,358759,0.410000
+ALLEN,2011,Newborn affected by premature rupture of membranes,1,15,6.666600,358759,0.410000
+ALLEN,2011,Hypoxic ischemic encephalopathy of newborn,1,15,6.666600,358759,0.410000
+ALLEN,2011,Other specified respiratory disorders,1,15,6.666600,358759,0.410000
+ALLEN,2011,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,15,6.666600,358759,0.410000
+ALLEN,2012,"Septicemia, unspecified",3,15,20.000000,360753,0.410000
+ALLEN,2012,Sudden infant death syndrome,3,15,20.000000,360753,0.410000
+ALLEN,2012,Other reduction deformities of brain,1,15,6.666600,360753,0.410000
+ALLEN,2012,Respiratory distress syndrome of newborn,1,15,6.666600,360753,0.410000
+ALLEN,2012,"Respiratory distress of newborn, unspecified",1,15,6.666600,360753,0.410000
+ALLEN,2012,"Bacterial sepsis of newborn, unspecified",1,15,6.666600,360753,0.410000
+ALLEN,2012,Other specified conditions originating in the perinatal period,1,15,6.666600,360753,0.410000
+ALLEN,2012,Adenoviral pneumonia,1,15,6.666600,360753,0.410000
+ALLEN,2012,Congenital diaphragmatic hernia,1,15,6.666600,360753,0.410000
+ALLEN,2012,Disorders of glycine metabolism,1,15,6.666600,360753,0.410000
+ALLEN,2012,"Edwards' syndrome, unspecified",1,15,6.666600,360753,0.410000
+ALLEN,2013,Other and unspecified gastroenteritis and colitis of infectious origin,2,24,8.333300,363265,0.660000
+ALLEN,2013,Accidental suffocation and strangulation in bed,2,24,8.333300,363265,0.660000
+ALLEN,2013,Sudden infant death syndrome,2,24,8.333300,363265,0.660000
+ALLEN,2013,Exomphalos,1,24,4.166600,363265,0.660000
+ALLEN,2013,Neonatal cardiac failure,1,24,4.166600,363265,0.660000
+ALLEN,2013,Hypoxic ischemic encephalopathy of newborn,1,24,4.166600,363265,0.660000
+ALLEN,2013,"Intrauterine hypoxia, unspecified",1,24,4.166600,363265,0.660000
+ALLEN,2013,"Abnormal reaction, other medical procedures",1,24,4.166600,363265,0.660000
+ALLEN,2013,Neonatal hypertension,1,24,4.166600,363265,0.660000
+ALLEN,2013,"Congenital malformation of respiratory system, unspecified",1,24,4.166600,363265,0.660000
+ALLEN,2013,Newborn affected by other forms of placental separation and hemorrhage,1,24,4.166600,363265,0.660000
+ALLEN,2013,"Spinal muscular atrophy, unspecified",1,24,4.166600,363265,0.660000
+ALLEN,2013,"Birth asphyxia, unspecified",1,24,4.166600,363265,0.660000
+ALLEN,2013,Osteogenesis imperfecta,1,24,4.166600,363265,0.660000
+ALLEN,2013,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",1,24,4.166600,363265,0.660000
+ALLEN,2013,"Bacterial sepsis of newborn, unspecified",1,24,4.166600,363265,0.660000
+ALLEN,2013,Acute tracheitis,1,24,4.166600,363265,0.660000
+ALLEN,2013,Convulsions of newborn,1,24,4.166600,363265,0.660000
+ALLEN,2013,"Congenital malformation of the heart, unspecified",1,24,4.166600,363265,0.660000
+ALLEN,2013,"Unspecified event, undetermined intent",1,24,4.166600,363265,0.660000
+ALLEN,2013,Gastroesophageal reflux disease without esophagitis,1,24,4.166600,363265,0.660000
+ALLEN,2014,Sudden infant death syndrome,6,25,24.000000,365361,0.680000
+ALLEN,2014,Respiratory distress syndrome of newborn,3,25,12.000000,365361,0.680000
+ALLEN,2014,"Congenital malformation of the heart, unspecified",2,25,8.000000,365361,0.680000
+ALLEN,2014,Extreme immaturity,2,25,8.000000,365361,0.680000
+ALLEN,2014,Other ill-defined and unspecified causes of mortality,1,25,4.000000,365361,0.680000
+ALLEN,2014,Necrotizing enterocolitis of newborn,1,25,4.000000,365361,0.680000
+ALLEN,2014,Hypoxic ischemic encephalopathy of newborn,1,25,4.000000,365361,0.680000
+ALLEN,2014,Anencephaly,1,25,4.000000,365361,0.680000
+ALLEN,2014,"Down's syndrome, unspecified",1,25,4.000000,365361,0.680000
+ALLEN,2014,Unspecified pulmonary hemorrhage originating in the perinatal period,1,25,4.000000,365361,0.680000
+ALLEN,2014,Other specified conditions originating in the perinatal period,1,25,4.000000,365361,0.680000
+ALLEN,2014,"Encephalitis, myelitis, and encephalomyelitis, unspecified",1,25,4.000000,365361,0.680000
+ALLEN,2014,Inhalation and ingestion of food causing obstruction of respiratory tract,1,25,4.000000,365361,0.680000
+ALLEN,2014,"Intrauterine hypoxia, unspecified",1,25,4.000000,365361,0.680000
+ALLEN,2014,Acidosis,1,25,4.000000,365361,0.680000
+ALLEN,2014,Holoprosencephaly,1,25,4.000000,365361,0.680000
+ALLEN,2015,Sudden infant death syndrome,4,21,19.047600,368040,0.570000
+ALLEN,2015,"Congenital malformation of the heart, unspecified",3,21,14.285700,368040,0.570000
+ALLEN,2015,Hypoxic ischemic encephalopathy of newborn,2,21,9.523800,368040,0.570000
+ALLEN,2015,Newborn affected by premature rupture of membranes,1,21,4.761900,368040,0.570000
+ALLEN,2015,Perinatal intestinal perforation,1,21,4.761900,368040,0.570000
+ALLEN,2015,Other disorders of lung,1,21,4.761900,368040,0.570000
+ALLEN,2015,Common arterial trunk,1,21,4.761900,368040,0.570000
+ALLEN,2015,"Congenital hydrocephalus, unspecified",1,21,4.761900,368040,0.570000
+ALLEN,2015,Disseminated intravascular coagulation of newborn,1,21,4.761900,368040,0.570000
+ALLEN,2015,Other secondary pulmonary hypertension,1,21,4.761900,368040,0.570000
+ALLEN,2015,Septicemia due to Staphylococcus aureus,1,21,4.761900,368040,0.570000
+ALLEN,2015,Accidental suffocation and strangulation in bed,1,21,4.761900,368040,0.570000
+ALLEN,2015,Double outlet right ventricle,1,21,4.761900,368040,0.570000
+ALLEN,2015,Other and unspecified gastroenteritis and colitis of infectious origin,1,21,4.761900,368040,0.570000
+ALLEN,2015,"Influenza with other respiratory manifestations, influenza virus identified",1,21,4.761900,368040,0.570000
+ALLEN,2016,"Congenital malformation of the heart, unspecified",2,21,9.523800,370404,0.560000
+ALLEN,2016,Sudden infant death syndrome,2,21,9.523800,370404,0.560000
+ALLEN,2016,Alveolar and parietoalveolar conditions,1,21,4.761900,370404,0.560000
+ALLEN,2016,"Septicemia, unspecified",1,21,4.761900,370404,0.560000
+ALLEN,2016,"Encephalocele, unspecified",1,21,4.761900,370404,0.560000
+ALLEN,2016,Congenital cerebral cysts,1,21,4.761900,370404,0.560000
+ALLEN,2016,Other chronic respiratory diseases originating in the perinatal period,1,21,4.761900,370404,0.560000
+ALLEN,2016,Disorders of glycine metabolism,1,21,4.761900,370404,0.560000
+ALLEN,2016,Persistent fetal circulation,1,21,4.761900,370404,0.560000
+ALLEN,2016,Fistula of intestine,1,21,4.761900,370404,0.560000
+ALLEN,2016,Other specified conditions originating in the perinatal period,1,21,4.761900,370404,0.560000
+ALLEN,2016,Atrioventricular septal defect,1,21,4.761900,370404,0.560000
+ALLEN,2016,Other hypertrophic cardiomyopathy,1,21,4.761900,370404,0.560000
+ALLEN,2016,"Congenital pneumonia, unspecified",1,21,4.761900,370404,0.560000
+ALLEN,2016,Hypoxic ischemic encephalopathy of newborn,1,21,4.761900,370404,0.560000
+ALLEN,2016,Other apnea of newborn,1,21,4.761900,370404,0.560000
+ALLEN,2016,"Subarachnoid hemorrhage, unspecified",1,21,4.761900,370404,0.560000
+ALLEN,2016,Disorders of pyruvate metabolism and gluconeogenesis,1,21,4.761900,370404,0.560000
+ALLEN,2016,"Pneumonia, unspecified",1,21,4.761900,370404,0.560000
+ALLEN,2017,Sudden infant death syndrome,4,18,22.222200,370404,0.480000
+ALLEN,2017,Other preterm infants,2,18,11.111100,370404,0.480000
+ALLEN,2017,Newborn affected by premature rupture of membranes,1,18,5.555500,370404,0.480000
+ALLEN,2017,Primary atelectasis of newborn,1,18,5.555500,370404,0.480000
+ALLEN,2017,Renal dysplasia,1,18,5.555500,370404,0.480000
+ALLEN,2017,"Intrauterine hypoxia, unspecified",1,18,5.555500,370404,0.480000
+ALLEN,2017,Ischemic infarction of muscle,1,18,5.555500,370404,0.480000
+ALLEN,2017,Holoprosencephaly,1,18,5.555500,370404,0.480000
+ALLEN,2017,Disorders of glycine metabolism,1,18,5.555500,370404,0.480000
+ALLEN,2017,Hypoxic ischemic encephalopathy of newborn,1,18,5.555500,370404,0.480000
+ALLEN,2017,Congenital diaphragmatic hernia,1,18,5.555500,370404,0.480000
+ALLEN,2017,"Congenital malformation of the heart, unspecified",1,18,5.555500,370404,0.480000
+ALLEN,2017,Necrotizing enterocolitis of newborn,1,18,5.555500,370404,0.480000
+ALLEN,2017,Extreme immaturity,1,18,5.555500,370404,0.480000
+ALLEN,2018,Other and unspecified gastroenteritis and colitis of infectious origin,4,16,25.000000,370404,0.430000
+ALLEN,2018,Sudden infant death syndrome,2,16,12.500000,370404,0.430000
+ALLEN,2018,Holoprosencephaly,1,16,6.250000,370404,0.430000
+ALLEN,2018,"Bacterial sepsis of newborn, unspecified",1,16,6.250000,370404,0.430000
+ALLEN,2018,Other specified neonatal hemorrhages,1,16,6.250000,370404,0.430000
+ALLEN,2018,Newborn affected by premature rupture of membranes,1,16,6.250000,370404,0.430000
+ALLEN,2018,Other secondary pulmonary hypertension,1,16,6.250000,370404,0.430000
+ALLEN,2018,Unspecified threat to breathing,1,16,6.250000,370404,0.430000
+ALLEN,2018,Other ill-defined and unspecified causes of mortality,1,16,6.250000,370404,0.430000
+ALLEN,2018,Hypoplastic left heart syndrome,1,16,6.250000,370404,0.430000
+ALLEN,2018,Newborn affected by incompetent cervix,1,16,6.250000,370404,0.430000
+ALLEN,2018,Assault (homicide) by unspecified means,1,16,6.250000,370404,0.430000
+BARTHOLOMEW,2010,Extreme immaturity,2,6,33.333300,76794,0.780000
+BARTHOLOMEW,2010,Other preterm infants,1,6,16.666600,76794,0.780000
+BARTHOLOMEW,2010,Congenital cytomegalovirus infection,1,6,16.666600,76794,0.780000
+BARTHOLOMEW,2010,Hypoplastic left heart syndrome,1,6,16.666600,76794,0.780000
+BARTHOLOMEW,2010,,1,6,16.666600,76794,0.780000
+BARTHOLOMEW,2011,Sudden infant death syndrome,2,5,40.000000,77626,0.640000
+BARTHOLOMEW,2011,Extreme immaturity,1,5,20.000000,77626,0.640000
+BARTHOLOMEW,2011,Other accidental hanging and strangulation,1,5,20.000000,77626,0.640000
+BARTHOLOMEW,2011,"Congenital malformation of the heart, unspecified",1,5,20.000000,77626,0.640000
+BARTHOLOMEW,2012,Other specified trisomies and partial trisomies of autosomes,1,5,20.000000,78927,0.630000
+BARTHOLOMEW,2012,"Congenital malformation of the heart, unspecified",1,5,20.000000,78927,0.630000
+BARTHOLOMEW,2012,"Edwards' syndrome, unspecified",1,5,20.000000,78927,0.630000
+BARTHOLOMEW,2012,Perforation of intestine (nontraumatic),1,5,20.000000,78927,0.630000
+BARTHOLOMEW,2012,Accidental suffocation and strangulation in bed,1,5,20.000000,78927,0.630000
+BARTHOLOMEW,2013,Septicemia due to Staphylococcus aureus,1,5,20.000000,79491,0.620000
+BARTHOLOMEW,2013,"Condition originating in the perinatal period, unspecified",1,5,20.000000,79491,0.620000
+BARTHOLOMEW,2013,Unspecified chronic respiratory disease originating in the perinatal period,1,5,20.000000,79491,0.620000
+BARTHOLOMEW,2013,"Status epilepticus, unspecified",1,5,20.000000,79491,0.620000
+BARTHOLOMEW,2013,Sudden infant death syndrome,1,5,20.000000,79491,0.620000
+BARTHOLOMEW,2014,Accidental suffocation and strangulation in bed,2,7,28.571400,80182,0.870000
+BARTHOLOMEW,2014,Hypoxic ischemic encephalopathy of newborn,1,7,14.285700,80182,0.870000
+BARTHOLOMEW,2014,Disorders of fatty-acid metabolism,1,7,14.285700,80182,0.870000
+BARTHOLOMEW,2014,Other and unspecified gastroenteritis and colitis of infectious origin,1,7,14.285700,80182,0.870000
+BARTHOLOMEW,2014,Patent ductus arteriosus,1,7,14.285700,80182,0.870000
+BARTHOLOMEW,2014,Necrotizing enterocolitis of newborn,1,7,14.285700,80182,0.870000
+BARTHOLOMEW,2015,Extreme immaturity,1,5,20.000000,81011,0.610000
+BARTHOLOMEW,2015,Microcephaly,1,5,20.000000,81011,0.610000
+BARTHOLOMEW,2015,Persistent fetal circulation,1,5,20.000000,81011,0.610000
+BARTHOLOMEW,2015,Other congenital malformations of tricuspid valve,1,5,20.000000,81011,0.610000
+BARTHOLOMEW,2015,Sudden infant death syndrome,1,5,20.000000,81011,0.610000
+BARTHOLOMEW,2016,"Multiple congenital malformations, not elsewhere classified",1,5,20.000000,81402,0.610000
+BARTHOLOMEW,2016,Sudden infant death syndrome,1,5,20.000000,81402,0.610000
+BARTHOLOMEW,2016,"Intracranial (nontraumatic) hemorrhage of newborn, unspecified",1,5,20.000000,81402,0.610000
+BARTHOLOMEW,2016,Diaphragmatic hernia without obstruction or gangrene,1,5,20.000000,81402,0.610000
+BARTHOLOMEW,2016,Unspecified pulmonary hemorrhage originating in the perinatal period,1,5,20.000000,81402,0.610000
+BARTHOLOMEW,2017,Hypoplastic left heart syndrome,1,5,20.000000,81402,0.610000
+BARTHOLOMEW,2017,Necrotizing enterocolitis of newborn,1,5,20.000000,81402,0.610000
+BARTHOLOMEW,2017,Accidental suffocation and strangulation in bed,1,5,20.000000,81402,0.610000
+BARTHOLOMEW,2017,Perinatal intestinal perforation,1,5,20.000000,81402,0.610000
+BARTHOLOMEW,2017,Sudden infant death syndrome,1,5,20.000000,81402,0.610000
+BARTHOLOMEW,2018,Sudden infant death syndrome,1,1,100.000000,81402,0.120000
+BENTON,2012,Accidental suffocation and strangulation in bed,1,1,100.000000,8812,1.130000
+BENTON,2016,"Congenital malformation of the heart, unspecified",1,1,100.000000,8650,1.150000
+BLACKFORD,2010,"Edwards' syndrome, unspecified",1,2,50.000000,12766,1.560000
+BLACKFORD,2010,Necrotizing enterocolitis of newborn,1,2,50.000000,12766,1.560000
+BLACKFORD,2011,"Car occupant injured in collision with railway train or railway vehicle, passenger injured in traffic accident",1,1,100.000000,12661,0.780000
+BLACKFORD,2017,"Congenital malformation of the heart, unspecified",1,1,100.000000,12149,0.820000
+BLACKFORD,2018,Sepsis of newborn due to Escherichia coli,1,1,100.000000,12149,0.820000
+BOONE,2010,Unspecified threat to breathing,1,1,100.000000,56640,0.170000
+BOONE,2011,"Myocarditis, unspecified",1,2,50.000000,57885,0.340000
+BOONE,2011,"Acute bronchiolitis, unspecified",1,2,50.000000,57885,0.340000
+BOONE,2013,Anencephaly,1,2,50.000000,60479,0.330000
+BOONE,2013,"Myocarditis, unspecified",1,2,50.000000,60479,0.330000
+BOONE,2014,Accidental suffocation and strangulation in bed,1,1,100.000000,61820,0.160000
+BOONE,2015,"Congenital malformation of brain, unspecified",1,2,50.000000,63400,0.310000
+BOONE,2015,Convulsions of newborn,1,2,50.000000,63400,0.310000
+BOONE,2016,Assault (homicide) by unspecified means,1,3,33.333300,64653,0.460000
+BOONE,2016,Extreme immaturity,1,3,33.333300,64653,0.460000
+BOONE,2016,Congenital diaphragmatic hernia,1,3,33.333300,64653,0.460000
+BOONE,2018,Other viral infections of unspecified site,1,4,25.000000,64653,0.610000
+BOONE,2018,Hypoplastic left heart syndrome,1,4,25.000000,64653,0.610000
+BOONE,2018,Accidental suffocation and strangulation in bed,1,4,25.000000,64653,0.610000
+BOONE,2018,Sudden infant death syndrome,1,4,25.000000,64653,0.610000
+BROWN,2011,Accidental suffocation and strangulation in bed,1,1,100.000000,15065,0.660000
+BROWN,2013,Sudden infant death syndrome,1,1,100.000000,15031,0.660000
+BROWN,2016,"Congenital malformation of the heart, unspecified",1,1,100.000000,14912,0.670000
+BROWN,2017,Other reduction deformities of brain,1,1,100.000000,14912,0.670000
+BROWN,2018,Assault (homicide) by unspecified means,1,1,100.000000,14912,0.670000
+CARROLL,2013,Accidental suffocation and strangulation in bed,1,1,100.000000,20110,0.490000
+CARROLL,2014,Hypoplastic left heart syndrome,1,2,50.000000,19937,1.000000
+CARROLL,2014,Accidental suffocation and strangulation in bed,1,2,50.000000,19937,1.000000
+CARROLL,2016,Other reduction deformities of brain,1,1,100.000000,19970,0.500000
+CARROLL,2018,Sudden infant death syndrome,1,1,100.000000,19970,0.500000
+CASS,2010,Extreme immaturity,1,2,50.000000,38966,0.510000
+CASS,2010,Hypoplasia and dysplasia of lung,1,2,50.000000,38966,0.510000
+CASS,2011,Congenital herpesviral [herpes simplex] infection,1,4,25.000000,38876,1.020000
+CASS,2011,Sudden infant death syndrome,1,4,25.000000,38876,1.020000
+CASS,2011,Inhalation and ingestion of food causing obstruction of respiratory tract,1,4,25.000000,38876,1.020000
+CASS,2011,"Congenital malformation of lung, unspecified",1,4,25.000000,38876,1.020000
+CASS,2012,Hypoplastic left heart syndrome,1,2,50.000000,38710,0.510000
+CASS,2012,"Bacterial sepsis of newborn, unspecified",1,2,50.000000,38710,0.510000
+CASS,2014,Necrotizing enterocolitis of newborn,1,1,100.000000,38381,0.260000
+CASS,2015,Congenital diaphragmatic hernia,1,7,14.285700,38078,1.830000
+CASS,2015,Accidental suffocation and strangulation in bed,1,7,14.285700,38078,1.830000
+CASS,2015,Unspecified drowning and submersion,1,7,14.285700,38078,1.830000
+CASS,2015,"Patau's syndrome, unspecified",1,7,14.285700,38078,1.830000
+CASS,2015,"Bacterial sepsis of newborn, unspecified",1,7,14.285700,38078,1.830000
+CASS,2015,Other and unspecified gastroenteritis and colitis of infectious origin,1,7,14.285700,38078,1.830000
+CASS,2015,"Congenital malformation of the heart, unspecified",1,7,14.285700,38078,1.830000
+CASS,2016,"Edwards' syndrome, unspecified",1,6,16.666600,37946,1.580000
+CASS,2016,"Congenital malformation, unspecified",1,6,16.666600,37946,1.580000
+CASS,2016,"Fall from, out of, or through building or structure",1,6,16.666600,37946,1.580000
+CASS,2016,Unspecified threat to breathing,1,6,16.666600,37946,1.580000
+CASS,2016,Sudden infant death syndrome,1,6,16.666600,37946,1.580000
+CASS,2016,"Patau's syndrome, unspecified",1,6,16.666600,37946,1.580000
+CASS,2017,"Bacterial sepsis of newborn, unspecified",1,2,50.000000,37946,0.520000
+CASS,2017,Extreme immaturity,1,2,50.000000,37946,0.520000
+CASS,2018,Exposure to uncontrolled fire in building or structure,1,3,33.333300,37946,0.790000
+CASS,2018,Disseminated intravascular coagulation of newborn,1,3,33.333300,37946,0.790000
+CASS,2018,Other cardiovascular disorders originating in the perinatal period,1,3,33.333300,37946,0.790000
+CLARK,2011,,4,8,50.000000,111538,0.710000
+CLARK,2011,Sudden infant death syndrome,3,8,37.500000,111538,0.710000
+CLARK,2011,Extreme immaturity,1,8,12.500000,111538,0.710000
+CLARK,2012,,2,4,50.000000,111912,0.350000
+CLARK,2012,Sudden infant death syndrome,1,4,25.000000,111912,0.350000
+CLARK,2012,"Congenital malformation of brain, unspecified",1,4,25.000000,111912,0.350000
+CLARK,2013,,2,4,50.000000,112746,0.350000
+CLARK,2013,Sudden infant death syndrome,1,4,25.000000,112746,0.350000
+CLARK,2013,Other ill-defined and unspecified causes of mortality,1,4,25.000000,112746,0.350000
+CLARK,2014,Sudden infant death syndrome,2,3,66.666600,114185,0.260000
+CLARK,2014,"Viral infection, unspecified",1,3,33.333300,114185,0.260000
+CLARK,2015,Sudden infant death syndrome,1,1,100.000000,115090,0.080000
+CLARK,2016,Sudden infant death syndrome,2,4,50.000000,116031,0.340000
+CLARK,2016,Other ill-defined and unspecified causes of mortality,1,4,25.000000,116031,0.340000
+CLARK,2016,"Assault (homicide) by drugs, medicaments, and biological substances",1,4,25.000000,116031,0.340000
+CLARK,2017,Sudden infant death syndrome,1,2,50.000000,116031,0.170000
+CLARK,2017,Accidental suffocation and strangulation in bed,1,2,50.000000,116031,0.170000
+CLAY,2011,Accidental suffocation and strangulation in bed,1,3,33.333300,26882,1.110000
+CLAY,2011,"Edwards' syndrome, unspecified",1,3,33.333300,26882,1.110000
+CLAY,2011,Exomphalos,1,3,33.333300,26882,1.110000
+CLAY,2012,Other specified metabolic disorders,1,2,50.000000,26825,0.740000
+CLAY,2012,Extreme immaturity,1,2,50.000000,26825,0.740000
+CLAY,2013,Bronchopulmonary dysplasia originating in the perinatal period,1,1,100.000000,26734,0.370000
+CLAY,2015,"Bacterial sepsis of newborn, unspecified",1,2,50.000000,26485,0.750000
+CLAY,2015,Accidental suffocation and strangulation in bed,1,2,50.000000,26485,0.750000
+CLAY,2016,Exposure to uncontrolled fire in building or structure,1,1,100.000000,26309,0.380000
+CLAY,2017,Syndrome of infant of a diabetic mother,1,2,50.000000,26309,0.760000
+CLAY,2017,"Neglect and abandonment, by unspecified person",1,2,50.000000,26309,0.760000
+CLAY,2018,Accidental suffocation and strangulation in bed,2,3,66.666600,26309,1.140000
+CLAY,2018,Other congenital malformations of trachea,1,3,33.333300,26309,1.140000
+CLINTON,2010,Other reduction deformities of brain,1,4,25.000000,33224,1.200000
+CLINTON,2010,Other specified disorders of brain,1,4,25.000000,33224,1.200000
+CLINTON,2010,Hypoplasia and dysplasia of lung,1,4,25.000000,33224,1.200000
+CLINTON,2010,Other secondary pulmonary hypertension,1,4,25.000000,33224,1.200000
+CLINTON,2011,"Patau's syndrome, unspecified",1,2,50.000000,33041,0.600000
+CLINTON,2011,Other reduction deformities of brain,1,2,50.000000,33041,0.600000
+CLINTON,2012,Gastroschisis,1,3,33.333300,32942,0.910000
+CLINTON,2012,Other hypertrophic cardiomyopathy,1,3,33.333300,32942,0.910000
+CLINTON,2012,Respiratory distress syndrome of newborn,1,3,33.333300,32942,0.910000
+CLINTON,2013,Disorders of urea cycle metabolism,1,2,50.000000,32883,0.600000
+CLINTON,2013,Perinatal intestinal perforation,1,2,50.000000,32883,0.600000
+CLINTON,2014,Neonatal hypertension,1,1,100.000000,32610,0.300000
+CLINTON,2015,Persistent fetal circulation,1,4,25.000000,32567,1.220000
+CLINTON,2015,Respiratory distress syndrome of newborn,1,4,25.000000,32567,1.220000
+CLINTON,2015,Exomphalos,1,4,25.000000,32567,1.220000
+CLINTON,2015,Assault (homicide) by unspecified means,1,4,25.000000,32567,1.220000
+CLINTON,2016,Assault (homicide) by unspecified means,1,1,100.000000,32457,0.300000
+CLINTON,2017,Bronchopulmonary dysplasia originating in the perinatal period,1,2,50.000000,32457,0.610000
+CLINTON,2017,Unspecified threat to breathing,1,2,50.000000,32457,0.610000
+CLINTON,2018,"Bacterial sepsis of newborn, unspecified",1,3,33.333300,32457,0.920000
+CLINTON,2018,"Patau's syndrome, unspecified",1,3,33.333300,32457,0.920000
+CLINTON,2018,Stenosis of pulmonary artery,1,3,33.333300,32457,0.920000
+CRAWFORD,2010,Sudden infant death syndrome,1,1,100.000000,10713,0.930000
+CRAWFORD,2011,Pulmonary edema,1,1,100.000000,10606,0.940000
+DAVIESS,2010,Sudden infant death syndrome,1,1,100.000000,31648,0.310000
+DAVIESS,2011,"Spinal muscular atrophy, unspecified",1,3,33.333300,31951,0.930000
+DAVIESS,2011,Sudden infant death syndrome,1,3,33.333300,31951,0.930000
+DAVIESS,2011,"Other maltreatment syndromes, by parent",1,3,33.333300,31951,0.930000
+DAVIESS,2012,Other specified congenital malformations,1,1,100.000000,32139,0.310000
+DAVIESS,2013,"Congenital malformation, unspecified",2,7,28.571400,32276,2.160000
+DAVIESS,2013,,1,7,14.285700,32276,2.160000
+DAVIESS,2013,"Spinal muscular atrophy, unspecified",1,7,14.285700,32276,2.160000
+DAVIESS,2013,"Congenital malformation of the heart, unspecified",1,7,14.285700,32276,2.160000
+DAVIESS,2013,"Respiratory distress of newborn, unspecified",1,7,14.285700,32276,2.160000
+DAVIESS,2013,Necrotizing enterocolitis of newborn,1,7,14.285700,32276,2.160000
+DAVIESS,2014,Other accidental hanging and strangulation,1,5,20.000000,32697,1.520000
+DAVIESS,2014,Myotonic disorders,1,5,20.000000,32697,1.520000
+DAVIESS,2014,Coarctation of aorta,1,5,20.000000,32697,1.520000
+DAVIESS,2014,Sudden infant death syndrome,1,5,20.000000,32697,1.520000
+DAVIESS,2014,"Influenza with pneumonia, virus not identified",1,5,20.000000,32697,1.520000
+DAVIESS,2015,Primary atelectasis of newborn,1,2,50.000000,32836,0.600000
+DAVIESS,2015,Accidental suffocation and strangulation in bed,1,2,50.000000,32836,0.600000
+DAVIESS,2016,Intussusception,1,1,100.000000,32969,0.300000
+DAVIESS,2017,"Infantile spinal muscular atrophy, type I [Werdnig-Hoffman]",1,2,50.000000,32969,0.600000
+DAVIESS,2017,Hypoplasia and dysplasia of lung,1,2,50.000000,32969,0.600000
+DAVIESS,2018,Accidental suffocation and strangulation in bed,2,3,66.666600,32969,0.900000
+DAVIESS,2018,Other preterm infants,1,3,33.333300,32969,0.900000
+DEARBORN,2010,Newborn affected by incompetent cervix,1,1,100.000000,50047,0.190000
+DEARBORN,2011,Drowning and submersion while in swimming pool,1,1,100.000000,50002,0.190000
+DEARBORN,2013,Sudden infant death syndrome,1,2,50.000000,49751,0.400000
+DEARBORN,2013,"Congenital malformation of brain, unspecified",1,2,50.000000,49751,0.400000
+DECATUR,2010,"Chromosomal abnormality, unspecified",1,1,100.000000,25740,0.380000
+DECATUR,2011,"Other specified events, undetermined intent",1,1,100.000000,25877,0.380000
+DECATUR,2012,"Patau's syndrome, unspecified",1,2,50.000000,26049,0.760000
+DECATUR,2012,"Assault (homicide) by hanging, strangulation, and suffocation",1,2,50.000000,26049,0.760000
+DECATUR,2014,Respiratory distress syndrome of newborn,1,1,100.000000,26452,0.370000
+DECATUR,2016,Accidental suffocation and strangulation in bed,1,2,50.000000,26598,0.750000
+DECATUR,2016,Hypoplastic left heart syndrome,1,2,50.000000,26598,0.750000
+DECATUR,2017,"Interstitial pulmonary disease, unspecified",1,2,50.000000,26598,0.750000
+DECATUR,2017,"Intrauterine hypoxia, unspecified",1,2,50.000000,26598,0.750000
+DEKALB,2010,Extreme immaturity,2,2,100.000000,42223,0.470000
+DEKALB,2011,Sudden infant death syndrome,1,1,100.000000,42457,0.230000
+DEKALB,2012,Assault (homicide) by unspecified means,1,1,100.000000,42304,0.230000
+DEKALB,2013,Sudden infant death syndrome,3,3,100.000000,42376,0.700000
+DEKALB,2014,Respiratory distress syndrome of newborn,1,2,50.000000,42461,0.470000
+DEKALB,2014,Sudden infant death syndrome,1,2,50.000000,42461,0.470000
+DEKALB,2016,Sudden infant death syndrome,1,1,100.000000,42746,0.230000
+DEKALB,2018,Unspecified threat to breathing,1,2,50.000000,42746,0.460000
+DEKALB,2018,"Bacterial sepsis of newborn, unspecified",1,2,50.000000,42746,0.460000
+DELAWARE,2010,Sudden infant death syndrome,1,3,33.333300,117671,0.250000
+DELAWARE,2010,Hydrops fetalis not due to hemolytic disease,1,3,33.333300,117671,0.250000
+DELAWARE,2010,Other secondary pulmonary hypertension,1,3,33.333300,117671,0.250000
+DELAWARE,2011,Sudden infant death syndrome,2,3,66.666600,117872,0.250000
+DELAWARE,2011,Disorders of glycine metabolism,1,3,33.333300,117872,0.250000
+DELAWARE,2012,Sudden infant death syndrome,4,12,33.333300,117090,1.020000
+DELAWARE,2012,Extreme immaturity,2,12,16.666600,117090,1.020000
+DELAWARE,2012,Interstitial emphysema originating in the perinatal period,1,12,8.333300,117090,1.020000
+DELAWARE,2012,"Edwards' syndrome, unspecified",1,12,8.333300,117090,1.020000
+DELAWARE,2012,Disorders of urea cycle metabolism,1,12,8.333300,117090,1.020000
+DELAWARE,2012,"Hydrocephalus, unspecified",1,12,8.333300,117090,1.020000
+DELAWARE,2012,"Congenital malformation of the heart, unspecified",1,12,8.333300,117090,1.020000
+DELAWARE,2012,Other deletions of part of a chromosome,1,12,8.333300,117090,1.020000
+DELAWARE,2013,Sudden infant death syndrome,3,8,37.500000,116989,0.680000
+DELAWARE,2013,Other disorders of lung,1,8,12.500000,116989,0.680000
+DELAWARE,2013,Necrotizing enterocolitis of newborn,1,8,12.500000,116989,0.680000
+DELAWARE,2013,Hypoplasia and dysplasia of lung,1,8,12.500000,116989,0.680000
+DELAWARE,2013,Hypoplastic left heart syndrome,1,8,12.500000,116989,0.680000
+DELAWARE,2013,Other secondary pulmonary hypertension,1,8,12.500000,116989,0.680000
+DELAWARE,2014,Sudden infant death syndrome,2,4,50.000000,116612,0.340000
+DELAWARE,2014,Unspecified renal failure,1,4,25.000000,116612,0.340000
+DELAWARE,2014,Hypoxic ischemic encephalopathy of newborn,1,4,25.000000,116612,0.340000
+DELAWARE,2015,Sudden infant death syndrome,2,5,40.000000,116019,0.430000
+DELAWARE,2015,Other ill-defined and unspecified causes of mortality,1,5,20.000000,116019,0.430000
+DELAWARE,2015,Unspecified chronic respiratory disease originating in the perinatal period,1,5,20.000000,116019,0.430000
+DELAWARE,2015,Assault (homicide) by unspecified means,1,5,20.000000,116019,0.430000
+DELAWARE,2016,Other specified congenital infectious and parasitic diseases,1,5,20.000000,115603,0.430000
+DELAWARE,2016,Other ill-defined and unspecified causes of mortality,1,5,20.000000,115603,0.430000
+DELAWARE,2016,"Congenital malformation of the heart, unspecified",1,5,20.000000,115603,0.430000
+DELAWARE,2016,"Interstitial pulmonary disease, unspecified",1,5,20.000000,115603,0.430000
+DELAWARE,2016,Sudden infant death syndrome,1,5,20.000000,115603,0.430000
+DELAWARE,2017,Sudden infant death syndrome,3,9,33.333300,115603,0.770000
+DELAWARE,2017,Persistent fetal circulation,1,9,11.111100,115603,0.770000
+DELAWARE,2017,Other viral infections of unspecified site,1,9,11.111100,115603,0.770000
+DELAWARE,2017,Respiratory syncytial virus pneumonia,1,9,11.111100,115603,0.770000
+DELAWARE,2017,Congenital hypotonia,1,9,11.111100,115603,0.770000
+DELAWARE,2017,Tetralogy of Fallot,1,9,11.111100,115603,0.770000
+DELAWARE,2017,Other specified disorders of kidney and ureter,1,9,11.111100,115603,0.770000
+DELAWARE,2018,Sudden infant death syndrome,3,5,60.000000,115603,0.430000
+DELAWARE,2018,"Intrauterine hypoxia, unspecified",1,5,20.000000,115603,0.430000
+DELAWARE,2018,Hypoxic ischemic encephalopathy of newborn,1,5,20.000000,115603,0.430000
+DUBOIS,2010,"Whooping cough, unspecified",1,2,50.000000,41889,0.470000
+DUBOIS,2010,Respiratory distress syndrome of newborn,1,2,50.000000,41889,0.470000
+DUBOIS,2011,Sudden infant death syndrome,2,2,100.000000,42195,0.470000
+DUBOIS,2012,"Hanging, strangulation, and suffocation, undetermined intent",1,3,33.333300,42090,0.710000
+DUBOIS,2012,,1,3,33.333300,42090,0.710000
+DUBOIS,2012,Hypoplastic left heart syndrome,1,3,33.333300,42090,0.710000
+DUBOIS,2014,Accidental suffocation and strangulation in bed,1,3,33.333300,42341,0.700000
+DUBOIS,2014,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,3,33.333300,42341,0.700000
+DUBOIS,2014,Sudden infant death syndrome,1,3,33.333300,42341,0.700000
+DUBOIS,2015,Patent ductus arteriosus,1,4,25.000000,42421,0.940000
+DUBOIS,2015,Other preterm infants,1,4,25.000000,42421,0.940000
+DUBOIS,2015,Unspecified pulmonary hemorrhage originating in the perinatal period,1,4,25.000000,42421,0.940000
+DUBOIS,2015,Hydrops fetalis not due to hemolytic disease,1,4,25.000000,42421,0.940000
+DUBOIS,2016,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,2,50.000000,42552,0.470000
+DUBOIS,2016,Accidental suffocation and strangulation in bed,1,2,50.000000,42552,0.470000
+DUBOIS,2017,"Streptococcal infection, unspecified",1,1,100.000000,42552,0.230000
+ELKHART,2010,Perinatal intestinal perforation,2,14,14.285700,197559,0.700000
+ELKHART,2010,"Edwards' syndrome, unspecified",2,14,14.285700,197559,0.700000
+ELKHART,2010,"Osteochondrodysplasia, unspecified",1,14,7.142800,197559,0.700000
+ELKHART,2010,"Bacterial sepsis of newborn, unspecified",1,14,7.142800,197559,0.700000
+ELKHART,2010,Respiratory distress syndrome of newborn,1,14,7.142800,197559,0.700000
+ELKHART,2010,Stenosis of pulmonary artery,1,14,7.142800,197559,0.700000
+ELKHART,2010,Newborn affected by incompetent cervix,1,14,7.142800,197559,0.700000
+ELKHART,2010,"Multiple congenital malformations, not elsewhere classified",1,14,7.142800,197559,0.700000
+ELKHART,2010,Extreme immaturity,1,14,7.142800,197559,0.700000
+ELKHART,2010,Other bacterial sepsis of newborn,1,14,7.142800,197559,0.700000
+ELKHART,2010,Other and unspecified gastroenteritis and colitis of infectious origin,1,14,7.142800,197559,0.700000
+ELKHART,2010,Hypoplasia and dysplasia of lung,1,14,7.142800,197559,0.700000
+ELKHART,2011,Sudden infant death syndrome,3,13,23.076900,198495,0.650000
+ELKHART,2011,Accidental suffocation and strangulation in bed,2,13,15.384600,198495,0.650000
+ELKHART,2011,Hypoplastic left heart syndrome,1,13,7.692300,198495,0.650000
+ELKHART,2011,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,13,7.692300,198495,0.650000
+ELKHART,2011,Holoprosencephaly,1,13,7.692300,198495,0.650000
+ELKHART,2011,Other preterm infants,1,13,7.692300,198495,0.650000
+ELKHART,2011,"Bacterial sepsis of newborn, unspecified",1,13,7.692300,198495,0.650000
+ELKHART,2011,"Hanging, strangulation, and suffocation, undetermined intent",1,13,7.692300,198495,0.650000
+ELKHART,2011,"Congenital malformation of the heart, unspecified",1,13,7.692300,198495,0.650000
+ELKHART,2011,Short rib syndrome,1,13,7.692300,198495,0.650000
+ELKHART,2012,Sudden infant death syndrome,3,16,18.750000,199172,0.800000
+ELKHART,2012,Compression of brain,1,16,6.250000,199172,0.800000
+ELKHART,2012,"Blind loop syndrome, not elsewhere classified",1,16,6.250000,199172,0.800000
+ELKHART,2012,Neonatal cardiac dysrhythmia,1,16,6.250000,199172,0.800000
+ELKHART,2012,Other and unspecified gastroenteritis and colitis of infectious origin,1,16,6.250000,199172,0.800000
+ELKHART,2012,Congenital herpesviral [herpes simplex] infection,1,16,6.250000,199172,0.800000
+ELKHART,2012,Anencephaly,1,16,6.250000,199172,0.800000
+ELKHART,2012,Other specified conditions originating in the perinatal period,1,16,6.250000,199172,0.800000
+ELKHART,2012,Accidental suffocation and strangulation in bed,1,16,6.250000,199172,0.800000
+ELKHART,2012,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,16,6.250000,199172,0.800000
+ELKHART,2012,"Interstitial pulmonary disease, unspecified",1,16,6.250000,199172,0.800000
+ELKHART,2012,Other specified disorders of brain,1,16,6.250000,199172,0.800000
+ELKHART,2012,Necrotizing enterocolitis of newborn,1,16,6.250000,199172,0.800000
+ELKHART,2012,"Congenital malformation of the heart, unspecified",1,16,6.250000,199172,0.800000
+ELKHART,2013,Sudden infant death syndrome,2,10,20.000000,200354,0.490000
+ELKHART,2013,"Septicemia, unspecified",1,10,10.000000,200354,0.490000
+ELKHART,2013,Pneumothorax originating in the perinatal period,1,10,10.000000,200354,0.490000
+ELKHART,2013,"Interstitial pulmonary disease, unspecified",1,10,10.000000,200354,0.490000
+ELKHART,2013,"Pneumonia, unspecified",1,10,10.000000,200354,0.490000
+ELKHART,2013,"Hanging, strangulation, and suffocation, undetermined intent",1,10,10.000000,200354,0.490000
+ELKHART,2013,"Edwards' syndrome, unspecified",1,10,10.000000,200354,0.490000
+ELKHART,2013,Other congenital malformations of trachea,1,10,10.000000,200354,0.490000
+ELKHART,2013,"Congenital pneumonia, unspecified",1,10,10.000000,200354,0.490000
+ELKHART,2014,Extreme immaturity,2,13,15.384600,201609,0.640000
+ELKHART,2014,Other and unspecified gastroenteritis and colitis of infectious origin,2,13,15.384600,201609,0.640000
+ELKHART,2014,Other viral infections of unspecified site,1,13,7.692300,201609,0.640000
+ELKHART,2014,Congenital diaphragmatic hernia,1,13,7.692300,201609,0.640000
+ELKHART,2014,"Edwards' syndrome, unspecified",1,13,7.692300,201609,0.640000
+ELKHART,2014,"Congenital malformation of the heart, unspecified",1,13,7.692300,201609,0.640000
+ELKHART,2014,"Congenital hydrocephalus, unspecified",1,13,7.692300,201609,0.640000
+ELKHART,2014,"Septicemia, unspecified",1,13,7.692300,201609,0.640000
+ELKHART,2014,Acidosis,1,13,7.692300,201609,0.640000
+ELKHART,2014,"Patau's syndrome, unspecified",1,13,7.692300,201609,0.640000
+ELKHART,2014,"Interstitial pulmonary disease, unspecified",1,13,7.692300,201609,0.640000
+ELKHART,2015,Sudden infant death syndrome,4,14,28.571400,203284,0.680000
+ELKHART,2015,"Congenital malformation of the heart, unspecified",2,14,14.285700,203284,0.680000
+ELKHART,2015,Other bacterial sepsis of newborn,1,14,7.142800,203284,0.680000
+ELKHART,2015,Hypoplastic left heart syndrome,1,14,7.142800,203284,0.680000
+ELKHART,2015,"Other maltreatment syndromes, by unspecified person",1,14,7.142800,203284,0.680000
+ELKHART,2015,Extreme immaturity,1,14,7.142800,203284,0.680000
+ELKHART,2015,"Polycystic kidney, unspecified",1,14,7.142800,203284,0.680000
+ELKHART,2015,"Hanging, strangulation, and suffocation, undetermined intent",1,14,7.142800,203284,0.680000
+ELKHART,2015,"Pneumothorax, unspecified",1,14,7.142800,203284,0.680000
+ELKHART,2015,Assault (homicide) by unspecified means,1,14,7.142800,203284,0.680000
+ELKHART,2016,Sudden infant death syndrome,4,17,23.529400,203781,0.830000
+ELKHART,2016,Necrotizing enterocolitis of newborn,1,17,5.882300,203781,0.830000
+ELKHART,2016,Ischemic infarction of muscle,1,17,5.882300,203781,0.830000
+ELKHART,2016,"Down's syndrome, unspecified",1,17,5.882300,203781,0.830000
+ELKHART,2016,Accidental suffocation and strangulation in bed,1,17,5.882300,203781,0.830000
+ELKHART,2016,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,17,5.882300,203781,0.830000
+ELKHART,2016,Respiratory distress syndrome of newborn,1,17,5.882300,203781,0.830000
+ELKHART,2016,Herpesviral encephalitis,1,17,5.882300,203781,0.830000
+ELKHART,2016,Microcephaly,1,17,5.882300,203781,0.830000
+ELKHART,2016,Disseminated intravascular coagulation of newborn,1,17,5.882300,203781,0.830000
+ELKHART,2016,"Birth asphyxia, unspecified",1,17,5.882300,203781,0.830000
+ELKHART,2016,Congenital diaphragmatic hernia,1,17,5.882300,203781,0.830000
+ELKHART,2016,"Coagulation defect, unspecified",1,17,5.882300,203781,0.830000
+ELKHART,2016,Other congenital malformations of great veins,1,17,5.882300,203781,0.830000
+ELKHART,2017,Sudden infant death syndrome,4,17,23.529400,203781,0.830000
+ELKHART,2017,Respiratory failure of newborn,2,17,11.764700,203781,0.830000
+ELKHART,2017,"Congenital malformation, unspecified",2,17,11.764700,203781,0.830000
+ELKHART,2017,Other secondary pulmonary hypertension,1,17,5.882300,203781,0.830000
+ELKHART,2017,Congenital renal failure,1,17,5.882300,203781,0.830000
+ELKHART,2017,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,17,5.882300,203781,0.830000
+ELKHART,2017,Other specified congenital infectious and parasitic diseases,1,17,5.882300,203781,0.830000
+ELKHART,2017,Persistent fetal circulation,1,17,5.882300,203781,0.830000
+ELKHART,2017,Congenital diaphragmatic hernia,1,17,5.882300,203781,0.830000
+ELKHART,2017,Hypoplastic left heart syndrome,1,17,5.882300,203781,0.830000
+ELKHART,2017,Other congenital malformations of trachea,1,17,5.882300,203781,0.830000
+ELKHART,2017,"Congenital malformation of the heart, unspecified",1,17,5.882300,203781,0.830000
+ELKHART,2018,Sudden infant death syndrome,5,15,33.333300,203781,0.730000
+ELKHART,2018,"Bacterial sepsis of newborn, unspecified",1,15,6.666600,203781,0.730000
+ELKHART,2018,"Septicemia, unspecified",1,15,6.666600,203781,0.730000
+ELKHART,2018,"Trisomy and partial trisomy of autosomes, unspecified",1,15,6.666600,203781,0.730000
+ELKHART,2018,Hypoxic ischemic encephalopathy of newborn,1,15,6.666600,203781,0.730000
+ELKHART,2018,Unspecified pulmonary hemorrhage originating in the perinatal period,1,15,6.666600,203781,0.730000
+ELKHART,2018,Persistent fetal circulation,1,15,6.666600,203781,0.730000
+ELKHART,2018,Other preterm infants,1,15,6.666600,203781,0.730000
+ELKHART,2018,Neonatal aspiration of meconium,1,15,6.666600,203781,0.730000
+ELKHART,2018,Hypoplastic left heart syndrome,1,15,6.666600,203781,0.730000
+ELKHART,2018,Necrotizing enterocolitis of newborn,1,15,6.666600,203781,0.730000
+FAYETTE,2010,Necrotizing enterocolitis of newborn,1,1,100.000000,24277,0.410000
+FAYETTE,2011,Sudden infant death syndrome,1,1,100.000000,24154,0.410000
+FAYETTE,2012,Sudden infant death syndrome,1,1,100.000000,23953,0.410000
+FAYETTE,2013,Sudden infant death syndrome,1,1,100.000000,23850,0.410000
+FAYETTE,2014,Sudden infant death syndrome,1,2,50.000000,23479,0.850000
+FAYETTE,2014,Congenital diaphragmatic hernia,1,2,50.000000,23479,0.850000
+FAYETTE,2015,Sudden infant death syndrome,1,3,33.333300,23426,1.280000
+FAYETTE,2015,"Hydrocephalus, unspecified",1,3,33.333300,23426,1.280000
+FAYETTE,2015,"Patau's syndrome, unspecified",1,3,33.333300,23426,1.280000
+FAYETTE,2016,Necrotizing enterocolitis of newborn,1,1,100.000000,23331,0.420000
+FAYETTE,2017,,1,1,100.000000,23331,0.420000
+FAYETTE,2018,Conjoined twins,2,3,66.666600,23331,1.280000
+FAYETTE,2018,Sudden infant death syndrome,1,3,33.333300,23331,1.280000
+FLOYD,2010,,2,2,100.000000,74578,0.260000
+FLOYD,2011,Sudden infant death syndrome,2,4,50.000000,75030,0.530000
+FLOYD,2011,Accidental suffocation and strangulation in bed,1,4,25.000000,75030,0.530000
+FLOYD,2011,,1,4,25.000000,75030,0.530000
+FLOYD,2012,"Disturbance of temperature regulation of newborn, unspecified",1,1,100.000000,75344,0.130000
+FLOYD,2013,,2,2,100.000000,76099,0.260000
+FLOYD,2014,"Obstructive and reflux uropathy, unspecified",1,1,100.000000,76257,0.130000
+FLOYD,2016,Sudden infant death syndrome,1,1,100.000000,76990,0.120000
+FLOYD,2018,Other ill-defined and unspecified causes of mortality,1,1,100.000000,76990,0.120000
+FOUNTAIN,2011,Hypoplasia and dysplasia of lung,1,1,100.000000,17135,0.580000
+FOUNTAIN,2013,"Congenital pneumonia, unspecified",1,1,100.000000,16878,0.590000
+FOUNTAIN,2014,Assault (homicide) by unspecified means,1,1,100.000000,16704,0.590000
+FOUNTAIN,2015,Maple-syrup-urine disease,1,1,100.000000,16536,0.600000
+FOUNTAIN,2017,Hypoplastic left heart syndrome,1,1,100.000000,16486,0.600000
+FOUNTAIN,2018,Anencephaly,1,1,100.000000,16486,0.600000
+FULTON,2010,Potter's syndrome,1,1,100.000000,20836,0.470000
+FULTON,2011,Respiratory distress syndrome of newborn,1,2,50.000000,20748,0.960000
+FULTON,2011,"Edwards' syndrome, unspecified",1,2,50.000000,20748,0.960000
+FULTON,2012,Sudden infant death syndrome,1,2,50.000000,20655,0.960000
+FULTON,2012,"Bacterial sepsis of newborn, unspecified",1,2,50.000000,20655,0.960000
+FULTON,2014,Newborn affected by premature rupture of membranes,1,1,100.000000,20502,0.480000
+FULTON,2015,"Bacterial sepsis of newborn, unspecified",1,3,33.333300,20328,1.470000
+FULTON,2015,"Malignant neoplasm of brain, unspecified",1,3,33.333300,20328,1.470000
+FULTON,2015,Sudden infant death syndrome,1,3,33.333300,20328,1.470000
+FULTON,2016,"Congenital malformation of the heart, unspecified",1,3,33.333300,20139,1.480000
+FULTON,2016,Sudden infant death syndrome,1,3,33.333300,20139,1.480000
+FULTON,2016,Necrotizing enterocolitis of newborn,1,3,33.333300,20139,1.480000
+FULTON,2018,Other reduction deformities of brain,1,3,33.333300,20139,1.480000
+FULTON,2018,"Congenital absence, atresia, and stenosis of jejunum",1,3,33.333300,20139,1.480000
+FULTON,2018,Sudden infant death syndrome,1,3,33.333300,20139,1.480000
+GIBSON,2011,"Renal agenesis, unspecified",1,1,100.000000,33551,0.290000
+GIBSON,2012,Acidosis,1,2,50.000000,33565,0.590000
+GIBSON,2012,Other bacterial sepsis of newborn,1,2,50.000000,33565,0.590000
+GIBSON,2013,Sudden infant death syndrome,2,4,50.000000,33556,1.190000
+GIBSON,2013,,1,4,25.000000,33556,1.190000
+GIBSON,2013,Extreme immaturity,1,4,25.000000,33556,1.190000
+GIBSON,2014,Congenital cytomegalovirus infection,1,1,100.000000,33833,0.290000
+GIBSON,2015,Acute myeloid leukemia,1,3,33.333300,33762,0.880000
+GIBSON,2015,Newborn affected by maternal hypertensive disorders,1,3,33.333300,33762,0.880000
+GIBSON,2015,Hypoplasia and dysplasia of lung,1,3,33.333300,33762,0.880000
+GIBSON,2016,"Bacterial sepsis of newborn, unspecified",1,2,50.000000,33703,0.590000
+GIBSON,2016,Coarctation of aorta,1,2,50.000000,33703,0.590000
+GIBSON,2017,Other specified congenital malformations of heart,1,2,50.000000,33703,0.590000
+GIBSON,2017,Respiratory distress syndrome of newborn,1,2,50.000000,33703,0.590000
+GIBSON,2018,Assault (homicide) by unspecified means,1,1,100.000000,33703,0.290000
+GRANT,2010,Sudden infant death syndrome,2,7,28.571400,70061,0.990000
+GRANT,2010,Other and unspecified gastroenteritis and colitis of infectious origin,1,7,14.285700,70061,0.990000
+GRANT,2010,Other and unspecified adrenocortical insufficiency,1,7,14.285700,70061,0.990000
+GRANT,2010,Other disorders of lung,1,7,14.285700,70061,0.990000
+GRANT,2010,Accidental suffocation and strangulation in bed,1,7,14.285700,70061,0.990000
+GRANT,2010,Gangrene and necrosis of lung,1,7,14.285700,70061,0.990000
+GRANT,2011,"Intraventricular (nontraumatic) hemorrhage, grade 3, of newborn",1,1,100.000000,69702,0.140000
+GRANT,2012,Neonatal cardiac failure,1,3,33.333300,69198,0.430000
+GRANT,2012,"Septicemia, unspecified",1,3,33.333300,69198,0.430000
+GRANT,2012,"Congenital malformation, unspecified",1,3,33.333300,69198,0.430000
+GRANT,2013,Accidental suffocation and strangulation in bed,1,3,33.333300,69011,0.430000
+GRANT,2013,Bronchopulmonary dysplasia originating in the perinatal period,1,3,33.333300,69011,0.430000
+GRANT,2013,Sudden infant death syndrome,1,3,33.333300,69011,0.430000
+GRANT,2014,Sudden infant death syndrome,2,8,25.000000,68505,1.160000
+GRANT,2014,Unspecified spina bifida with hydrocephalus,1,8,12.500000,68505,1.160000
+GRANT,2014,Pneumothorax originating in the perinatal period,1,8,12.500000,68505,1.160000
+GRANT,2014,Convulsions of newborn,1,8,12.500000,68505,1.160000
+GRANT,2014,"Bacterial meningitis, unspecified",1,8,12.500000,68505,1.160000
+GRANT,2014,Acidosis,1,8,12.500000,68505,1.160000
+GRANT,2014,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,8,12.500000,68505,1.160000
+GRANT,2015,Perinatal intestinal perforation,1,4,25.000000,67692,0.590000
+GRANT,2015,"Subarachnoid hemorrhage, unspecified",1,4,25.000000,67692,0.590000
+GRANT,2015,"Spinal muscular atrophy, unspecified",1,4,25.000000,67692,0.590000
+GRANT,2015,Sudden infant death syndrome,1,4,25.000000,67692,0.590000
+GRANT,2016,Congenital diaphragmatic hernia,1,2,50.000000,66937,0.290000
+GRANT,2016,Sudden infant death syndrome,1,2,50.000000,66937,0.290000
+GRANT,2017,Sudden infant death syndrome,2,5,40.000000,66937,0.740000
+GRANT,2017,"Myocarditis, unspecified",1,5,20.000000,66937,0.740000
+GRANT,2017,"Bacterial sepsis of newborn, unspecified",1,5,20.000000,66937,0.740000
+GRANT,2017,"Septicemia, unspecified",1,5,20.000000,66937,0.740000
+GRANT,2018,Other bacterial infections of unspecified site,1,3,33.333300,66937,0.440000
+GRANT,2018,Other preterm infants,1,3,33.333300,66937,0.440000
+GRANT,2018,Acidosis,1,3,33.333300,66937,0.440000
+GREENE,2011,"Congenital malformation of the heart, unspecified",1,3,33.333300,33078,0.900000
+GREENE,2011,"Atrioventricular block, complete",1,3,33.333300,33078,0.900000
+GREENE,2011,Other primary thrombocytopenia,1,3,33.333300,33078,0.900000
+GREENE,2012,"Edwards' syndrome, unspecified",1,1,100.000000,33001,0.300000
+GREENE,2013,Other specified cerebrovascular diseases,1,2,50.000000,32781,0.610000
+GREENE,2013,"Congenital malformation of the heart, unspecified",1,2,50.000000,32781,0.610000
+GREENE,2014,Other specified neonatal hemorrhages,1,3,33.333300,32720,0.910000
+GREENE,2014,Convulsions of newborn,1,3,33.333300,32720,0.910000
+GREENE,2014,Disorders of glycine metabolism,1,3,33.333300,32720,0.910000
+GREENE,2016,Anencephaly,1,2,50.000000,32211,0.620000
+GREENE,2016,Other and unspecified gastroenteritis and colitis of infectious origin,1,2,50.000000,32211,0.620000
+GREENE,2018,Sudden infant death syndrome,1,1,100.000000,32211,0.310000
+HAMILTON,2010,Tetralogy of Fallot,1,9,11.111100,274569,0.320000
+HAMILTON,2010,"Intracranial (nontraumatic) hemorrhage of newborn, unspecified",1,9,11.111100,274569,0.320000
+HAMILTON,2010,Triploidy and polyploidy,1,9,11.111100,274569,0.320000
+HAMILTON,2010,Other disorders of lung,1,9,11.111100,274569,0.320000
+HAMILTON,2010,Sudden infant death syndrome,1,9,11.111100,274569,0.320000
+HAMILTON,2010,Hemophagocytic lymphohistiocytosis,1,9,11.111100,274569,0.320000
+HAMILTON,2010,"Edwards' syndrome, unspecified",1,9,11.111100,274569,0.320000
+HAMILTON,2010,Unspecified pulmonary hemorrhage originating in the perinatal period,1,9,11.111100,274569,0.320000
+HAMILTON,2010,Other reduction deformities of brain,1,9,11.111100,274569,0.320000
+HAMILTON,2011,Other secondary pulmonary hypertension,1,13,7.692300,283302,0.450000
+HAMILTON,2011,Other and unspecified adrenocortical insufficiency,1,13,7.692300,283302,0.450000
+HAMILTON,2011,"Edwards' syndrome, unspecified",1,13,7.692300,283302,0.450000
+HAMILTON,2011,Newborn affected by chorioamnionitis,1,13,7.692300,283302,0.450000
+HAMILTON,2011,Sudden infant death syndrome,1,13,7.692300,283302,0.450000
+HAMILTON,2011,Congenital herpesviral [herpes simplex] infection,1,13,7.692300,283302,0.450000
+HAMILTON,2011,"Cardiomyopathy, unspecified",1,13,7.692300,283302,0.450000
+HAMILTON,2011,Respiratory distress syndrome of newborn,1,13,7.692300,283302,0.450000
+HAMILTON,2011,Neonatal cardiac failure,1,13,7.692300,283302,0.450000
+HAMILTON,2011,Occipital encephalocele,1,13,7.692300,283302,0.450000
+HAMILTON,2011,"Congenital pneumonia, unspecified",1,13,7.692300,283302,0.450000
+HAMILTON,2011,"Other specified congenital malformation syndromes, not elsewhere classified",1,13,7.692300,283302,0.450000
+HAMILTON,2011,Other and unspecified gastroenteritis and colitis of infectious origin,1,13,7.692300,283302,0.450000
+HAMILTON,2012,"Hanging, strangulation, and suffocation, undetermined intent",1,4,25.000000,289681,0.130000
+HAMILTON,2012,Sudden infant death syndrome,1,4,25.000000,289681,0.130000
+HAMILTON,2012,Chronic congestive splenomegaly,1,4,25.000000,289681,0.130000
+HAMILTON,2012,Accidental suffocation and strangulation in bed,1,4,25.000000,289681,0.130000
+HAMILTON,2013,"Congenital malformation of the heart, unspecified",2,5,40.000000,296918,0.160000
+HAMILTON,2013,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,5,20.000000,296918,0.160000
+HAMILTON,2013,Intracranial and intraspinal phlebitis and thrombophlebitis,1,5,20.000000,296918,0.160000
+HAMILTON,2013,Exomphalos,1,5,20.000000,296918,0.160000
+HAMILTON,2014,"Birth asphyxia, unspecified",2,13,15.384600,303065,0.420000
+HAMILTON,2014,Perforation of intestine (nontraumatic),1,13,7.692300,303065,0.420000
+HAMILTON,2014,Accidental suffocation and strangulation in bed,1,13,7.692300,303065,0.420000
+HAMILTON,2014,Necrotizing enterocolitis of newborn,1,13,7.692300,303065,0.420000
+HAMILTON,2014,Sudden infant death syndrome,1,13,7.692300,303065,0.420000
+HAMILTON,2014,Other preterm infants,1,13,7.692300,303065,0.420000
+HAMILTON,2014,"Bacterial sepsis of newborn, unspecified",1,13,7.692300,303065,0.420000
+HAMILTON,2014,"Respiratory failure, unspecified",1,13,7.692300,303065,0.420000
+HAMILTON,2014,Hypoplasia and dysplasia of lung,1,13,7.692300,303065,0.420000
+HAMILTON,2014,"Metabolic disorder, unspecified",1,13,7.692300,303065,0.420000
+HAMILTON,2014,Extreme immaturity,1,13,7.692300,303065,0.420000
+HAMILTON,2014,Respiratory distress syndrome of newborn,1,13,7.692300,303065,0.420000
+HAMILTON,2015,"Hanging, strangulation, and suffocation, undetermined intent",1,10,10.000000,309172,0.320000
+HAMILTON,2015,"Congenital malformation of the heart, unspecified",1,10,10.000000,309172,0.320000
+HAMILTON,2015,Hypoplastic left heart syndrome,1,10,10.000000,309172,0.320000
+HAMILTON,2015,"Patau's syndrome, unspecified",1,10,10.000000,309172,0.320000
+HAMILTON,2015,Atresia of esophagus without fistula,1,10,10.000000,309172,0.320000
+HAMILTON,2015,"Edwards' syndrome, unspecified",1,10,10.000000,309172,0.320000
+HAMILTON,2015,Primary atelectasis of newborn,1,10,10.000000,309172,0.320000
+HAMILTON,2015,Respiratory distress syndrome of newborn,1,10,10.000000,309172,0.320000
+HAMILTON,2015,Congenital heart block,1,10,10.000000,309172,0.320000
+HAMILTON,2015,Extreme immaturity,1,10,10.000000,309172,0.320000
+HAMILTON,2016,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,2,8,25.000000,316373,0.250000
+HAMILTON,2016,"Urinary tract infection, site not specified",1,8,12.500000,316373,0.250000
+HAMILTON,2016,"Bacterial sepsis of newborn, unspecified",1,8,12.500000,316373,0.250000
+HAMILTON,2016,Unspecified threat to breathing,1,8,12.500000,316373,0.250000
+HAMILTON,2016,"Patau's syndrome, unspecified",1,8,12.500000,316373,0.250000
+HAMILTON,2016,Necrotizing enterocolitis of newborn,1,8,12.500000,316373,0.250000
+HAMILTON,2016,Discordant ventriculoarterial connection,1,8,12.500000,316373,0.250000
+HAMILTON,2017,Sudden infant death syndrome,3,11,27.272700,316373,0.340000
+HAMILTON,2017,Accidental suffocation and strangulation in bed,1,11,9.090900,316373,0.340000
+HAMILTON,2017,Congenital diaphragmatic hernia,1,11,9.090900,316373,0.340000
+HAMILTON,2017,"Patau's syndrome, unspecified",1,11,9.090900,316373,0.340000
+HAMILTON,2017,Congenital malformations of intestinal fixation,1,11,9.090900,316373,0.340000
+HAMILTON,2017,Extreme immaturity,1,11,9.090900,316373,0.340000
+HAMILTON,2017,Hypoplasia and dysplasia of lung,1,11,9.090900,316373,0.340000
+HAMILTON,2017,Hypoxic ischemic encephalopathy of newborn,1,11,9.090900,316373,0.340000
+HAMILTON,2017,"Respiratory distress of newborn, unspecified",1,11,9.090900,316373,0.340000
+HAMILTON,2018,Other bacterial sepsis of newborn,1,5,20.000000,316373,0.150000
+HAMILTON,2018,Sudden infant death syndrome,1,5,20.000000,316373,0.150000
+HAMILTON,2018,Other preterm infants,1,5,20.000000,316373,0.150000
+HAMILTON,2018,"Inflammatory liver disease, unspecified",1,5,20.000000,316373,0.150000
+HAMILTON,2018,"Bacterial sepsis of newborn, unspecified",1,5,20.000000,316373,0.150000
+HANCOCK,2010,Other congenital viral diseases,1,2,50.000000,70002,0.280000
+HANCOCK,2010,"Edwards' syndrome, unspecified",1,2,50.000000,70002,0.280000
+HANCOCK,2011,Unspecified threat to breathing,1,3,33.333300,70377,0.420000
+HANCOCK,2011,Neonatal cardiac failure,1,3,33.333300,70377,0.420000
+HANCOCK,2011,"Lobar pneumonia, unspecified",1,3,33.333300,70377,0.420000
+HANCOCK,2012,Other ill-defined and unspecified causes of mortality,2,3,66.666600,70645,0.420000
+HANCOCK,2012,"Congenital malformation of the heart, unspecified",1,3,33.333300,70645,0.420000
+HANCOCK,2013,"Patau's syndrome, unspecified",1,2,50.000000,71086,0.280000
+HANCOCK,2013,Sudden infant death syndrome,1,2,50.000000,71086,0.280000
+HANCOCK,2015,Deletion of short arm of chromosome 4,1,5,20.000000,72392,0.690000
+HANCOCK,2015,Other preterm infants,1,5,20.000000,72392,0.690000
+HANCOCK,2015,Cerebral infarction due to thrombosis of cerebral arteries,1,5,20.000000,72392,0.690000
+HANCOCK,2015,Other bacterial meningitis,1,5,20.000000,72392,0.690000
+HANCOCK,2015,"Other maltreatment syndromes, by parent",1,5,20.000000,72392,0.690000
+HANCOCK,2016,Holoprosencephaly,1,3,33.333300,73717,0.400000
+HANCOCK,2016,Accidental suffocation and strangulation in bed,1,3,33.333300,73717,0.400000
+HANCOCK,2016,Respiratory failure of newborn,1,3,33.333300,73717,0.400000
+HANCOCK,2017,Respiratory distress syndrome of newborn,2,3,66.666600,73717,0.400000
+HANCOCK,2017,Other specified cerebrovascular diseases,1,3,33.333300,73717,0.400000
+HANCOCK,2018,Extreme immaturity,1,5,20.000000,73717,0.670000
+HANCOCK,2018,"Edwards' syndrome, unspecified",1,5,20.000000,73717,0.670000
+HANCOCK,2018,Newborn affected by incompetent cervix,1,5,20.000000,73717,0.670000
+HANCOCK,2018,Bronchopulmonary dysplasia originating in the perinatal period,1,5,20.000000,73717,0.670000
+HANCOCK,2018,"Accidental poisoning by and exposure to other and unspecified drugs, medicaments, and biological substances",1,5,20.000000,73717,0.670000
+HARRISON,2010,,1,1,100.000000,39364,0.250000
+HARRISON,2011,,1,2,50.000000,39205,0.510000
+HARRISON,2011,Sudden infant death syndrome,1,2,50.000000,39205,0.510000
+HARRISON,2012,Accidental suffocation and strangulation in bed,1,1,100.000000,39064,0.250000
+HARRISON,2013,Accidental suffocation and strangulation in bed,1,1,100.000000,39065,0.250000
+HARRISON,2016,Accidental suffocation and strangulation in bed,1,3,33.333300,39826,0.750000
+HARRISON,2016,Unspecified threat to breathing,1,3,33.333300,39826,0.750000
+HARRISON,2016,,1,3,33.333300,39826,0.750000
+HARRISON,2018,Sudden infant death syndrome,1,1,100.000000,39826,0.250000
+HENDRICKS,2010,Sudden infant death syndrome,1,4,25.000000,145448,0.270000
+HENDRICKS,2010,"Malignant neoplasm of brain, unspecified",1,4,25.000000,145448,0.270000
+HENDRICKS,2010,Septicemia due to other Gram?negative organisms,1,4,25.000000,145448,0.270000
+HENDRICKS,2010,Other disorders of lung,1,4,25.000000,145448,0.270000
+HENDRICKS,2011,Hypoxic ischemic encephalopathy of newborn,1,3,33.333300,148646,0.200000
+HENDRICKS,2011,,1,3,33.333300,148646,0.200000
+HENDRICKS,2011,Dilated cardiomyopathy,1,3,33.333300,148646,0.200000
+HENDRICKS,2012,Necrotizing enterocolitis of newborn,1,4,25.000000,150773,0.260000
+HENDRICKS,2012,Sudden infant death syndrome,1,4,25.000000,150773,0.260000
+HENDRICKS,2012,Other ill-defined and unspecified causes of mortality,1,4,25.000000,150773,0.260000
+HENDRICKS,2012,"Pneumonia, unspecified",1,4,25.000000,150773,0.260000
+HENDRICKS,2013,Hypoplastic left heart syndrome,1,6,16.666600,153584,0.390000
+HENDRICKS,2013,Sudden infant death syndrome,1,6,16.666600,153584,0.390000
+HENDRICKS,2013,Tetralogy of Fallot,1,6,16.666600,153584,0.390000
+HENDRICKS,2013,Necrotizing enterocolitis of newborn,1,6,16.666600,153584,0.390000
+HENDRICKS,2013,Disseminated intravascular coagulation [defibrination syndrome],1,6,16.666600,153584,0.390000
+HENDRICKS,2013,"Birth asphyxia, unspecified",1,6,16.666600,153584,0.390000
+HENDRICKS,2014,Extreme immaturity,1,3,33.333300,156059,0.190000
+HENDRICKS,2014,"Birth asphyxia, unspecified",1,3,33.333300,156059,0.190000
+HENDRICKS,2014,Anencephaly,1,3,33.333300,156059,0.190000
+HENDRICKS,2015,Hypoxic ischemic encephalopathy of newborn,2,9,22.222200,158059,0.560000
+HENDRICKS,2015,Accidental suffocation and strangulation in bed,1,9,11.111100,158059,0.560000
+HENDRICKS,2015,Renal dysplasia,1,9,11.111100,158059,0.560000
+HENDRICKS,2015,"Multiple congenital malformations, not elsewhere classified",1,9,11.111100,158059,0.560000
+HENDRICKS,2015,Bronchopulmonary dysplasia originating in the perinatal period,1,9,11.111100,158059,0.560000
+HENDRICKS,2015,Unspecified threat to breathing,1,9,11.111100,158059,0.560000
+HENDRICKS,2015,Necrotizing enterocolitis of newborn,1,9,11.111100,158059,0.560000
+HENDRICKS,2015,"Encephalopathy, unspecified",1,9,11.111100,158059,0.560000
+HENDRICKS,2016,Sudden infant death syndrome,2,11,18.181800,160610,0.680000
+HENDRICKS,2016,"Septicemia, unspecified",2,11,18.181800,160610,0.680000
+HENDRICKS,2016,Hypoxic ischemic encephalopathy of newborn,1,11,9.090900,160610,0.680000
+HENDRICKS,2016,"Other specified congenital malformation syndromes, not elsewhere classified",1,11,9.090900,160610,0.680000
+HENDRICKS,2016,Other diseases of pharynx,1,11,9.090900,160610,0.680000
+HENDRICKS,2016,"Patau's syndrome, unspecified",1,11,9.090900,160610,0.680000
+HENDRICKS,2016,"Edwards' syndrome, unspecified",1,11,9.090900,160610,0.680000
+HENDRICKS,2016,"Myoneural disorder, unspecified",1,11,9.090900,160610,0.680000
+HENDRICKS,2016,Hypoplasia and dysplasia of lung,1,11,9.090900,160610,0.680000
+HENDRICKS,2017,Primary atelectasis of newborn,1,4,25.000000,160610,0.240000
+HENDRICKS,2017,"Birth asphyxia, unspecified",1,4,25.000000,160610,0.240000
+HENDRICKS,2017,"Other maltreatment syndromes, by unspecified person",1,4,25.000000,160610,0.240000
+HENDRICKS,2017,Respiratory failure of newborn,1,4,25.000000,160610,0.240000
+HENDRICKS,2018,Respiratory distress syndrome of newborn,1,6,16.666600,160610,0.370000
+HENDRICKS,2018,Other reduction deformities of brain,1,6,16.666600,160610,0.370000
+HENDRICKS,2018,"Patau's syndrome, unspecified",1,6,16.666600,160610,0.370000
+HENDRICKS,2018,"Birth asphyxia, unspecified",1,6,16.666600,160610,0.370000
+HENDRICKS,2018,"Septicemia, unspecified",1,6,16.666600,160610,0.370000
+HENDRICKS,2018,Hypoxic ischemic encephalopathy of newborn,1,6,16.666600,160610,0.370000
+HENRY,2010,Birth injury to liver,1,2,50.000000,49462,0.400000
+HENRY,2010,Sudden infant death syndrome,1,2,50.000000,49462,0.400000
+HENRY,2011,"Bacterial sepsis of newborn, unspecified",1,3,33.333300,49354,0.600000
+HENRY,2011,"Anoxic brain damage, not elsewhere classified",1,3,33.333300,49354,0.600000
+HENRY,2011,"Other congenital anemias, not elsewhere classified",1,3,33.333300,49354,0.600000
+HENRY,2013,Sudden infant death syndrome,1,2,50.000000,49035,0.400000
+HENRY,2013,"Septicemia, unspecified",1,2,50.000000,49035,0.400000
+HENRY,2014,Hypoxic ischemic encephalopathy of newborn,1,2,50.000000,49057,0.400000
+HENRY,2014,Endocardial fibroelastosis,1,2,50.000000,49057,0.400000
+HENRY,2015,"Birth asphyxia, unspecified",1,2,50.000000,48894,0.400000
+HENRY,2015,Triploidy and polyploidy,1,2,50.000000,48894,0.400000
+HENRY,2016,Necrotizing enterocolitis of newborn,1,1,100.000000,48521,0.200000
+HENRY,2018,"Congenital malformation of the heart, unspecified",1,3,33.333300,48521,0.610000
+HENRY,2018,Congenital diaphragmatic hernia,1,3,33.333300,48521,0.610000
+HENRY,2018,"Congenital malformation of lung, unspecified",1,3,33.333300,48521,0.610000
+HOWARD,2010,Accidental suffocation and strangulation in bed,2,3,66.666600,82752,0.360000
+HOWARD,2010,"Hanging, strangulation, and suffocation, undetermined intent",1,3,33.333300,82752,0.360000
+HOWARD,2011,Accidental suffocation and strangulation in bed,1,4,25.000000,82856,0.480000
+HOWARD,2011,"Edwards' syndrome, unspecified",1,4,25.000000,82856,0.480000
+HOWARD,2011,"Congenital absence, atresia, and stenosis of duodenum",1,4,25.000000,82856,0.480000
+HOWARD,2011,"Lobar pneumonia, unspecified",1,4,25.000000,82856,0.480000
+HOWARD,2012,Sudden infant death syndrome,1,1,100.000000,82914,0.120000
+HOWARD,2013,"Multiple congenital malformations, not elsewhere classified",1,2,50.000000,82840,0.240000
+HOWARD,2013,Primary atelectasis of newborn,1,2,50.000000,82840,0.240000
+HOWARD,2014,"Intrauterine hypoxia, unspecified",1,6,16.666600,82739,0.720000
+HOWARD,2014,Respiratory distress syndrome of newborn,1,6,16.666600,82739,0.720000
+HOWARD,2014,Inhalation and ingestion of other objects causing obstruction of respiratory tract,1,6,16.666600,82739,0.720000
+HOWARD,2014,"Congenital malformation of the heart, unspecified",1,6,16.666600,82739,0.720000
+HOWARD,2014,Extreme immaturity,1,6,16.666600,82739,0.720000
+HOWARD,2014,Assault (homicide) by handgun discharge,1,6,16.666600,82739,0.720000
+HOWARD,2015,Sudden infant death syndrome,2,4,50.000000,82581,0.480000
+HOWARD,2015,"Intracranial (nontraumatic) hemorrhage of newborn, unspecified",1,4,25.000000,82581,0.480000
+HOWARD,2015,Bronchopulmonary dysplasia originating in the perinatal period,1,4,25.000000,82581,0.480000
+HOWARD,2016,Persistent fetal circulation,1,4,25.000000,82568,0.480000
+HOWARD,2016,Sudden infant death syndrome,1,4,25.000000,82568,0.480000
+HOWARD,2016,Extreme immaturity,1,4,25.000000,82568,0.480000
+HOWARD,2016,"Bacterial sepsis of newborn, unspecified",1,4,25.000000,82568,0.480000
+HOWARD,2017,Sudden infant death syndrome,2,6,33.333300,82568,0.720000
+HOWARD,2017,Necrotizing enterocolitis of newborn,1,6,16.666600,82568,0.720000
+HOWARD,2017,Hypoplasia and dysplasia of lung,1,6,16.666600,82568,0.720000
+HOWARD,2017,,1,6,16.666600,82568,0.720000
+HOWARD,2017,Hypoxic ischemic encephalopathy of newborn,1,6,16.666600,82568,0.720000
+HOWARD,2018,"Bacterial sepsis of newborn, unspecified",1,4,25.000000,82568,0.480000
+HOWARD,2018,Other congenital malformations of pancreas and pancreatic duct,1,4,25.000000,82568,0.480000
+HOWARD,2018,Respiratory failure of newborn,1,4,25.000000,82568,0.480000
+HOWARD,2018,Sudden infant death syndrome,1,4,25.000000,82568,0.480000
+HUNTINGTON,2010,Hypoplastic left heart syndrome,1,1,100.000000,37124,0.260000
+HUNTINGTON,2011,Sudden infant death syndrome,1,3,33.333300,37186,0.800000
+HUNTINGTON,2011,"Spinal muscular atrophy, unspecified",1,3,33.333300,37186,0.800000
+HUNTINGTON,2011,Respiratory distress syndrome of newborn,1,3,33.333300,37186,0.800000
+HUNTINGTON,2012,"Patau's syndrome, unspecified",1,2,50.000000,36993,0.540000
+HUNTINGTON,2012,Sudden infant death syndrome,1,2,50.000000,36993,0.540000
+HUNTINGTON,2014,,1,1,100.000000,36658,0.270000
+HUNTINGTON,2016,Sudden infant death syndrome,3,5,60.000000,36400,1.370000
+HUNTINGTON,2016,Respiratory distress syndrome of newborn,1,5,20.000000,36400,1.370000
+HUNTINGTON,2016,Hypoplasia and dysplasia of lung,1,5,20.000000,36400,1.370000
+HUNTINGTON,2018,Sudden infant death syndrome,2,3,66.666600,36400,0.820000
+HUNTINGTON,2018,Assault (homicide) by unspecified means,1,3,33.333300,36400,0.820000
+JACKSON,2011,"Osteochondrodysplasia, unspecified",1,2,50.000000,42940,0.460000
+JACKSON,2011,Accidental suffocation and strangulation in bed,1,2,50.000000,42940,0.460000
+JACKSON,2013,Accidental suffocation and strangulation in bed,1,3,33.333300,43484,0.680000
+JACKSON,2013,Other and unspecified gastroenteritis and colitis of infectious origin,1,3,33.333300,43484,0.680000
+JACKSON,2013,Hypoplastic left heart syndrome,1,3,33.333300,43484,0.680000
+JACKSON,2014,"Intracranial (nontraumatic) hemorrhage of newborn, unspecified",1,3,33.333300,43717,0.680000
+JACKSON,2014,Other preterm infants,1,3,33.333300,43717,0.680000
+JACKSON,2014,Other disorders of lung,1,3,33.333300,43717,0.680000
+JACKSON,2015,Patent ductus arteriosus,1,4,25.000000,43941,0.910000
+JACKSON,2015,Perinatal intestinal perforation,1,4,25.000000,43941,0.910000
+JACKSON,2015,"Anoxic brain damage, not elsewhere classified",1,4,25.000000,43941,0.910000
+JACKSON,2015,Necrotizing enterocolitis of newborn,1,4,25.000000,43941,0.910000
+JACKSON,2016,"Other disorders of nervous system, not elsewhere classified",1,1,100.000000,44013,0.220000
+JACKSON,2017,Sudden infant death syndrome,1,3,33.333300,44013,0.680000
+JACKSON,2017,"Septicemia, unspecified",1,3,33.333300,44013,0.680000
+JACKSON,2017,"Congenital hydrocephalus, unspecified",1,3,33.333300,44013,0.680000
+JACKSON,2018,Other specified conditions originating in the perinatal period,1,4,25.000000,44013,0.900000
+JACKSON,2018,Other ill-defined and unspecified causes of mortality,1,4,25.000000,44013,0.900000
+JACKSON,2018,"Renal agenesis, bilateral",1,4,25.000000,44013,0.900000
+JACKSON,2018,Sudden infant death syndrome,1,4,25.000000,44013,0.900000
+JASPER,2010,Extreme immaturity,1,2,50.000000,33478,0.590000
+JASPER,2010,"Congenital pneumonia, unspecified",1,2,50.000000,33478,0.590000
+JASPER,2011,Persistent fetal circulation,1,3,33.333300,33420,0.890000
+JASPER,2011,Unspecified threat to breathing,1,3,33.333300,33420,0.890000
+JASPER,2011,"Down's syndrome, unspecified",1,3,33.333300,33420,0.890000
+JASPER,2012,Sudden infant death syndrome,2,2,100.000000,33473,0.590000
+JASPER,2015,Accidental suffocation and strangulation in bed,2,3,66.666600,33501,0.890000
+JASPER,2015,Unspecified threat to breathing,1,3,33.333300,33501,0.890000
+JASPER,2016,Hypoxic ischemic encephalopathy of newborn,1,5,20.000000,33433,1.490000
+JASPER,2016,Other secondary pulmonary hypertension,1,5,20.000000,33433,1.490000
+JASPER,2016,Unspecified threat to breathing,1,5,20.000000,33433,1.490000
+JASPER,2016,Newborn affected by maternal use of tobacco,1,5,20.000000,33433,1.490000
+JASPER,2016,Triploidy and polyploidy,1,5,20.000000,33433,1.490000
+JASPER,2017,Unspecified threat to breathing,2,3,66.666600,33433,0.890000
+JASPER,2017,Other disorders of lung,1,3,33.333300,33433,0.890000
+JASPER,2018,Congenital renal failure,1,1,100.000000,33433,0.290000
+JAY,2011,"Other specified congenital malformation syndromes, not elsewhere classified",2,4,50.000000,21376,1.870000
+JAY,2011,"Termination of pregnancy, fetus, and newborn",1,4,25.000000,21376,1.870000
+JAY,2011,"Sepsis of newborn due to streptococcus, group B",1,4,25.000000,21376,1.870000
+JAY,2012,Acidosis,1,3,33.333300,21368,1.400000
+JAY,2012,"Meningitis, unspecified",1,3,33.333300,21368,1.400000
+JAY,2012,Newborn affected by oligohydramnios,1,3,33.333300,21368,1.400000
+JAY,2013,Other viral infections of unspecified site,1,3,33.333300,21268,1.410000
+JAY,2013,Sepsis of newborn due to Escherichia coli,1,3,33.333300,21268,1.410000
+JAY,2013,Sudden infant death syndrome,1,3,33.333300,21268,1.410000
+JAY,2014,Coarctation of aorta,1,1,100.000000,21143,0.470000
+JAY,2015,Hypoxic ischemic encephalopathy of newborn,1,2,50.000000,21155,0.940000
+JAY,2015,Tetralogy of Fallot,1,2,50.000000,21155,0.940000
+JAY,2016,"Deletion from autosomes, unspecified",1,3,33.333300,21046,1.420000
+JAY,2016,Congenital herpesviral [herpes simplex] infection,1,3,33.333300,21046,1.420000
+JAY,2016,"Patau's syndrome, unspecified",1,3,33.333300,21046,1.420000
+JAY,2017,"Rider or occupant injured in collision with car, pickup truck, van, heavy transport vehicle, or bus",1,2,50.000000,21046,0.950000
+JAY,2017,Newborn affected by chorioamnionitis,1,2,50.000000,21046,0.950000
+JAY,2018,Respiratory distress syndrome of newborn,1,2,50.000000,21046,0.950000
+JAY,2018,Hirschsprung's disease,1,2,50.000000,21046,0.950000
+JEFFERSON,2010,"Renal agenesis, bilateral",1,1,100.000000,32428,0.300000
+JEFFERSON,2011,Sudden infant death syndrome,1,2,50.000000,32296,0.610000
+JEFFERSON,2011,Other specified congenital malformations of intestine,1,2,50.000000,32296,0.610000
+JEFFERSON,2012,,1,1,100.000000,32510,0.300000
+JEFFERSON,2013,Other ill-defined and unspecified causes of mortality,1,1,100.000000,32488,0.300000
+JEFFERSON,2018,Assault (homicide) by unspecified means,1,1,100.000000,32418,0.300000
+JENNINGS,2010,,1,1,100.000000,28525,0.350000
+JENNINGS,2011,"Person injured in unspecified motor-vehicle accident, traffic",1,2,50.000000,28195,0.700000
+JENNINGS,2011,Sudden infant death syndrome,1,2,50.000000,28195,0.700000
+JENNINGS,2012,"Interstitial pulmonary disease, unspecified",1,1,100.000000,28182,0.350000
+JENNINGS,2013,Other ill-defined and unspecified causes of mortality,1,1,100.000000,28279,0.350000
+JENNINGS,2015,Sudden infant death syndrome,1,1,100.000000,27913,0.350000
+JENNINGS,2016,Sudden infant death syndrome,1,3,33.333300,27758,1.080000
+JENNINGS,2016,Hypoxic ischemic encephalopathy of newborn,1,3,33.333300,27758,1.080000
+JENNINGS,2016,Unspecified threat to breathing,1,3,33.333300,27758,1.080000
+JENNINGS,2018,Sudden infant death syndrome,2,3,66.666600,27758,1.080000
+JENNINGS,2018,Congestive heart failure,1,3,33.333300,27758,1.080000
+JOHNSON,2010,Other preterm infants,1,6,16.666600,139654,0.420000
+JOHNSON,2010,Gastroschisis,1,6,16.666600,139654,0.420000
+JOHNSON,2010,"Bacterial sepsis of newborn, unspecified",1,6,16.666600,139654,0.420000
+JOHNSON,2010,Hypovolemic shock,1,6,16.666600,139654,0.420000
+JOHNSON,2010,"Edwards' syndrome, unspecified",1,6,16.666600,139654,0.420000
+JOHNSON,2010,Disorders of iron metabolism,1,6,16.666600,139654,0.420000
+JOHNSON,2011,Dilated cardiomyopathy,1,6,16.666600,141754,0.420000
+JOHNSON,2011,,1,6,16.666600,141754,0.420000
+JOHNSON,2011,"Lobulated, fused, and horseshoe kidney",1,6,16.666600,141754,0.420000
+JOHNSON,2011,"Congenital malformation of the heart, unspecified",1,6,16.666600,141754,0.420000
+JOHNSON,2011,"Stroke, not specified as hemorrhage or infarction",1,6,16.666600,141754,0.420000
+JOHNSON,2011,Atrioventricular septal defect,1,6,16.666600,141754,0.420000
+JOHNSON,2012,"Down's syndrome, unspecified",1,9,11.111100,143535,0.620000
+JOHNSON,2012,Interstitial emphysema originating in the perinatal period,1,9,11.111100,143535,0.620000
+JOHNSON,2012,Perinatal intestinal perforation,1,9,11.111100,143535,0.620000
+JOHNSON,2012,Accidental suffocation and strangulation in bed,1,9,11.111100,143535,0.620000
+JOHNSON,2012,"Patau's syndrome, unspecified",1,9,11.111100,143535,0.620000
+JOHNSON,2012,Holoprosencephaly,1,9,11.111100,143535,0.620000
+JOHNSON,2012,"Bacterial sepsis of newborn, unspecified",1,9,11.111100,143535,0.620000
+JOHNSON,2012,Other diseases of capillaries,1,9,11.111100,143535,0.620000
+JOHNSON,2012,"Spinal muscular atrophy, unspecified",1,9,11.111100,143535,0.620000
+JOHNSON,2013,Hydrops fetalis not due to hemolytic disease,1,1,100.000000,145634,0.060000
+JOHNSON,2014,Hypoplasia and dysplasia of lung,1,3,33.333300,147346,0.200000
+JOHNSON,2014,Accidental suffocation and strangulation in bed,1,3,33.333300,147346,0.200000
+JOHNSON,2014,Assault (homicide) by unspecified means,1,3,33.333300,147346,0.200000
+JOHNSON,2015,Assault (homicide) by unspecified means,3,7,42.857100,149338,0.460000
+JOHNSON,2015,"Encephalopathy, unspecified",1,7,14.285700,149338,0.460000
+JOHNSON,2015,"Other maltreatment syndromes, by unspecified person",1,7,14.285700,149338,0.460000
+JOHNSON,2015,Newborn affected by maternal injury,1,7,14.285700,149338,0.460000
+JOHNSON,2015,Accidental suffocation and strangulation in bed,1,7,14.285700,149338,0.460000
+JOHNSON,2016,"Spinal muscular atrophy, unspecified",1,5,20.000000,151982,0.320000
+JOHNSON,2016,"Patau's syndrome, unspecified",1,5,20.000000,151982,0.320000
+JOHNSON,2016,"Bacterial sepsis of newborn, unspecified",1,5,20.000000,151982,0.320000
+JOHNSON,2016,Congenital diaphragmatic hernia,1,5,20.000000,151982,0.320000
+JOHNSON,2016,Other viral infections of unspecified site,1,5,20.000000,151982,0.320000
+JOHNSON,2017,Gastroschisis,1,5,20.000000,151982,0.320000
+JOHNSON,2017,Hypoplastic left heart syndrome,1,5,20.000000,151982,0.320000
+JOHNSON,2017,Congenital diaphragmatic hernia,1,5,20.000000,151982,0.320000
+JOHNSON,2017,Respiratory distress syndrome of newborn,1,5,20.000000,151982,0.320000
+JOHNSON,2017,Congenital hypotonia,1,5,20.000000,151982,0.320000
+JOHNSON,2018,Other specified cerebrovascular diseases,1,4,25.000000,151982,0.260000
+JOHNSON,2018,Volvulus,1,4,25.000000,151982,0.260000
+JOHNSON,2018,"Congenital malformation of the heart, unspecified",1,4,25.000000,151982,0.260000
+JOHNSON,2018,"Bacterial sepsis of newborn, unspecified",1,4,25.000000,151982,0.260000
+KNOX,2010,Exposure to unspecified factor causing other and unspecified injury,1,2,50.000000,38440,0.520000
+KNOX,2010,Unspecified threat to breathing,1,2,50.000000,38440,0.520000
+KNOX,2012,Congenital cytomegalovirus infection,1,2,50.000000,38019,0.520000
+KNOX,2012,Congenital herpesviral [herpes simplex] infection,1,2,50.000000,38019,0.520000
+KNOX,2013,Unspecified threat to breathing,1,1,100.000000,38103,0.260000
+KNOX,2014,Sudden infant death syndrome,1,1,100.000000,38021,0.260000
+KNOX,2015,Sepsis of newborn due to other and unspecified streptococci,1,2,50.000000,37891,0.520000
+KNOX,2015,"Bacterial sepsis of newborn, unspecified",1,2,50.000000,37891,0.520000
+KNOX,2016,Accidental suffocation and strangulation in bed,2,2,100.000000,37744,0.520000
+KNOX,2017,Cystic fibrosis with other manifestations,1,3,33.333300,37744,0.790000
+KNOX,2017,"Birth asphyxia, unspecified",1,3,33.333300,37744,0.790000
+KNOX,2017,Necrotizing enterocolitis of newborn,1,3,33.333300,37744,0.790000
+KNOX,2018,Extreme immaturity,1,1,100.000000,37744,0.260000
+KOSCIUSKO,2010,Hypoplastic left heart syndrome,1,5,20.000000,77358,0.640000
+KOSCIUSKO,2010,Disseminated intravascular coagulation of newborn,1,5,20.000000,77358,0.640000
+KOSCIUSKO,2010,Congenital malformation syndromes predominantly involving limbs,1,5,20.000000,77358,0.640000
+KOSCIUSKO,2010,Congenital diaphragmatic hernia,1,5,20.000000,77358,0.640000
+KOSCIUSKO,2010,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,5,20.000000,77358,0.640000
+KOSCIUSKO,2011,Respiratory distress syndrome of newborn,1,6,16.666600,77359,0.770000
+KOSCIUSKO,2011,Double inlet ventricle,1,6,16.666600,77359,0.770000
+KOSCIUSKO,2011,"Congenital malformation of the heart, unspecified",1,6,16.666600,77359,0.770000
+KOSCIUSKO,2011,Newborn affected by other forms of placental separation and hemorrhage,1,6,16.666600,77359,0.770000
+KOSCIUSKO,2011,Sudden infant death syndrome,1,6,16.666600,77359,0.770000
+KOSCIUSKO,2011,Hypoplastic left heart syndrome,1,6,16.666600,77359,0.770000
+KOSCIUSKO,2012,Sudden infant death syndrome,1,4,25.000000,77731,0.510000
+KOSCIUSKO,2012,Hypoplastic left heart syndrome,1,4,25.000000,77731,0.510000
+KOSCIUSKO,2012,"Septicemia, unspecified",1,4,25.000000,77731,0.510000
+KOSCIUSKO,2012,Convulsions of newborn,1,4,25.000000,77731,0.510000
+KOSCIUSKO,2013,"Patau's syndrome, unspecified",1,4,25.000000,78050,0.510000
+KOSCIUSKO,2013,Sudden infant death syndrome,1,4,25.000000,78050,0.510000
+KOSCIUSKO,2013,"Other specified congenital malformation syndromes, not elsewhere classified",1,4,25.000000,78050,0.510000
+KOSCIUSKO,2013,Hypoplastic left heart syndrome,1,4,25.000000,78050,0.510000
+KOSCIUSKO,2014,"Edwards' syndrome, unspecified",2,5,40.000000,78619,0.630000
+KOSCIUSKO,2014,Unspecified threat to breathing,1,5,20.000000,78619,0.630000
+KOSCIUSKO,2014,"Septicemia, unspecified",1,5,20.000000,78619,0.630000
+KOSCIUSKO,2014,"Congenital malformation of the heart, unspecified",1,5,20.000000,78619,0.630000
+KOSCIUSKO,2015,"Cerebral infarction, unspecified",1,6,16.666600,78815,0.760000
+KOSCIUSKO,2015,Accidental suffocation and strangulation in bed,1,6,16.666600,78815,0.760000
+KOSCIUSKO,2015,"Edwards' syndrome, unspecified",1,6,16.666600,78815,0.760000
+KOSCIUSKO,2015,Other disorders of lung,1,6,16.666600,78815,0.760000
+KOSCIUSKO,2015,"Encephalocele, unspecified",1,6,16.666600,78815,0.760000
+KOSCIUSKO,2015,Neonatal aspiration of meconium,1,6,16.666600,78815,0.760000
+KOSCIUSKO,2016,Tetralogy of Fallot,1,5,20.000000,79092,0.630000
+KOSCIUSKO,2016,"Stroke, not specified as hemorrhage or infarction",1,5,20.000000,79092,0.630000
+KOSCIUSKO,2016,Chronic respiratory failure,1,5,20.000000,79092,0.630000
+KOSCIUSKO,2016,Sudden infant death syndrome,1,5,20.000000,79092,0.630000
+KOSCIUSKO,2016,Unspecified pulmonary hemorrhage originating in the perinatal period,1,5,20.000000,79092,0.630000
+KOSCIUSKO,2017,Inhalation and ingestion of food causing obstruction of respiratory tract,1,3,33.333300,79092,0.370000
+KOSCIUSKO,2017,Respiratory distress syndrome of newborn,1,3,33.333300,79092,0.370000
+KOSCIUSKO,2017,Sepsis of newborn due to other and unspecified streptococci,1,3,33.333300,79092,0.370000
+KOSCIUSKO,2018,"Septicemia due to streptococcus, group B",1,4,25.000000,79092,0.500000
+KOSCIUSKO,2018,Disorders of urea cycle metabolism,1,4,25.000000,79092,0.500000
+KOSCIUSKO,2018,Assault (homicide) by unspecified means,1,4,25.000000,79092,0.500000
+KOSCIUSKO,2018,Holoprosencephaly,1,4,25.000000,79092,0.500000
+LAGRANGE,2010,"Multiple congenital malformations, not elsewhere classified",1,6,16.666600,37128,1.610000
+LAGRANGE,2010,Necrotizing enterocolitis of newborn,1,6,16.666600,37128,1.610000
+LAGRANGE,2010,Unspecified renal failure,1,6,16.666600,37128,1.610000
+LAGRANGE,2010,"Bacterial sepsis of newborn, unspecified",1,6,16.666600,37128,1.610000
+LAGRANGE,2010,Neonatal cardiac failure,1,6,16.666600,37128,1.610000
+LAGRANGE,2010,Congenital diaphragmatic hernia,1,6,16.666600,37128,1.610000
+LAGRANGE,2011,Unspecified renal failure,1,1,100.000000,37497,0.260000
+LAGRANGE,2012,"Edwards' syndrome, unspecified",2,6,33.333300,37651,1.590000
+LAGRANGE,2012,Person injured in collision between other specified motor vehicles (traffic),1,6,16.666600,37651,1.590000
+LAGRANGE,2012,Sudden infant death syndrome,1,6,16.666600,37651,1.590000
+LAGRANGE,2012,Primary atelectasis of newborn,1,6,16.666600,37651,1.590000
+LAGRANGE,2012,Gastroesophageal reflux disease without esophagitis,1,6,16.666600,37651,1.590000
+LAGRANGE,2013,Other preterm infants,1,2,50.000000,38095,0.520000
+LAGRANGE,2013,Endocardial fibroelastosis,1,2,50.000000,38095,0.520000
+LAGRANGE,2014,Unspecified pulmonary hemorrhage originating in the perinatal period,1,2,50.000000,38450,0.520000
+LAGRANGE,2014,Sudden infant death syndrome,1,2,50.000000,38450,0.520000
+LAGRANGE,2015,Person injured in collision between other specified motor vehicles (traffic),1,3,33.333300,38671,0.770000
+LAGRANGE,2015,Unspecified brain damage due to birth injury,1,3,33.333300,38671,0.770000
+LAGRANGE,2015,Other congenital malformations of great veins,1,3,33.333300,38671,0.770000
+LAGRANGE,2017,Other preterm infants,1,3,33.333300,39110,0.760000
+LAGRANGE,2017,Extreme immaturity,1,3,33.333300,39110,0.760000
+LAGRANGE,2017,Hirschsprung's disease,1,3,33.333300,39110,0.760000
+LAGRANGE,2018,Persistent fetal circulation,1,3,33.333300,39110,0.760000
+LAGRANGE,2018,Accidental suffocation and strangulation in bed,1,3,33.333300,39110,0.760000
+LAGRANGE,2018,Hypoplasia and dysplasia of lung,1,3,33.333300,39110,0.760000
+LAKE,2010,,6,15,40.000000,496005,0.300000
+LAKE,2010,Newborn affected by other forms of placental separation and hemorrhage,1,15,6.666600,496005,0.300000
+LAKE,2010,Other specified congenital infectious and parasitic diseases,1,15,6.666600,496005,0.300000
+LAKE,2010,Other specified conditions originating in the perinatal period,1,15,6.666600,496005,0.300000
+LAKE,2010,Accidental suffocation and strangulation in bed,1,15,6.666600,496005,0.300000
+LAKE,2010,Congenital cerebral cysts,1,15,6.666600,496005,0.300000
+LAKE,2010,Other preterm infants,1,15,6.666600,496005,0.300000
+LAKE,2010,Common arterial trunk,1,15,6.666600,496005,0.300000
+LAKE,2010,Respiratory failure of newborn,1,15,6.666600,496005,0.300000
+LAKE,2010,"Other congenital anemias, not elsewhere classified",1,15,6.666600,496005,0.300000
+LAKE,2010,Gastroesophageal reflux disease without esophagitis,1,15,6.666600,496005,0.300000
+LAKE,2011,,5,28,17.857100,494729,0.560000
+LAKE,2011,Sudden infant death syndrome,3,28,10.714200,494729,0.560000
+LAKE,2011,Accidental suffocation and strangulation in bed,3,28,10.714200,494729,0.560000
+LAKE,2011,Newborn affected by multiple pregnancy,2,28,7.142800,494729,0.560000
+LAKE,2011,Unspecified threat to breathing,2,28,7.142800,494729,0.560000
+LAKE,2011,"Shock, unspecified",2,28,7.142800,494729,0.560000
+LAKE,2011,Pulmonary edema,2,28,7.142800,494729,0.560000
+LAKE,2011,Neonatal cardiac dysrhythmia,1,28,3.571400,494729,0.560000
+LAKE,2011,"Pneumonia, unspecified",1,28,3.571400,494729,0.560000
+LAKE,2011,"Cardiac arrest, unspecified",1,28,3.571400,494729,0.560000
+LAKE,2011,Assault (homicide) by unspecified means,1,28,3.571400,494729,0.560000
+LAKE,2011,"Bacterial sepsis of newborn, unspecified",1,28,3.571400,494729,0.560000
+LAKE,2011,Pneumothorax originating in the perinatal period,1,28,3.571400,494729,0.560000
+LAKE,2011,Extreme immaturity,1,28,3.571400,494729,0.560000
+LAKE,2011,"Patau's syndrome, unspecified",1,28,3.571400,494729,0.560000
+LAKE,2011,Inhalation of gastric contents,1,28,3.571400,494729,0.560000
+LAKE,2012,,6,31,19.354800,493071,0.620000
+LAKE,2012,"Shock, unspecified",3,31,9.677400,493071,0.620000
+LAKE,2012,Necrotizing enterocolitis of newborn,2,31,6.451600,493071,0.620000
+LAKE,2012,Other specified threats to breathing,2,31,6.451600,493071,0.620000
+LAKE,2012,"Bacterial sepsis of newborn, unspecified",2,31,6.451600,493071,0.620000
+LAKE,2012,"Interstitial pulmonary disease, unspecified",1,31,3.225800,493071,0.620000
+LAKE,2012,Exposure to unspecified factor causing other and unspecified injury,1,31,3.225800,493071,0.620000
+LAKE,2012,Adult respiratory distress syndrome,1,31,3.225800,493071,0.620000
+LAKE,2012,Persistent fetal circulation,1,31,3.225800,493071,0.620000
+LAKE,2012,Unspecified threat to breathing,1,31,3.225800,493071,0.620000
+LAKE,2012,Assault (homicide) by unspecified means,1,31,3.225800,493071,0.620000
+LAKE,2012,Volvulus,1,31,3.225800,493071,0.620000
+LAKE,2012,Other bacterial sepsis of newborn,1,31,3.225800,493071,0.620000
+LAKE,2012,Unspecified chronic respiratory disease originating in the perinatal period,1,31,3.225800,493071,0.620000
+LAKE,2012,Accidental suffocation and strangulation in bed,1,31,3.225800,493071,0.620000
+LAKE,2012,Other and unspecified gastroenteritis and colitis of infectious origin,1,31,3.225800,493071,0.620000
+LAKE,2012,Other pulmonary hemorrhages originating in the perinatal period,1,31,3.225800,493071,0.620000
+LAKE,2012,"Cardiac arrest, unspecified",1,31,3.225800,493071,0.620000
+LAKE,2012,"Acute bronchitis, unspecified",1,31,3.225800,493071,0.620000
+LAKE,2012,"Acute myocarditis, unspecified",1,31,3.225800,493071,0.620000
+LAKE,2012,Primary atelectasis of newborn,1,31,3.225800,493071,0.620000
+LAKE,2013,,4,28,14.285700,491354,0.560000
+LAKE,2013,Accidental suffocation and strangulation in bed,4,28,14.285700,491354,0.560000
+LAKE,2013,Hydrops fetalis not due to hemolytic disease,2,28,7.142800,491354,0.560000
+LAKE,2013,Other ill-defined and unspecified causes of mortality,2,28,7.142800,491354,0.560000
+LAKE,2013,Extreme immaturity,2,28,7.142800,491354,0.560000
+LAKE,2013,Unspecified threat to breathing,2,28,7.142800,491354,0.560000
+LAKE,2013,Assault (homicide) by unspecified means,1,28,3.571400,491354,0.560000
+LAKE,2013,"Acute renal failure, unspecified",1,28,3.571400,491354,0.560000
+LAKE,2013,Other specified congenital malformations of intestine,1,28,3.571400,491354,0.560000
+LAKE,2013,Congenital pneumonia due to other bacterial agents,1,28,3.571400,491354,0.560000
+LAKE,2013,Convulsions of newborn,1,28,3.571400,491354,0.560000
+LAKE,2013,"Bronchopneumonia, unspecified",1,28,3.571400,491354,0.560000
+LAKE,2013,"Respiratory condition of newborn, unspecified",1,28,3.571400,491354,0.560000
+LAKE,2013,Unspecified chronic respiratory disease originating in the perinatal period,1,28,3.571400,491354,0.560000
+LAKE,2013,Congenital diaphragmatic hernia,1,28,3.571400,491354,0.560000
+LAKE,2013,Other congenital malformations of cardiac chambers and connections,1,28,3.571400,491354,0.560000
+LAKE,2013,"Bacterial sepsis of newborn, unspecified",1,28,3.571400,491354,0.560000
+LAKE,2013,Thanatophoric short stature,1,28,3.571400,491354,0.560000
+LAKE,2013,"Interstitial pulmonary disease, unspecified",1,28,3.571400,491354,0.560000
+LAKE,2014,Other preterm infants,2,21,9.523800,490572,0.420000
+LAKE,2014,Accidental suffocation and strangulation in bed,2,21,9.523800,490572,0.420000
+LAKE,2014,"Respiratory distress of newborn, unspecified",1,21,4.761900,490572,0.420000
+LAKE,2014,"Interstitial pulmonary disease, unspecified",1,21,4.761900,490572,0.420000
+LAKE,2014,"Bacterial sepsis of newborn, unspecified",1,21,4.761900,490572,0.420000
+LAKE,2014,Anemia of prematurity,1,21,4.761900,490572,0.420000
+LAKE,2014,Neonatal candidiasis,1,21,4.761900,490572,0.420000
+LAKE,2014,Congenital myopathies,1,21,4.761900,490572,0.420000
+LAKE,2014,Unspecified pulmonary hemorrhage originating in the perinatal period,1,21,4.761900,490572,0.420000
+LAKE,2014,"Cardiac murmur, unspecified",1,21,4.761900,490572,0.420000
+LAKE,2014,Neonatal cardiac failure,1,21,4.761900,490572,0.420000
+LAKE,2014,"Acute upper respiratory infection, unspecified",1,21,4.761900,490572,0.420000
+LAKE,2014,"Viral infection, unspecified",1,21,4.761900,490572,0.420000
+LAKE,2014,"Malignant neoplasm of liver, unspecified",1,21,4.761900,490572,0.420000
+LAKE,2014,Persistent fetal circulation,1,21,4.761900,490572,0.420000
+LAKE,2014,Interstitial emphysema originating in the perinatal period,1,21,4.761900,490572,0.420000
+LAKE,2014,Other ill-defined and unspecified causes of mortality,1,21,4.761900,490572,0.420000
+LAKE,2014,Sudden infant death syndrome,1,21,4.761900,490572,0.420000
+LAKE,2014,Accidental poisoning by and exposure to other gases and vapors,1,21,4.761900,490572,0.420000
+LAKE,2014,Unspecified threat to breathing,1,21,4.761900,490572,0.420000
+LAKE,2015,"Bacterial sepsis of newborn, unspecified",2,23,8.695600,487649,0.470000
+LAKE,2015,Necrotizing enterocolitis of newborn,2,23,8.695600,487649,0.470000
+LAKE,2015,Unspecified threat to breathing,1,23,4.347800,487649,0.470000
+LAKE,2015,Neonatal cardiac dysrhythmia,1,23,4.347800,487649,0.470000
+LAKE,2015,Perinatal intestinal perforation,1,23,4.347800,487649,0.470000
+LAKE,2015,Accidental suffocation and strangulation in bed,1,23,4.347800,487649,0.470000
+LAKE,2015,,1,23,4.347800,487649,0.470000
+LAKE,2015,Persistent fetal circulation,1,23,4.347800,487649,0.470000
+LAKE,2015,Other and unspecified gastroenteritis and colitis of infectious origin,1,23,4.347800,487649,0.470000
+LAKE,2015,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",1,23,4.347800,487649,0.470000
+LAKE,2015,"Septicemia, unspecified",1,23,4.347800,487649,0.470000
+LAKE,2015,Respiratory distress syndrome of newborn,1,23,4.347800,487649,0.470000
+LAKE,2015,Intracerebral (nontraumatic) hemorrhage of newborn,1,23,4.347800,487649,0.470000
+LAKE,2015,Sudden infant death syndrome,1,23,4.347800,487649,0.470000
+LAKE,2015,"Intrauterine hypoxia, unspecified",1,23,4.347800,487649,0.470000
+LAKE,2015,"Viral infection, unspecified",1,23,4.347800,487649,0.470000
+LAKE,2015,"Viral pneumonia, unspecified",1,23,4.347800,487649,0.470000
+LAKE,2015,Congenital pneumonia due to viral agent,1,23,4.347800,487649,0.470000
+LAKE,2015,"Other specified congenital malformation syndromes, not elsewhere classified",1,23,4.347800,487649,0.470000
+LAKE,2015,Other specified conditions originating in the perinatal period,1,23,4.347800,487649,0.470000
+LAKE,2015,Primary atelectasis of newborn,1,23,4.347800,487649,0.470000
+LAKE,2016,Accidental suffocation and strangulation in bed,4,16,25.000000,485846,0.320000
+LAKE,2016,Unspecified threat to breathing,3,16,18.750000,485846,0.320000
+LAKE,2016,Unspecified severe protein-energy malnutrition,1,16,6.250000,485846,0.320000
+LAKE,2016,"Edwards' syndrome, unspecified",1,16,6.250000,485846,0.320000
+LAKE,2016,"Slow fetal growth, unspecified",1,16,6.250000,485846,0.320000
+LAKE,2016,"Multiple congenital malformations, not elsewhere classified",1,16,6.250000,485846,0.320000
+LAKE,2016,"Cardiovascular disorder originating in the perinatal period, unspecified",1,16,6.250000,485846,0.320000
+LAKE,2016,Unspecified pulmonary hemorrhage originating in the perinatal period,1,16,6.250000,485846,0.320000
+LAKE,2016,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,16,6.250000,485846,0.320000
+LAKE,2016,Primary atelectasis of newborn,1,16,6.250000,485846,0.320000
+LAKE,2016,Communicating hydrocephalus,1,16,6.250000,485846,0.320000
+LAKE,2017,"Bacterial sepsis of newborn, unspecified",3,20,15.000000,485846,0.410000
+LAKE,2017,Accidental suffocation and strangulation in bed,3,20,15.000000,485846,0.410000
+LAKE,2017,Unspecified threat to breathing,2,20,10.000000,485846,0.410000
+LAKE,2017,Other ill-defined and unspecified causes of mortality,2,20,10.000000,485846,0.410000
+LAKE,2017,Sudden infant death syndrome,2,20,10.000000,485846,0.410000
+LAKE,2017,Extreme immaturity,1,20,5.000000,485846,0.410000
+LAKE,2017,"Patau's syndrome, unspecified",1,20,5.000000,485846,0.410000
+LAKE,2017,Waterhouse-Friderichsen syndrome,1,20,5.000000,485846,0.410000
+LAKE,2017,"Viral pneumonia, unspecified",1,20,5.000000,485846,0.410000
+LAKE,2017,"Blind loop syndrome, not elsewhere classified",1,20,5.000000,485846,0.410000
+LAKE,2017,Stenosis of pulmonary artery,1,20,5.000000,485846,0.410000
+LAKE,2017,Necrotizing enterocolitis of newborn,1,20,5.000000,485846,0.410000
+LAKE,2017,Double inlet ventricle,1,20,5.000000,485846,0.410000
+LAKE,2018,Sudden infant death syndrome,4,12,33.333300,485846,0.240000
+LAKE,2018,"Intraventricular (nontraumatic) hemorrhage, grade 3, of newborn",1,12,8.333300,485846,0.240000
+LAKE,2018,Hypoplastic left heart syndrome,1,12,8.333300,485846,0.240000
+LAKE,2018,"Respiratory distress of newborn, unspecified",1,12,8.333300,485846,0.240000
+LAKE,2018,Assault (homicide) by unspecified means,1,12,8.333300,485846,0.240000
+LAKE,2018,Unspecified threat to breathing,1,12,8.333300,485846,0.240000
+LAKE,2018,Other ill-defined and unspecified causes of mortality,1,12,8.333300,485846,0.240000
+LAKE,2018,"Neglect and abandonment, by unspecified person",1,12,8.333300,485846,0.240000
+LAKE,2018,"Congenital malformation of the heart, unspecified",1,12,8.333300,485846,0.240000
+LAPORTE,2010,Accidental suffocation and strangulation in bed,2,13,15.384600,111467,1.160000
+LAPORTE,2010,"Edwards' syndrome, unspecified",2,13,15.384600,111467,1.160000
+LAPORTE,2010,Respiratory distress syndrome of newborn,2,13,15.384600,111467,1.160000
+LAPORTE,2010,Necrotizing enterocolitis of newborn,1,13,7.692300,111467,1.160000
+LAPORTE,2010,"Cystic kidney disease, unspecified",1,13,7.692300,111467,1.160000
+LAPORTE,2010,Patent ductus arteriosus,1,13,7.692300,111467,1.160000
+LAPORTE,2010,"Congenital malformation of the heart, unspecified",1,13,7.692300,111467,1.160000
+LAPORTE,2010,"Neonatal aspiration syndrome, unspecified",1,13,7.692300,111467,1.160000
+LAPORTE,2010,Extreme immaturity,1,13,7.692300,111467,1.160000
+LAPORTE,2010,Other specified threats to breathing,1,13,7.692300,111467,1.160000
+LAPORTE,2011,,2,7,28.571400,111202,0.620000
+LAPORTE,2011,Unspecified threat to breathing,1,7,14.285700,111202,0.620000
+LAPORTE,2011,Unspecified pulmonary hemorrhage originating in the perinatal period,1,7,14.285700,111202,0.620000
+LAPORTE,2011,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,7,14.285700,111202,0.620000
+LAPORTE,2011,Extreme immaturity,1,7,14.285700,111202,0.620000
+LAPORTE,2011,"Hypotension, unspecified",1,7,14.285700,111202,0.620000
+LAPORTE,2012,Sudden infant death syndrome,3,10,30.000000,111201,0.890000
+LAPORTE,2012,Necrotizing enterocolitis of newborn,1,10,10.000000,111201,0.890000
+LAPORTE,2012,Accidental suffocation and strangulation in bed,1,10,10.000000,111201,0.890000
+LAPORTE,2012,Perforation of intestine (nontraumatic),1,10,10.000000,111201,0.890000
+LAPORTE,2012,Other ill-defined and unspecified causes of mortality,1,10,10.000000,111201,0.890000
+LAPORTE,2012,,1,10,10.000000,111201,0.890000
+LAPORTE,2012,"Disorder of kidney and ureter, unspecified",1,10,10.000000,111201,0.890000
+LAPORTE,2012,"Congenital pneumonia, unspecified",1,10,10.000000,111201,0.890000
+LAPORTE,2013,Accidental suffocation and strangulation in bed,1,2,50.000000,111323,0.170000
+LAPORTE,2013,Ventricular septal defect,1,2,50.000000,111323,0.170000
+LAPORTE,2014,Hydrops fetalis not due to hemolytic disease,1,6,16.666600,111665,0.530000
+LAPORTE,2014,"Patau's syndrome, unspecified",1,6,16.666600,111665,0.530000
+LAPORTE,2014,Other preterm infants,1,6,16.666600,111665,0.530000
+LAPORTE,2014,Other reduction deformities of brain,1,6,16.666600,111665,0.530000
+LAPORTE,2014,"Parvovirus infection, unspecified",1,6,16.666600,111665,0.530000
+LAPORTE,2014,"Other congenital anemias, not elsewhere classified",1,6,16.666600,111665,0.530000
+LAPORTE,2015,Sudden infant death syndrome,1,7,14.285700,110762,0.630000
+LAPORTE,2015,Accidental suffocation and strangulation in bed,1,7,14.285700,110762,0.630000
+LAPORTE,2015,Hypoplasia and dysplasia of lung,1,7,14.285700,110762,0.630000
+LAPORTE,2015,"Congenital malformation, unspecified",1,7,14.285700,110762,0.630000
+LAPORTE,2015,"Congenital malformation of the heart, unspecified",1,7,14.285700,110762,0.630000
+LAPORTE,2015,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,7,14.285700,110762,0.630000
+LAPORTE,2015,"Neonatal hemorrhage, unspecified",1,7,14.285700,110762,0.630000
+LAPORTE,2016,"Edwards' syndrome, unspecified",1,7,14.285700,110015,0.630000
+LAPORTE,2016,Newborn affected by other forms of placental separation and hemorrhage,1,7,14.285700,110015,0.630000
+LAPORTE,2016,"Congenital hydrocephalus, unspecified",1,7,14.285700,110015,0.630000
+LAPORTE,2016,"Interstitial pulmonary disease, unspecified",1,7,14.285700,110015,0.630000
+LAPORTE,2016,Sudden infant death syndrome,1,7,14.285700,110015,0.630000
+LAPORTE,2016,"Abnormal reaction, surgical operation with formation of external stoma",1,7,14.285700,110015,0.630000
+LAPORTE,2016,"Cardiac arrhythmia, unspecified",1,7,14.285700,110015,0.630000
+LAPORTE,2017,"Interstitial pulmonary disease, unspecified",1,1,100.000000,110015,0.090000
+LAPORTE,2018,"Bacterial sepsis of newborn, unspecified",2,7,28.571400,110015,0.630000
+LAPORTE,2018,"Congenital malformation, unspecified",1,7,14.285700,110015,0.630000
+LAPORTE,2018,Intracranial and intraspinal phlebitis and thrombophlebitis,1,7,14.285700,110015,0.630000
+LAPORTE,2018,Accidental suffocation and strangulation in bed,1,7,14.285700,110015,0.630000
+LAPORTE,2018,Unspecified threat to breathing,1,7,14.285700,110015,0.630000
+LAPORTE,2018,"Edwards' syndrome, unspecified",1,7,14.285700,110015,0.630000
+LAWRENCE,2010,Other and unspecified abnormalities of breathing,1,4,25.000000,46134,0.860000
+LAWRENCE,2010,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,4,25.000000,46134,0.860000
+LAWRENCE,2010,Sudden infant death syndrome,1,4,25.000000,46134,0.860000
+LAWRENCE,2010,"Edwards' syndrome, unspecified",1,4,25.000000,46134,0.860000
+LAWRENCE,2011,Sudden infant death syndrome,1,1,100.000000,46086,0.210000
+LAWRENCE,2012,Interstitial emphysema originating in the perinatal period,1,2,50.000000,46032,0.430000
+LAWRENCE,2012,"Congenital malformation of the heart, unspecified",1,2,50.000000,46032,0.430000
+LAWRENCE,2013,Sudden infant death syndrome,1,1,100.000000,45835,0.210000
+LAWRENCE,2014,"Intracerebral hemorrhage, unspecified",1,2,50.000000,45611,0.430000
+LAWRENCE,2014,Sudden infant death syndrome,1,2,50.000000,45611,0.430000
+LAWRENCE,2015,"Hanging, strangulation, and suffocation, undetermined intent",1,1,100.000000,45485,0.210000
+LAWRENCE,2016,"Congenital malformation of the heart, unspecified",1,2,50.000000,45518,0.430000
+LAWRENCE,2016,Sepsis of newborn due to Escherichia coli,1,2,50.000000,45518,0.430000
+LAWRENCE,2017,"Congenital malformation of the heart, unspecified",1,1,100.000000,45518,0.210000
+LAWRENCE,2018,Hypoxic ischemic encephalopathy of newborn,1,4,25.000000,45518,0.870000
+LAWRENCE,2018,Holoprosencephaly,1,4,25.000000,45518,0.870000
+LAWRENCE,2018,"Hanging, strangulation, and suffocation, undetermined intent",1,4,25.000000,45518,0.870000
+LAWRENCE,2018,"Neonatal hemorrhage, unspecified",1,4,25.000000,45518,0.870000
+MADISON,2010,"Respiratory disorder, unspecified",1,6,16.666600,131636,0.450000
+MADISON,2010,Other preterm infants,1,6,16.666600,131636,0.450000
+MADISON,2010,"Septicemia due to streptococcus, group D",1,6,16.666600,131636,0.450000
+MADISON,2010,Sudden infant death syndrome,1,6,16.666600,131636,0.450000
+MADISON,2010,Congenital insufficiency of aortic valve,1,6,16.666600,131636,0.450000
+MADISON,2010,Other and unspecified gastroenteritis and colitis of infectious origin,1,6,16.666600,131636,0.450000
+MADISON,2011,Sudden infant death syndrome,2,9,22.222200,131015,0.680000
+MADISON,2011,Extreme immaturity,1,9,11.111100,131015,0.680000
+MADISON,2011,"Acute bronchitis, unspecified",1,9,11.111100,131015,0.680000
+MADISON,2011,Atherosclerotic heart disease,1,9,11.111100,131015,0.680000
+MADISON,2011,Fall involving bed,1,9,11.111100,131015,0.680000
+MADISON,2011,Necrotizing enterocolitis of newborn,1,9,11.111100,131015,0.680000
+MADISON,2011,,1,9,11.111100,131015,0.680000
+MADISON,2011,Other disorders of lung,1,9,11.111100,131015,0.680000
+MADISON,2012,Sudden infant death syndrome,2,2,100.000000,130243,0.150000
+MADISON,2013,Sudden infant death syndrome,4,14,28.571400,130388,1.070000
+MADISON,2013,Severe birth asphyxia,1,14,7.142800,130388,1.070000
+MADISON,2013,Congenital malformation syndromes predominantly associated with short stature,1,14,7.142800,130388,1.070000
+MADISON,2013,Respiratory distress syndrome of newborn,1,14,7.142800,130388,1.070000
+MADISON,2013,Extreme immaturity,1,14,7.142800,130388,1.070000
+MADISON,2013,"Edwards' syndrome, unspecified",1,14,7.142800,130388,1.070000
+MADISON,2013,Other specified congenital malformations of brain,1,14,7.142800,130388,1.070000
+MADISON,2013,Hydrops fetalis not due to hemolytic disease,1,14,7.142800,130388,1.070000
+MADISON,2013,Other preterm infants,1,14,7.142800,130388,1.070000
+MADISON,2013,Hypoplastic left heart syndrome,1,14,7.142800,130388,1.070000
+MADISON,2013,"Bacterial sepsis of newborn, unspecified",1,14,7.142800,130388,1.070000
+MADISON,2014,Extreme immaturity,2,6,33.333300,129886,0.460000
+MADISON,2014,Accidental suffocation and strangulation in bed,2,6,33.333300,129886,0.460000
+MADISON,2014,Sudden infant death syndrome,1,6,16.666600,129886,0.460000
+MADISON,2014,Discordant ventriculoarterial connection,1,6,16.666600,129886,0.460000
+MADISON,2015,Necrotizing enterocolitis of newborn,1,5,20.000000,129495,0.380000
+MADISON,2015,Primary atelectasis of newborn,1,5,20.000000,129495,0.380000
+MADISON,2015,Common arterial trunk,1,5,20.000000,129495,0.380000
+MADISON,2015,Other specified cerebrovascular diseases,1,5,20.000000,129495,0.380000
+MADISON,2015,"Disorder involving the immune mechanism, unspecified",1,5,20.000000,129495,0.380000
+MADISON,2016,"Congenital malformation of the heart, unspecified",1,8,12.500000,129296,0.610000
+MADISON,2016,Sudden infant death syndrome,1,8,12.500000,129296,0.610000
+MADISON,2016,Accidental suffocation and strangulation in bed,1,8,12.500000,129296,0.610000
+MADISON,2016,Necrotizing enterocolitis of newborn,1,8,12.500000,129296,0.610000
+MADISON,2016,Hypoxic ischemic encephalopathy of newborn,1,8,12.500000,129296,0.610000
+MADISON,2016,"Pneumonia, unspecified",1,8,12.500000,129296,0.610000
+MADISON,2016,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,8,12.500000,129296,0.610000
+MADISON,2016,Obstructive hydrocephalus,1,8,12.500000,129296,0.610000
+MADISON,2017,Sudden infant death syndrome,2,5,40.000000,129296,0.380000
+MADISON,2017,"Patau's syndrome, unspecified",1,5,20.000000,129296,0.380000
+MADISON,2017,Myotonic disorders,1,5,20.000000,129296,0.380000
+MADISON,2017,,1,5,20.000000,129296,0.380000
+MADISON,2018,Primary atelectasis of newborn,1,7,14.285700,129296,0.540000
+MADISON,2018,,1,7,14.285700,129296,0.540000
+MADISON,2018,"Acute renal failure, unspecified",1,7,14.285700,129296,0.540000
+MADISON,2018,Necrotizing enterocolitis of newborn,1,7,14.285700,129296,0.540000
+MADISON,2018,Atrioventricular septal defect,1,7,14.285700,129296,0.540000
+MADISON,2018,"Assault (homicide) by drugs, medicaments, and biological substances",1,7,14.285700,129296,0.540000
+MADISON,2018,Sudden infant death syndrome,1,7,14.285700,129296,0.540000
+MARION,2010,Accidental suffocation and strangulation in bed,5,56,8.928500,903393,0.610000
+MARION,2010,Extreme immaturity,3,56,5.357100,903393,0.610000
+MARION,2010,Unspecified threat to breathing,3,56,5.357100,903393,0.610000
+MARION,2010,"Congenital malformation of the heart, unspecified",3,56,5.357100,903393,0.610000
+MARION,2010,"Bacterial sepsis of newborn, unspecified",3,56,5.357100,903393,0.610000
+MARION,2010,Hypoxic ischemic encephalopathy of newborn,2,56,3.571400,903393,0.610000
+MARION,2010,Gastroenteritis and colitis of unspecified origin,1,56,1.785700,903393,0.610000
+MARION,2010,Sudden infant death syndrome,1,56,1.785700,903393,0.610000
+MARION,2010,"Other maltreatment syndromes, by other specified persons",1,56,1.785700,903393,0.610000
+MARION,2010,Persistent fetal circulation,1,56,1.785700,903393,0.610000
+MARION,2010,Unspecified renal failure,1,56,1.785700,903393,0.610000
+MARION,2010,Motor neuron disease,1,56,1.785700,903393,0.610000
+MARION,2010,Neonatal aspiration of meconium,1,56,1.785700,903393,0.610000
+MARION,2010,"Patau's syndrome, unspecified",1,56,1.785700,903393,0.610000
+MARION,2010,Newborn affected by other forms of placental separation and hemorrhage,1,56,1.785700,903393,0.610000
+MARION,2010,Sepsis of newborn due to other and unspecified streptococci,1,56,1.785700,903393,0.610000
+MARION,2010,Anencephaly,1,56,1.785700,903393,0.610000
+MARION,2010,Other disorders of lung,1,56,1.785700,903393,0.610000
+MARION,2010,Other and unspecified gastroenteritis and colitis of infectious origin,1,56,1.785700,903393,0.610000
+MARION,2010,"Lobar pneumonia, unspecified",1,56,1.785700,903393,0.610000
+MARION,2010,Congenital malformation syndromes predominantly affecting facial appearance,1,56,1.785700,903393,0.610000
+MARION,2010,Interstitial emphysema originating in the perinatal period,1,56,1.785700,903393,0.610000
+MARION,2010,Glycogen storage disease,1,56,1.785700,903393,0.610000
+MARION,2010,"Vascular disorder of intestine, unspecified",1,56,1.785700,903393,0.610000
+MARION,2010,Other specified congenital malformations of heart,1,56,1.785700,903393,0.610000
+MARION,2010,Neonatal cardiac failure,1,56,1.785700,903393,0.610000
+MARION,2010,,1,56,1.785700,903393,0.610000
+MARION,2010,Unspecified chronic respiratory disease originating in the perinatal period,1,56,1.785700,903393,0.610000
+MARION,2010,Other specified conditions originating in the perinatal period,1,56,1.785700,903393,0.610000
+MARION,2010,Congenital cytomegalovirus infection,1,56,1.785700,903393,0.610000
+MARION,2010,"Encephalocele, unspecified",1,56,1.785700,903393,0.610000
+MARION,2010,"Interstitial pulmonary disease, unspecified",1,56,1.785700,903393,0.610000
+MARION,2010,"Malignant neoplasm of adrenal gland, unspecified",1,56,1.785700,903393,0.610000
+MARION,2010,Respiratory distress syndrome of newborn,1,56,1.785700,903393,0.610000
+MARION,2010,Necrotizing enterocolitis of newborn,1,56,1.785700,903393,0.610000
+MARION,2010,Hypoplastic left heart syndrome,1,56,1.785700,903393,0.610000
+MARION,2010,Unspecified pulmonary hemorrhage originating in the perinatal period,1,56,1.785700,903393,0.610000
+MARION,2010,"Coagulation defect, unspecified",1,56,1.785700,903393,0.610000
+MARION,2010,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,56,1.785700,903393,0.610000
+MARION,2010,"Polycystic kidney, unspecified",1,56,1.785700,903393,0.610000
+MARION,2010,Perinatal intestinal perforation,1,56,1.785700,903393,0.610000
+MARION,2010,Other reduction deformities of brain,1,56,1.785700,903393,0.610000
+MARION,2010,Other viral infections of unspecified site,1,56,1.785700,903393,0.610000
+MARION,2011,Sudden infant death syndrome,5,72,6.944400,910861,0.790000
+MARION,2011,"Bacterial sepsis of newborn, unspecified",4,72,5.555500,910861,0.790000
+MARION,2011,"Pneumonia, unspecified",3,72,4.166600,910861,0.790000
+MARION,2011,Assault (homicide) by unspecified means,3,72,4.166600,910861,0.790000
+MARION,2011,"Edwards' syndrome, unspecified",2,72,2.777700,910861,0.790000
+MARION,2011,Extreme immaturity,2,72,2.777700,910861,0.790000
+MARION,2011,"Interstitial pulmonary disease, unspecified",2,72,2.777700,910861,0.790000
+MARION,2011,"Congenital malformation of the heart, unspecified",2,72,2.777700,910861,0.790000
+MARION,2011,Respiratory distress syndrome of newborn,2,72,2.777700,910861,0.790000
+MARION,2011,Accidental suffocation and strangulation in bed,2,72,2.777700,910861,0.790000
+MARION,2011,Necrotizing enterocolitis of newborn,2,72,2.777700,910861,0.790000
+MARION,2011,Perinatal intestinal perforation,1,72,1.388800,910861,0.790000
+MARION,2011,Hypoplastic left heart syndrome,1,72,1.388800,910861,0.790000
+MARION,2011,"Other maltreatment syndromes, by unspecified person",1,72,1.388800,910861,0.790000
+MARION,2011,Septicemia due to other Gram?negative organisms,1,72,1.388800,910861,0.790000
+MARION,2011,Acute peritonitis,1,72,1.388800,910861,0.790000
+MARION,2011,Other preterm infants,1,72,1.388800,910861,0.790000
+MARION,2011,,1,72,1.388800,910861,0.790000
+MARION,2011,"Bronchitis, not specified as acute or chronic",1,72,1.388800,910861,0.790000
+MARION,2011,"Bacterial infection, unspecified",1,72,1.388800,910861,0.790000
+MARION,2011,Pneumothorax originating in the perinatal period,1,72,1.388800,910861,0.790000
+MARION,2011,Discordant ventriculoarterial connection,1,72,1.388800,910861,0.790000
+MARION,2011,Perforation of intestine (nontraumatic),1,72,1.388800,910861,0.790000
+MARION,2011,Tetralogy of Fallot,1,72,1.388800,910861,0.790000
+MARION,2011,Acute tracheitis,1,72,1.388800,910861,0.790000
+MARION,2011,Bronchopulmonary dysplasia originating in the perinatal period,1,72,1.388800,910861,0.790000
+MARION,2011,"Pneumothorax, unspecified",1,72,1.388800,910861,0.790000
+MARION,2011,"Indeterminate sex, unspecified",1,72,1.388800,910861,0.790000
+MARION,2011,Exposure to uncontrolled fire in building or structure,1,72,1.388800,910861,0.790000
+MARION,2011,"Myoneural disorder, unspecified",1,72,1.388800,910861,0.790000
+MARION,2011,"Condition originating in the perinatal period, unspecified",1,72,1.388800,910861,0.790000
+MARION,2011,Assault (homicide) by other specified chemicals and noxious substances,1,72,1.388800,910861,0.790000
+MARION,2011,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,72,1.388800,910861,0.790000
+MARION,2011,Neonatal cardiac failure,1,72,1.388800,910861,0.790000
+MARION,2011,Newborn affected by incompetent cervix,1,72,1.388800,910861,0.790000
+MARION,2011,Cerebral infarction due to embolism of cerebral arteries,1,72,1.388800,910861,0.790000
+MARION,2011,Unspecified pulmonary hemorrhage originating in the perinatal period,1,72,1.388800,910861,0.790000
+MARION,2011,Malformation of coronary vessels,1,72,1.388800,910861,0.790000
+MARION,2011,Primary atelectasis of newborn,1,72,1.388800,910861,0.790000
+MARION,2011,"Intrauterine hypoxia, unspecified",1,72,1.388800,910861,0.790000
+MARION,2011,"Multiple congenital malformations, not elsewhere classified",1,72,1.388800,910861,0.790000
+MARION,2011,"Bronchopneumonia, unspecified",1,72,1.388800,910861,0.790000
+MARION,2011,"Patau's syndrome, unspecified",1,72,1.388800,910861,0.790000
+MARION,2011,Prune belly syndrome,1,72,1.388800,910861,0.790000
+MARION,2011,Hypoxic ischemic encephalopathy of newborn,1,72,1.388800,910861,0.790000
+MARION,2011,"Congenital malformation of brain, unspecified",1,72,1.388800,910861,0.790000
+MARION,2011,Other specified congenital malformations of heart,1,72,1.388800,910861,0.790000
+MARION,2011,Other specified diseases of liver,1,72,1.388800,910861,0.790000
+MARION,2011,"Acute endocarditis, unspecified",1,72,1.388800,910861,0.790000
+MARION,2011,"Lobar pneumonia, unspecified",1,72,1.388800,910861,0.790000
+MARION,2011,Unspecified threat to breathing,1,72,1.388800,910861,0.790000
+MARION,2011,Other hypertrophic cardiomyopathy,1,72,1.388800,910861,0.790000
+MARION,2011,Congenital stenosis of aortic valve,1,72,1.388800,910861,0.790000
+MARION,2011,"Birth asphyxia, unspecified",1,72,1.388800,910861,0.790000
+MARION,2012,"Bacterial sepsis of newborn, unspecified",5,51,9.803900,918692,0.550000
+MARION,2012,Accidental suffocation and strangulation in bed,4,51,7.843100,918692,0.550000
+MARION,2012,Unspecified threat to breathing,3,51,5.882300,918692,0.550000
+MARION,2012,Congenital herpesviral [herpes simplex] infection,3,51,5.882300,918692,0.550000
+MARION,2012,Respiratory distress syndrome of newborn,3,51,5.882300,918692,0.550000
+MARION,2012,Sudden infant death syndrome,3,51,5.882300,918692,0.550000
+MARION,2012,"Edwards' syndrome, unspecified",2,51,3.921500,918692,0.550000
+MARION,2012,Other and unspecified gastroenteritis and colitis of infectious origin,2,51,3.921500,918692,0.550000
+MARION,2012,Other disorders of lung,2,51,3.921500,918692,0.550000
+MARION,2012,"Metabolic disorder, unspecified",1,51,1.960700,918692,0.550000
+MARION,2012,"Multiple congenital malformations, not elsewhere classified",1,51,1.960700,918692,0.550000
+MARION,2012,"Intracranial (nontraumatic) hemorrhage of newborn, unspecified",1,51,1.960700,918692,0.550000
+MARION,2012,Hemorrhage from other sites in respiratory passages,1,51,1.960700,918692,0.550000
+MARION,2012,"Encephalocele, unspecified",1,51,1.960700,918692,0.550000
+MARION,2012,"Osteochondrodysplasia, unspecified",1,51,1.960700,918692,0.550000
+MARION,2012,Bronchopulmonary dysplasia originating in the perinatal period,1,51,1.960700,918692,0.550000
+MARION,2012,Other apnea of newborn,1,51,1.960700,918692,0.550000
+MARION,2012,Hypoxic ischemic encephalopathy of newborn,1,51,1.960700,918692,0.550000
+MARION,2012,"Staphylococcal infection, unspecified",1,51,1.960700,918692,0.550000
+MARION,2012,"Septicemia, unspecified",1,51,1.960700,918692,0.550000
+MARION,2012,"Acute bronchiolitis, unspecified",1,51,1.960700,918692,0.550000
+MARION,2012,Common arterial trunk,1,51,1.960700,918692,0.550000
+MARION,2012,Other ill-defined and unspecified causes of mortality,1,51,1.960700,918692,0.550000
+MARION,2012,Newborn affected by other forms of placental separation and hemorrhage,1,51,1.960700,918692,0.550000
+MARION,2012,Other secondary pulmonary hypertension,1,51,1.960700,918692,0.550000
+MARION,2012,"Hemangioma, any site",1,51,1.960700,918692,0.550000
+MARION,2012,"Neglect and abandonment, by unspecified person",1,51,1.960700,918692,0.550000
+MARION,2012,Anencephaly,1,51,1.960700,918692,0.550000
+MARION,2012,Pneumothorax originating in the perinatal period,1,51,1.960700,918692,0.550000
+MARION,2012,Primary atelectasis of newborn,1,51,1.960700,918692,0.550000
+MARION,2012,Other specified congenital malformations of heart,1,51,1.960700,918692,0.550000
+MARION,2012,Perinatal intestinal perforation,1,51,1.960700,918692,0.550000
+MARION,2012,"Intrauterine hypoxia, unspecified",1,51,1.960700,918692,0.550000
+MARION,2013,Extreme immaturity,8,72,11.111100,928521,0.770000
+MARION,2013,Accidental suffocation and strangulation in bed,6,72,8.333300,928521,0.770000
+MARION,2013,Sudden infant death syndrome,5,72,6.944400,928521,0.770000
+MARION,2013,Other preterm infants,4,72,5.555500,928521,0.770000
+MARION,2013,Respiratory distress syndrome of newborn,3,72,4.166600,928521,0.770000
+MARION,2013,"Cardiomyopathy, unspecified",2,72,2.777700,928521,0.770000
+MARION,2013,Hypoplasia and dysplasia of lung,2,72,2.777700,928521,0.770000
+MARION,2013,Holoprosencephaly,2,72,2.777700,928521,0.770000
+MARION,2013,"Congenital malformation of the heart, unspecified",2,72,2.777700,928521,0.770000
+MARION,2013,,2,72,2.777700,928521,0.770000
+MARION,2013,"Septicemia, unspecified",2,72,2.777700,928521,0.770000
+MARION,2013,Other and unspecified gastroenteritis and colitis of infectious origin,2,72,2.777700,928521,0.770000
+MARION,2013,Hypoplastic left heart syndrome,2,72,2.777700,928521,0.770000
+MARION,2013,"Bacterial sepsis of newborn, unspecified",2,72,2.777700,928521,0.770000
+MARION,2013,"Patau's syndrome, unspecified",1,72,1.388800,928521,0.770000
+MARION,2013,"Bacterial pneumonia, unspecified",1,72,1.388800,928521,0.770000
+MARION,2013,"Cardiac arrhythmia, unspecified",1,72,1.388800,928521,0.770000
+MARION,2013,"Infection specific to the perinatal period, unspecified",1,72,1.388800,928521,0.770000
+MARION,2013,"Slow fetal growth, unspecified",1,72,1.388800,928521,0.770000
+MARION,2013,"Drowning and submersion, undetermined intent",1,72,1.388800,928521,0.770000
+MARION,2013,Other specified noninfective disorders of lymphatic vessels and lymph nodes,1,72,1.388800,928521,0.770000
+MARION,2013,Newborn affected by incompetent cervix,1,72,1.388800,928521,0.770000
+MARION,2013,Assault (homicide) by unspecified means,1,72,1.388800,928521,0.770000
+MARION,2013,Gastroenteritis and colitis of unspecified origin,1,72,1.388800,928521,0.770000
+MARION,2013,"Lobar pneumonia, unspecified",1,72,1.388800,928521,0.770000
+MARION,2013,"Multiple congenital malformations, not elsewhere classified",1,72,1.388800,928521,0.770000
+MARION,2013,Unspecified chronic respiratory disease originating in the perinatal period,1,72,1.388800,928521,0.770000
+MARION,2013,"Neoplasm of uncertain behavior brain, unspecified",1,72,1.388800,928521,0.770000
+MARION,2013,Neonatal cerebral leukomalacia,1,72,1.388800,928521,0.770000
+MARION,2013,"Metabolic disorder, unspecified",1,72,1.388800,928521,0.770000
+MARION,2013,Newborn affected by other abnormalities of membranes,1,72,1.388800,928521,0.770000
+MARION,2013,Other congenital malformations of bladder and urethra,1,72,1.388800,928521,0.770000
+MARION,2013,Exomphalos,1,72,1.388800,928521,0.770000
+MARION,2013,Viral carditis,1,72,1.388800,928521,0.770000
+MARION,2013,Perinatal intestinal perforation,1,72,1.388800,928521,0.770000
+MARION,2013,Neonatal aspiration of meconium,1,72,1.388800,928521,0.770000
+MARION,2013,"Other disorders of nervous system, not elsewhere classified",1,72,1.388800,928521,0.770000
+MARION,2013,"Anoxic brain damage, not elsewhere classified",1,72,1.388800,928521,0.770000
+MARION,2013,Bronchopulmonary dysplasia originating in the perinatal period,1,72,1.388800,928521,0.770000
+MARION,2013,Other reduction deformities of brain,1,72,1.388800,928521,0.770000
+MARION,2013,Other specified respiratory disorders,1,72,1.388800,928521,0.770000
+MARION,2013,Primary pulmonary hypertension,1,72,1.388800,928521,0.770000
+MARION,2014,Accidental suffocation and strangulation in bed,11,70,15.714200,934212,0.740000
+MARION,2014,Sudden infant death syndrome,9,70,12.857100,934212,0.740000
+MARION,2014,Extreme immaturity,5,70,7.142800,934212,0.740000
+MARION,2014,"Edwards' syndrome, unspecified",3,70,4.285700,934212,0.740000
+MARION,2014,Hypoxic ischemic encephalopathy of newborn,2,70,2.857100,934212,0.740000
+MARION,2014,"Other maltreatment syndromes, by unspecified person",2,70,2.857100,934212,0.740000
+MARION,2014,"Congenital malformation of the heart, unspecified",2,70,2.857100,934212,0.740000
+MARION,2014,Primary atelectasis of newborn,2,70,2.857100,934212,0.740000
+MARION,2014,Necrotizing enterocolitis of newborn,2,70,2.857100,934212,0.740000
+MARION,2014,Ebstein's anomaly,2,70,2.857100,934212,0.740000
+MARION,2014,Other and unspecified gastroenteritis and colitis of infectious origin,1,70,1.428500,934212,0.740000
+MARION,2014,Other disorders of lung,1,70,1.428500,934212,0.740000
+MARION,2014,Hyperventilation,1,70,1.428500,934212,0.740000
+MARION,2014,Congenital diaphragmatic hernia,1,70,1.428500,934212,0.740000
+MARION,2014,Pneumothorax originating in the perinatal period,1,70,1.428500,934212,0.740000
+MARION,2014,Other bacterial sepsis of newborn,1,70,1.428500,934212,0.740000
+MARION,2014,"Degenerative disease of nervous system, unspecified",1,70,1.428500,934212,0.740000
+MARION,2014,"Bacterial sepsis of newborn, unspecified",1,70,1.428500,934212,0.740000
+MARION,2014,Respiratory distress syndrome of newborn,1,70,1.428500,934212,0.740000
+MARION,2014,Newborn affected by other maternal conditions,1,70,1.428500,934212,0.740000
+MARION,2014,Assault (homicide) by unspecified means,1,70,1.428500,934212,0.740000
+MARION,2014,Other specified cerebrovascular diseases,1,70,1.428500,934212,0.740000
+MARION,2014,Other preterm infants,1,70,1.428500,934212,0.740000
+MARION,2014,"Multiple congenital malformations, not elsewhere classified",1,70,1.428500,934212,0.740000
+MARION,2014,"Urinary tract infection, site not specified",1,70,1.428500,934212,0.740000
+MARION,2014,Compression of vein,1,70,1.428500,934212,0.740000
+MARION,2014,"Struck by thrown, projected, or falling object",1,70,1.428500,934212,0.740000
+MARION,2014,Adenoviral pneumonia,1,70,1.428500,934212,0.740000
+MARION,2014,Discordant ventriculoarterial connection,1,70,1.428500,934212,0.740000
+MARION,2014,"Anoxic brain damage, not elsewhere classified",1,70,1.428500,934212,0.740000
+MARION,2014,"Congenital pneumonia, unspecified",1,70,1.428500,934212,0.740000
+MARION,2014,Renal dysplasia,1,70,1.428500,934212,0.740000
+MARION,2014,Hyperkalemia,1,70,1.428500,934212,0.740000
+MARION,2014,Unspecified chronic respiratory disease originating in the perinatal period,1,70,1.428500,934212,0.740000
+MARION,2014,"Bacterial meningitis, unspecified",1,70,1.428500,934212,0.740000
+MARION,2014,Other neonatal gastrointestinal hemorrhage,1,70,1.428500,934212,0.740000
+MARION,2014,Other atresia and stenosis of urethra and bladder neck,1,70,1.428500,934212,0.740000
+MARION,2014,Bronchopulmonary dysplasia originating in the perinatal period,1,70,1.428500,934212,0.740000
+MARION,2014,"Hanging, strangulation, and suffocation, undetermined intent",1,70,1.428500,934212,0.740000
+MARION,2014,Perinatal intestinal perforation,1,70,1.428500,934212,0.740000
+MARION,2015,Accidental suffocation and strangulation in bed,10,65,15.384600,938058,0.690000
+MARION,2015,"Bacterial sepsis of newborn, unspecified",3,65,4.615300,938058,0.690000
+MARION,2015,Other disorders of lung,3,65,4.615300,938058,0.690000
+MARION,2015,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,2,65,3.076900,938058,0.690000
+MARION,2015,Perinatal intestinal perforation,2,65,3.076900,938058,0.690000
+MARION,2015,Bronchopulmonary dysplasia originating in the perinatal period,2,65,3.076900,938058,0.690000
+MARION,2015,Congenital diaphragmatic hernia,2,65,3.076900,938058,0.690000
+MARION,2015,"Edwards' syndrome, unspecified",2,65,3.076900,938058,0.690000
+MARION,2015,Holoprosencephaly,2,65,3.076900,938058,0.690000
+MARION,2015,Respiratory distress syndrome of newborn,2,65,3.076900,938058,0.690000
+MARION,2015,Extreme immaturity,2,65,3.076900,938058,0.690000
+MARION,2015,Persistent fetal circulation,1,65,1.538400,938058,0.690000
+MARION,2015,"Noninfective gastroenteritis and colitis, unspecified",1,65,1.538400,938058,0.690000
+MARION,2015,Neonatal cerebral ischemia,1,65,1.538400,938058,0.690000
+MARION,2015,Other reduction deformities of brain,1,65,1.538400,938058,0.690000
+MARION,2015,Gastroesophageal reflux disease without esophagitis,1,65,1.538400,938058,0.690000
+MARION,2015,"Hepatic failure, unspecified",1,65,1.538400,938058,0.690000
+MARION,2015,Respiratory failure of newborn,1,65,1.538400,938058,0.690000
+MARION,2015,"Congenital malformation of face and neck, unspecified",1,65,1.538400,938058,0.690000
+MARION,2015,Diaphragmatic hernia without obstruction or gangrene,1,65,1.538400,938058,0.690000
+MARION,2015,"Bronchitis, not specified as acute or chronic",1,65,1.538400,938058,0.690000
+MARION,2015,Other preterm infants,1,65,1.538400,938058,0.690000
+MARION,2015,Hypoplasia and dysplasia of lung,1,65,1.538400,938058,0.690000
+MARION,2015,Thanatophoric short stature,1,65,1.538400,938058,0.690000
+MARION,2015,"Coagulation defect, unspecified",1,65,1.538400,938058,0.690000
+MARION,2015,"Congenital malformation of the heart, unspecified",1,65,1.538400,938058,0.690000
+MARION,2015,"Pneumonia, unspecified",1,65,1.538400,938058,0.690000
+MARION,2015,Newborn affected by maternal use of tobacco,1,65,1.538400,938058,0.690000
+MARION,2015,Sudden infant death syndrome,1,65,1.538400,938058,0.690000
+MARION,2015,,1,65,1.538400,938058,0.690000
+MARION,2015,Other specified disorders of brain,1,65,1.538400,938058,0.690000
+MARION,2015,Necrotizing enterocolitis of newborn,1,65,1.538400,938058,0.690000
+MARION,2015,"Sepsis of newborn due to streptococcus, group B",1,65,1.538400,938058,0.690000
+MARION,2015,"Anoxic brain damage, not elsewhere classified",1,65,1.538400,938058,0.690000
+MARION,2015,Pneumonitis due to food and vomit,1,65,1.538400,938058,0.690000
+MARION,2015,Gastroenteritis and colitis of unspecified origin,1,65,1.538400,938058,0.690000
+MARION,2015,Hypoplastic left heart syndrome,1,65,1.538400,938058,0.690000
+MARION,2015,Disseminated intravascular coagulation of newborn,1,65,1.538400,938058,0.690000
+MARION,2015,Exomphalos,1,65,1.538400,938058,0.690000
+MARION,2015,Adult respiratory distress syndrome,1,65,1.538400,938058,0.690000
+MARION,2015,"Bronchopneumonia, unspecified",1,65,1.538400,938058,0.690000
+MARION,2015,Other viral infections of unspecified site,1,65,1.538400,938058,0.690000
+MARION,2015,Sepsis of newborn due to Escherichia coli,1,65,1.538400,938058,0.690000
+MARION,2015,"Congenital malformation of brain, unspecified",1,65,1.538400,938058,0.690000
+MARION,2016,Accidental suffocation and strangulation in bed,9,59,15.254200,941229,0.620000
+MARION,2016,Extreme immaturity,3,59,5.084700,941229,0.620000
+MARION,2016,"Bacterial sepsis of newborn, unspecified",3,59,5.084700,941229,0.620000
+MARION,2016,Hypoplastic left heart syndrome,2,59,3.389800,941229,0.620000
+MARION,2016,Primary atelectasis of newborn,2,59,3.389800,941229,0.620000
+MARION,2016,Sudden infant death syndrome,2,59,3.389800,941229,0.620000
+MARION,2016,"Multiple congenital malformations, not elsewhere classified",2,59,3.389800,941229,0.620000
+MARION,2016,"Pneumonia, unspecified",2,59,3.389800,941229,0.620000
+MARION,2016,Other bacterial sepsis of newborn,2,59,3.389800,941229,0.620000
+MARION,2016,Hypoxic ischemic encephalopathy of newborn,2,59,3.389800,941229,0.620000
+MARION,2016,Hypoplasia and dysplasia of lung,2,59,3.389800,941229,0.620000
+MARION,2016,Other specified degenerative diseases of nervous system,1,59,1.694900,941229,0.620000
+MARION,2016,"Congenital malformation of brain, unspecified",1,59,1.694900,941229,0.620000
+MARION,2016,Other specified disorders of kidney and ureter,1,59,1.694900,941229,0.620000
+MARION,2016,"Cytomegaloviral disease, unspecified",1,59,1.694900,941229,0.620000
+MARION,2016,Adult respiratory distress syndrome,1,59,1.694900,941229,0.620000
+MARION,2016,"Bronchopneumonia, unspecified",1,59,1.694900,941229,0.620000
+MARION,2016,"Congenital malformation of the heart, unspecified",1,59,1.694900,941229,0.620000
+MARION,2016,Unspecified threat to breathing,1,59,1.694900,941229,0.620000
+MARION,2016,"Agenesis, aplasia, and hypoplasia of pancreas",1,59,1.694900,941229,0.620000
+MARION,2016,Congenital cerebral cysts,1,59,1.694900,941229,0.620000
+MARION,2016,"Patau's syndrome, unspecified",1,59,1.694900,941229,0.620000
+MARION,2016,Hydrops fetalis not due to hemolytic disease,1,59,1.694900,941229,0.620000
+MARION,2016,Newborn affected by premature rupture of membranes,1,59,1.694900,941229,0.620000
+MARION,2016,"Other maltreatment syndromes, by parent",1,59,1.694900,941229,0.620000
+MARION,2016,Bronchopulmonary dysplasia originating in the perinatal period,1,59,1.694900,941229,0.620000
+MARION,2016,Congenital pneumonia due to viral agent,1,59,1.694900,941229,0.620000
+MARION,2016,Other disorders of lung,1,59,1.694900,941229,0.620000
+MARION,2016,"Birth asphyxia, unspecified",1,59,1.694900,941229,0.620000
+MARION,2016,Necrotizing enterocolitis of newborn,1,59,1.694900,941229,0.620000
+MARION,2016,"Congenital malformation, unspecified",1,59,1.694900,941229,0.620000
+MARION,2016,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,59,1.694900,941229,0.620000
+MARION,2016,Assault (homicide) by unspecified means,1,59,1.694900,941229,0.620000
+MARION,2016,Other specified conditions originating in the perinatal period,1,59,1.694900,941229,0.620000
+MARION,2016,Other preterm infants,1,59,1.694900,941229,0.620000
+MARION,2016,"Hanging, strangulation, and suffocation, undetermined intent",1,59,1.694900,941229,0.620000
+MARION,2016,Exstrophy of urinary bladder,1,59,1.694900,941229,0.620000
+MARION,2016,Triploidy and polyploidy,1,59,1.694900,941229,0.620000
+MARION,2016,Pneumothorax originating in the perinatal period,1,59,1.694900,941229,0.620000
+MARION,2017,Accidental suffocation and strangulation in bed,10,58,17.241300,941229,0.610000
+MARION,2017,"Congenital malformation of the heart, unspecified",4,58,6.896500,941229,0.610000
+MARION,2017,Sudden infant death syndrome,3,58,5.172400,941229,0.610000
+MARION,2017,Anencephaly,3,58,5.172400,941229,0.610000
+MARION,2017,Hypoxic ischemic encephalopathy of newborn,2,58,3.448200,941229,0.610000
+MARION,2017,,2,58,3.448200,941229,0.610000
+MARION,2017,Extreme immaturity,2,58,3.448200,941229,0.610000
+MARION,2017,"Edwards' syndrome, unspecified",1,58,1.724100,941229,0.610000
+MARION,2017,"Respiratory condition of newborn, unspecified",1,58,1.724100,941229,0.610000
+MARION,2017,Failure of sterile precautions during other surgical and medical care,1,58,1.724100,941229,0.610000
+MARION,2017,Sepsis of newborn due to other and unspecified streptococci,1,58,1.724100,941229,0.610000
+MARION,2017,"Hanging, strangulation, and suffocation, undetermined intent",1,58,1.724100,941229,0.610000
+MARION,2017,Neonatal cardiac failure,1,58,1.724100,941229,0.610000
+MARION,2017,"Hepatic failure, unspecified",1,58,1.724100,941229,0.610000
+MARION,2017,Other secondary pulmonary hypertension,1,58,1.724100,941229,0.610000
+MARION,2017,Hypoplastic right heart syndrome,1,58,1.724100,941229,0.610000
+MARION,2017,Necrotizing enterocolitis of newborn,1,58,1.724100,941229,0.610000
+MARION,2017,Congenital diaphragmatic hernia,1,58,1.724100,941229,0.610000
+MARION,2017,Pneumomediastinum originating in the perinatal period,1,58,1.724100,941229,0.610000
+MARION,2017,"Metabolic disorder, unspecified",1,58,1.724100,941229,0.610000
+MARION,2017,Neonatal hypertension,1,58,1.724100,941229,0.610000
+MARION,2017,Congenital malformation syndromes predominantly affecting facial appearance,1,58,1.724100,941229,0.610000
+MARION,2017,Unspecified protein-energy malnutrition,1,58,1.724100,941229,0.610000
+MARION,2017,"Other specified congenital malformation syndromes, not elsewhere classified",1,58,1.724100,941229,0.610000
+MARION,2017,Other bacterial sepsis of newborn,1,58,1.724100,941229,0.610000
+MARION,2017,"Down's syndrome, unspecified",1,58,1.724100,941229,0.610000
+MARION,2017,Gastroschisis,1,58,1.724100,941229,0.610000
+MARION,2017,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,58,1.724100,941229,0.610000
+MARION,2017,Other specified congenital malformations,1,58,1.724100,941229,0.610000
+MARION,2017,Hypoplasia and dysplasia of lung,1,58,1.724100,941229,0.610000
+MARION,2017,Other specified cerebrovascular diseases,1,58,1.724100,941229,0.610000
+MARION,2017,Unspecified chronic respiratory disease originating in the perinatal period,1,58,1.724100,941229,0.610000
+MARION,2017,Other deletions of part of a chromosome,1,58,1.724100,941229,0.610000
+MARION,2017,"Assault (homicide) by hanging, strangulation, and suffocation",1,58,1.724100,941229,0.610000
+MARION,2017,Exposure to uncontrolled fire in building or structure,1,58,1.724100,941229,0.610000
+MARION,2017,Exposure to unspecified factor causing other and unspecified injury,1,58,1.724100,941229,0.610000
+MARION,2017,"Intracerebral hemorrhage, intraventricular",1,58,1.724100,941229,0.610000
+MARION,2017,Myotonic disorders,1,58,1.724100,941229,0.610000
+MARION,2017,"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",1,58,1.724100,941229,0.610000
+MARION,2018,Accidental suffocation and strangulation in bed,6,61,9.836000,941229,0.640000
+MARION,2018,Sudden infant death syndrome,5,61,8.196700,941229,0.640000
+MARION,2018,"Edwards' syndrome, unspecified",4,61,6.557300,941229,0.640000
+MARION,2018,Necrotizing enterocolitis of newborn,3,61,4.918000,941229,0.640000
+MARION,2018,"Congenital malformation of the heart, unspecified",3,61,4.918000,941229,0.640000
+MARION,2018,Extreme immaturity,3,61,4.918000,941229,0.640000
+MARION,2018,Other ill-defined and unspecified causes of mortality,2,61,3.278600,941229,0.640000
+MARION,2018,Other preterm infants,2,61,3.278600,941229,0.640000
+MARION,2018,Primary atelectasis of newborn,2,61,3.278600,941229,0.640000
+MARION,2018,Other specified threats to breathing,1,61,1.639300,941229,0.640000
+MARION,2018,"Heart disease, unspecified",1,61,1.639300,941229,0.640000
+MARION,2018,"Malignant neoplasm of brain, unspecified",1,61,1.639300,941229,0.640000
+MARION,2018,"Viral meningitis, unspecified",1,61,1.639300,941229,0.640000
+MARION,2018,"Bacterial sepsis of newborn, unspecified",1,61,1.639300,941229,0.640000
+MARION,2018,"Congenital hydrocephalus, unspecified",1,61,1.639300,941229,0.640000
+MARION,2018,"Encephalocele, unspecified",1,61,1.639300,941229,0.640000
+MARION,2018,"Down's syndrome, unspecified",1,61,1.639300,941229,0.640000
+MARION,2018,"Chronic ulcer of skin, not elsewhere classified",1,61,1.639300,941229,0.640000
+MARION,2018,"Mental and behavioral disorders due to use of alcohol, dependence syndrome",1,61,1.639300,941229,0.640000
+MARION,2018,Sepsis of newborn due to Escherichia coli,1,61,1.639300,941229,0.640000
+MARION,2018,Common arterial trunk,1,61,1.639300,941229,0.640000
+MARION,2018,Disseminated intravascular coagulation of newborn,1,61,1.639300,941229,0.640000
+MARION,2018,Disorders of fatty-acid metabolism,1,61,1.639300,941229,0.640000
+MARION,2018,"Anoxic brain damage, not elsewhere classified",1,61,1.639300,941229,0.640000
+MARION,2018,Nonpyogenic meningitis,1,61,1.639300,941229,0.640000
+MARION,2018,Hypoplasia and dysplasia of lung,1,61,1.639300,941229,0.640000
+MARION,2018,Bronchopulmonary dysplasia originating in the perinatal period,1,61,1.639300,941229,0.640000
+MARION,2018,Hypoplastic left heart syndrome,1,61,1.639300,941229,0.640000
+MARION,2018,"Multiple congenital malformations, not elsewhere classified",1,61,1.639300,941229,0.640000
+MARION,2018,Unspecified threat to breathing,1,61,1.639300,941229,0.640000
+MARION,2018,"Spinal muscular atrophy, unspecified",1,61,1.639300,941229,0.640000
+MARION,2018,Congenital laryngomalacia,1,61,1.639300,941229,0.640000
+MARION,2018,Congenital diaphragmatic hernia,1,61,1.639300,941229,0.640000
+MARION,2018,Disseminated intravascular coagulation [defibrination syndrome],1,61,1.639300,941229,0.640000
+MARION,2018,"Sepsis of newborn due to streptococcus, group B",1,61,1.639300,941229,0.640000
+MARION,2018,Newborn affected by premature rupture of membranes,1,61,1.639300,941229,0.640000
+MARION,2018,Tetralogy of Fallot,1,61,1.639300,941229,0.640000
+MARION,2018,"Pneumonia, unspecified",1,61,1.639300,941229,0.640000
+MARION,2018,Unspecified chronic respiratory disease originating in the perinatal period,1,61,1.639300,941229,0.640000
+MARION,2018,Short rib syndrome,1,61,1.639300,941229,0.640000
+MARSHALL,2011,Accidental suffocation and strangulation in bed,1,3,33.333300,46951,0.630000
+MARSHALL,2011,"Other congenital anemias, not elsewhere classified",1,3,33.333300,46951,0.630000
+MARSHALL,2011,Neonatal cardiac failure,1,3,33.333300,46951,0.630000
+MARSHALL,2015,Sudden infant death syndrome,2,6,33.333300,46756,1.280000
+MARSHALL,2015,Extreme immaturity,1,6,16.666600,46756,1.280000
+MARSHALL,2015,"Neonatal hemorrhage, unspecified",1,6,16.666600,46756,1.280000
+MARSHALL,2015,Cardiomegaly,1,6,16.666600,46756,1.280000
+MARSHALL,2015,Unspecified threat to breathing,1,6,16.666600,46756,1.280000
+MARSHALL,2016,Hypoxic ischemic encephalopathy of newborn,1,3,33.333300,46556,0.640000
+MARSHALL,2016,Sudden infant death syndrome,1,3,33.333300,46556,0.640000
+MARSHALL,2016,"Slow fetal growth, unspecified",1,3,33.333300,46556,0.640000
+MARSHALL,2017,Neonatal cardiac failure,1,2,50.000000,46556,0.420000
+MARSHALL,2017,"Congenital malformation of the heart, unspecified",1,2,50.000000,46556,0.420000
+MARSHALL,2018,Persistent fetal circulation,1,2,50.000000,46556,0.420000
+MARSHALL,2018,Extremely low birthweight,1,2,50.000000,46556,0.420000
+MARTIN,2010,Sudden infant death syndrome,1,1,100.000000,10334,0.960000
+MARTIN,2013,"Congenital malformation of lung, unspecified",1,2,50.000000,10216,1.950000
+MARTIN,2013,Respiratory failure of newborn,1,2,50.000000,10216,1.950000
+MIAMI,2010,Hypoplastic left heart syndrome,1,1,100.000000,36903,0.270000
+MIAMI,2011,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,3,33.333300,36590,0.810000
+MIAMI,2011,"Other specified congenital malformation syndromes, not elsewhere classified",1,3,33.333300,36590,0.810000
+MIAMI,2011,Hypoplastic left heart syndrome,1,3,33.333300,36590,0.810000
+MIAMI,2012,Hydrops fetalis not due to hemolytic disease,1,3,33.333300,36504,0.820000
+MIAMI,2012,Accidental suffocation and strangulation in bed,1,3,33.333300,36504,0.820000
+MIAMI,2012,Sudden infant death syndrome,1,3,33.333300,36504,0.820000
+MIAMI,2014,Sudden infant death syndrome,1,3,33.333300,36031,0.830000
+MIAMI,2014,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,3,33.333300,36031,0.830000
+MIAMI,2014,Unspecified threat to breathing,1,3,33.333300,36031,0.830000
+MIAMI,2015,Sudden infant death syndrome,1,3,33.333300,35902,0.830000
+MIAMI,2015,Assault (homicide) by unspecified means,1,3,33.333300,35902,0.830000
+MIAMI,2015,"Bacterial sepsis of newborn, unspecified",1,3,33.333300,35902,0.830000
+MIAMI,2016,Pneumonia due to Hemophilus influenzae,1,2,50.000000,35883,0.550000
+MIAMI,2016,Sudden infant death syndrome,1,2,50.000000,35883,0.550000
+MIAMI,2017,Accidental suffocation and strangulation in bed,1,1,100.000000,35883,0.270000
+MIAMI,2018,Neoplasm of uncertain behavior uterus,1,1,100.000000,35883,0.270000
+MONROE,2010,Hypoplasia and dysplasia of lung,1,3,33.333300,137974,0.210000
+MONROE,2010,"Edwards' syndrome, unspecified",1,3,33.333300,137974,0.210000
+MONROE,2010,Respiratory distress syndrome of newborn,1,3,33.333300,137974,0.210000
+MONROE,2011,"Congenital malformation of the heart, unspecified",1,4,25.000000,140196,0.280000
+MONROE,2011,Sudden infant death syndrome,1,4,25.000000,140196,0.280000
+MONROE,2011,Congenital diaphragmatic hernia,1,4,25.000000,140196,0.280000
+MONROE,2011,"Malignant neoplasm of kidney, except renal pelvis",1,4,25.000000,140196,0.280000
+MONROE,2012,Sudden infant death syndrome,1,2,50.000000,141311,0.140000
+MONROE,2012,Hydrops fetalis not due to hemolytic disease,1,2,50.000000,141311,0.140000
+MONROE,2013,Accidental suffocation and strangulation in bed,2,6,33.333300,141934,0.420000
+MONROE,2013,"Bacterial sepsis of newborn, unspecified",1,6,16.666600,141934,0.420000
+MONROE,2013,"Assault (homicide) by drugs, medicaments, and biological substances",1,6,16.666600,141934,0.420000
+MONROE,2013,Sudden infant death syndrome,1,6,16.666600,141934,0.420000
+MONROE,2013,Osteogenesis imperfecta,1,6,16.666600,141934,0.420000
+MONROE,2014,Other ill-defined and unspecified causes of mortality,2,4,50.000000,143462,0.270000
+MONROE,2014,Anemia of prematurity,1,4,25.000000,143462,0.270000
+MONROE,2014,Bronchopulmonary dysplasia originating in the perinatal period,1,4,25.000000,143462,0.270000
+MONROE,2015,Congenital diaphragmatic hernia,1,5,20.000000,144257,0.340000
+MONROE,2015,"Edwards' syndrome, unspecified",1,5,20.000000,144257,0.340000
+MONROE,2015,Primary atelectasis of newborn,1,5,20.000000,144257,0.340000
+MONROE,2015,Accidental suffocation and strangulation in bed,1,5,20.000000,144257,0.340000
+MONROE,2015,"Multiple congenital malformations, not elsewhere classified",1,5,20.000000,144257,0.340000
+MONROE,2016,"Edwards' syndrome, unspecified",2,7,28.571400,145496,0.480000
+MONROE,2016,Anencephaly,1,7,14.285700,145496,0.480000
+MONROE,2016,Assault (homicide) by unspecified means,1,7,14.285700,145496,0.480000
+MONROE,2016,"Congenital malformation of the heart, unspecified",1,7,14.285700,145496,0.480000
+MONROE,2016,Other ill-defined and unspecified causes of mortality,1,7,14.285700,145496,0.480000
+MONROE,2016,Accidental suffocation and strangulation in bed,1,7,14.285700,145496,0.480000
+MONROE,2017,Other ill-defined and unspecified causes of mortality,1,2,50.000000,145496,0.130000
+MONROE,2017,Pneumothorax originating in the perinatal period,1,2,50.000000,145496,0.130000
+MONROE,2018,Respiratory distress syndrome of newborn,1,6,16.666600,145496,0.410000
+MONROE,2018,,1,6,16.666600,145496,0.410000
+MONROE,2018,"Congenital malformation of the heart, unspecified",1,6,16.666600,145496,0.410000
+MONROE,2018,"Edwards' syndrome, unspecified",1,6,16.666600,145496,0.410000
+MONROE,2018,Other disorders of lung,1,6,16.666600,145496,0.410000
+MONROE,2018,Sudden infant death syndrome,1,6,16.666600,145496,0.410000
+MONTGOMERY,2011,Accidental suffocation and strangulation in bed,1,4,25.000000,38324,1.040000
+MONTGOMERY,2011,Exposure to excessive natural heat,1,4,25.000000,38324,1.040000
+MONTGOMERY,2011,Other reduction deformities of brain,1,4,25.000000,38324,1.040000
+MONTGOMERY,2011,Congenital tricuspid stenosis,1,4,25.000000,38324,1.040000
+MONTGOMERY,2012,Other specified cerebrovascular diseases,1,3,33.333300,38171,0.780000
+MONTGOMERY,2012,Other specified congenital malformations of heart,1,3,33.333300,38171,0.780000
+MONTGOMERY,2012,Respiratory distress syndrome of newborn,1,3,33.333300,38171,0.780000
+MONTGOMERY,2013,"Intracerebral hemorrhage, intraventricular",1,4,25.000000,38085,1.050000
+MONTGOMERY,2013,"Congenital malformation of the heart, unspecified",1,4,25.000000,38085,1.050000
+MONTGOMERY,2013,Other and unspecified gastroenteritis and colitis of infectious origin,1,4,25.000000,38085,1.050000
+MONTGOMERY,2013,Microcephaly,1,4,25.000000,38085,1.050000
+MONTGOMERY,2014,Sudden infant death syndrome,1,1,100.000000,38043,0.260000
+MONTGOMERY,2016,"Congenital hydrocephalus, unspecified",1,4,25.000000,38074,1.050000
+MONTGOMERY,2016,Sudden infant death syndrome,1,4,25.000000,38074,1.050000
+MONTGOMERY,2016,"Neglect and abandonment, by unspecified person",1,4,25.000000,38074,1.050000
+MONTGOMERY,2016,Congenital diaphragmatic hernia,1,4,25.000000,38074,1.050000
+MONTGOMERY,2017,Other reduction deformities of brain,1,2,50.000000,38074,0.520000
+MONTGOMERY,2017,Sudden infant death syndrome,1,2,50.000000,38074,0.520000
+MONTGOMERY,2018,Extreme immaturity,1,1,100.000000,38074,0.260000
+MORGAN,2010,Neonatal aspiration of meconium,1,1,100.000000,68894,0.140000
+MORGAN,2011,Unspecified chronic respiratory disease originating in the perinatal period,1,3,33.333300,69191,0.430000
+MORGAN,2011,"Congenital pneumonia, unspecified",1,3,33.333300,69191,0.430000
+MORGAN,2011,"Lobar pneumonia, unspecified",1,3,33.333300,69191,0.430000
+MORGAN,2012,Sudden infant death syndrome,1,2,50.000000,69204,0.280000
+MORGAN,2012,Respiratory distress syndrome of newborn,1,2,50.000000,69204,0.280000
+MORGAN,2013,"Metabolic disorder, unspecified",1,4,25.000000,69375,0.570000
+MORGAN,2013,"Hanging, strangulation, and suffocation, undetermined intent",1,4,25.000000,69375,0.570000
+MORGAN,2013,Other ill-defined and unspecified causes of mortality,1,4,25.000000,69375,0.570000
+MORGAN,2013,Unspecified threat to breathing,1,4,25.000000,69375,0.570000
+MORGAN,2014,"Bacterial sepsis of newborn, unspecified",1,1,100.000000,69596,0.140000
+MORGAN,2015,Newborn affected by maternal hypertensive disorders,1,2,50.000000,69646,0.280000
+MORGAN,2015,Acute myeloid leukemia,1,2,50.000000,69646,0.280000
+MORGAN,2016,Sudden infant death syndrome,1,3,33.333300,69698,0.430000
+MORGAN,2016,"Congenital malformation, unspecified",1,3,33.333300,69698,0.430000
+MORGAN,2016,Necrotizing enterocolitis of newborn,1,3,33.333300,69698,0.430000
+MORGAN,2017,"Birth asphyxia, unspecified",1,1,100.000000,69698,0.140000
+MORGAN,2018,Sudden infant death syndrome,2,5,40.000000,69698,0.710000
+MORGAN,2018,Other cytomegaloviral diseases,1,5,20.000000,69698,0.710000
+MORGAN,2018,Sepsis of newborn due to Escherichia coli,1,5,20.000000,69698,0.710000
+MORGAN,2018,"Pneumonia, unspecified",1,5,20.000000,69698,0.710000
+NEWTON,2011,Congenital herpesviral [herpes simplex] infection,1,3,33.333300,14114,2.120000
+NEWTON,2011,,1,3,33.333300,14114,2.120000
+NEWTON,2011,"Edwards' syndrome, unspecified",1,3,33.333300,14114,2.120000
+NEWTON,2016,Unspecified threat to breathing,1,1,100.000000,13924,0.710000
+NEWTON,2018,"Viral infection, unspecified",1,1,100.000000,13924,0.710000
+NOBLE,2010,"Intrauterine hypoxia, unspecified",1,2,50.000000,47536,0.420000
+NOBLE,2010,Other and unspecified gastroenteritis and colitis of infectious origin,1,2,50.000000,47536,0.420000
+NOBLE,2011,Exposure to unspecified factor causing other and unspecified injury,1,3,33.333300,47458,0.630000
+NOBLE,2011,Hypoxic ischemic encephalopathy of newborn,1,3,33.333300,47458,0.630000
+NOBLE,2011,Accidental suffocation and strangulation in bed,1,3,33.333300,47458,0.630000
+NOBLE,2013,"Person injured in unspecified motor-vehicle accident, traffic",1,5,20.000000,47501,1.050000
+NOBLE,2013,Extreme immaturity,1,5,20.000000,47501,1.050000
+NOBLE,2013,Necrotizing enterocolitis of newborn,1,5,20.000000,47501,1.050000
+NOBLE,2013,Hypoplasia and dysplasia of lung,1,5,20.000000,47501,1.050000
+NOBLE,2013,Other and unspecified gastroenteritis and colitis of infectious origin,1,5,20.000000,47501,1.050000
+NOBLE,2014,"Bacterial sepsis of newborn, unspecified",1,4,25.000000,47610,0.840000
+NOBLE,2014,Other generalized epilepsy and epileptic syndromes,1,4,25.000000,47610,0.840000
+NOBLE,2014,Patent ductus arteriosus,1,4,25.000000,47610,0.840000
+NOBLE,2014,Pneumococcal meningitis,1,4,25.000000,47610,0.840000
+NOBLE,2015,Sudden infant death syndrome,2,2,100.000000,47759,0.410000
+NOBLE,2016,Hydrops fetalis not due to hemolytic disease,1,3,33.333300,47638,0.620000
+NOBLE,2016,"Bacterial sepsis of newborn, unspecified",1,3,33.333300,47638,0.620000
+NOBLE,2016,"Congenital malformation of the heart, unspecified",1,3,33.333300,47638,0.620000
+NOBLE,2017,"Intrauterine hypoxia, unspecified",1,4,25.000000,47638,0.830000
+NOBLE,2017,Accidental suffocation and strangulation in bed,1,4,25.000000,47638,0.830000
+NOBLE,2017,Sudden infant death syndrome,1,4,25.000000,47638,0.830000
+NOBLE,2017,"Patau's syndrome, unspecified",1,4,25.000000,47638,0.830000
+NOBLE,2018,Sudden infant death syndrome,1,3,33.333300,47638,0.620000
+NOBLE,2018,Hypoxic ischemic encephalopathy of newborn,1,3,33.333300,47638,0.620000
+NOBLE,2018,"Intrauterine hypoxia, unspecified",1,3,33.333300,47638,0.620000
+ORANGE,2010,,1,1,100.000000,19840,0.500000
+ORANGE,2014,"Car occupant injured in noncollision transport accident, unspecified car occupant injured in traffic accident",1,2,50.000000,19645,1.010000
+ORANGE,2014,Sudden infant death syndrome,1,2,50.000000,19645,1.010000
+ORANGE,2015,"Encephalocele, unspecified",1,3,33.333300,19516,1.530000
+ORANGE,2015,Accidental suffocation and strangulation in bed,1,3,33.333300,19516,1.530000
+ORANGE,2015,Other ill-defined and unspecified causes of mortality,1,3,33.333300,19516,1.530000
+ORANGE,2016,"Other specified events, undetermined intent",1,3,33.333300,19335,1.550000
+ORANGE,2016,Other secondary pulmonary hypertension,1,3,33.333300,19335,1.550000
+ORANGE,2016,Accidental suffocation and strangulation in bed,1,3,33.333300,19335,1.550000
+ORANGE,2017,Interstitial emphysema originating in the perinatal period,1,1,100.000000,19335,0.510000
+ORANGE,2018,Accidental suffocation and strangulation in bed,2,2,100.000000,19335,1.030000
+OWEN,2011,"Multiple congenital malformations, not elsewhere classified",1,2,50.000000,21516,0.920000
+OWEN,2011,Pneumothorax originating in the perinatal period,1,2,50.000000,21516,0.920000
+OWEN,2012,Sudden infant death syndrome,1,1,100.000000,21362,0.460000
+OWEN,2016,Accidental suffocation and strangulation in bed,1,4,25.000000,20840,1.910000
+OWEN,2016,Sudden infant death syndrome,1,4,25.000000,20840,1.910000
+OWEN,2016,"Edwards' syndrome, unspecified",1,4,25.000000,20840,1.910000
+OWEN,2016,"Encephalopathy, unspecified",1,4,25.000000,20840,1.910000
+OWEN,2017,Congenital posterior urethral valves,1,3,33.333300,20840,1.430000
+OWEN,2017,Hypoxic ischemic encephalopathy of newborn,1,3,33.333300,20840,1.430000
+OWEN,2017,Accidental suffocation and strangulation in bed,1,3,33.333300,20840,1.430000
+OWEN,2018,Necrotizing enterocolitis of newborn,1,1,100.000000,20840,0.470000
+PARKE,2010,Chondroectodermal dysplasia,1,1,100.000000,17339,0.570000
+PARKE,2011,"Congenital malformation of the heart, unspecified",1,2,50.000000,17107,1.160000
+PARKE,2011,"Cardiomyopathy, unspecified",1,2,50.000000,17107,1.160000
+PARKE,2012,"Multiple congenital malformations, not elsewhere classified",1,1,100.000000,17089,0.580000
+PARKE,2013,Hypoplastic left heart syndrome,1,1,100.000000,17191,0.580000
+PARKE,2014,"Viral infection, unspecified",1,3,33.333300,17207,1.740000
+PARKE,2014,Respiratory distress syndrome of newborn,1,3,33.333300,17207,1.740000
+PARKE,2014,Accidental suffocation and strangulation in bed,1,3,33.333300,17207,1.740000
+PARKE,2016,"Edwards' syndrome, unspecified",1,1,100.000000,16800,0.590000
+PARKE,2017,"Whooping cough, unspecified",1,1,100.000000,16800,0.590000
+PERRY,2010,Accidental suffocation and strangulation in bed,1,1,100.000000,19338,0.510000
+PERRY,2012,,1,1,100.000000,19416,0.510000
+PIKE,2011,Sudden infant death syndrome,1,2,50.000000,12689,1.570000
+PIKE,2011,Inhalation and ingestion of other objects causing obstruction of respiratory tract,1,2,50.000000,12689,1.570000
+PIKE,2012,Sudden infant death syndrome,1,1,100.000000,12716,0.780000
+PIKE,2018,Inhalation and ingestion of other objects causing obstruction of respiratory tract,1,1,100.000000,12431,0.800000
+PORTER,2010,Respiratory distress syndrome of newborn,1,2,50.000000,164343,0.120000
+PORTER,2010,"Klinefelter's syndrome, unspecified",1,2,50.000000,164343,0.120000
+PORTER,2011,Convulsions of newborn,1,2,50.000000,165519,0.120000
+PORTER,2011,Other and unspecified gastroenteritis and colitis of infectious origin,1,2,50.000000,165519,0.120000
+PORTER,2012,Sudden infant death syndrome,1,3,33.333300,165772,0.180000
+PORTER,2012,"Hanging, strangulation, and suffocation, undetermined intent",1,3,33.333300,165772,0.180000
+PORTER,2012,"Edwards' syndrome, unspecified",1,3,33.333300,165772,0.180000
+PORTER,2013,"Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",1,7,14.285700,166552,0.420000
+PORTER,2013,Accidental suffocation and strangulation in bed,1,7,14.285700,166552,0.420000
+PORTER,2013,Newborn affected by multiple pregnancy,1,7,14.285700,166552,0.420000
+PORTER,2013,Sudden infant death syndrome,1,7,14.285700,166552,0.420000
+PORTER,2013,Other and unspecified gastroenteritis and colitis of infectious origin,1,7,14.285700,166552,0.420000
+PORTER,2013,"Bacterial sepsis of newborn, unspecified",1,7,14.285700,166552,0.420000
+PORTER,2013,Malformation of coronary vessels,1,7,14.285700,166552,0.420000
+PORTER,2014,Newborn affected by maternal use of drugs of addiction,1,6,16.666600,167336,0.350000
+PORTER,2014,Exposure to unspecified factor causing other and unspecified injury,1,6,16.666600,167336,0.350000
+PORTER,2014,"Pneumonia, unspecified",1,6,16.666600,167336,0.350000
+PORTER,2014,,1,6,16.666600,167336,0.350000
+PORTER,2014,"Interstitial pulmonary disease, unspecified",1,6,16.666600,167336,0.350000
+PORTER,2014,Hypoxic ischemic encephalopathy of newborn,1,6,16.666600,167336,0.350000
+PORTER,2015,"Patau's syndrome, unspecified",1,3,33.333300,167631,0.170000
+PORTER,2015,Accidental suffocation and strangulation in bed,1,3,33.333300,167631,0.170000
+PORTER,2015,Sepsis of newborn due to Escherichia coli,1,3,33.333300,167631,0.170000
+PORTER,2016,Primary atelectasis of newborn,1,3,33.333300,167791,0.170000
+PORTER,2016,Accidental suffocation and strangulation in bed,1,3,33.333300,167791,0.170000
+PORTER,2016,"Intrauterine hypoxia, unspecified",1,3,33.333300,167791,0.170000
+PORTER,2017,Accidental suffocation and strangulation in bed,1,1,100.000000,167791,0.050000
+PORTER,2018,Accidental suffocation and strangulation in bed,3,4,75.000000,167791,0.230000
+PORTER,2018,"Down's syndrome, unspecified",1,4,25.000000,167791,0.230000
+POSEY,2011,"Other maltreatment syndromes, by other specified persons",1,2,50.000000,25696,0.770000
+POSEY,2011,Other specified congenital malformations,1,2,50.000000,25696,0.770000
+POSEY,2012,"Congenital pneumonia, unspecified",1,2,50.000000,25627,0.780000
+POSEY,2012,Extreme immaturity,1,2,50.000000,25627,0.780000
+POSEY,2013,Pneumonitis due to food and vomit,1,2,50.000000,25504,0.780000
+POSEY,2013,,1,2,50.000000,25504,0.780000
+POSEY,2014,"Other congenital anemias, not elsewhere classified",1,1,100.000000,25538,0.390000
+POSEY,2015,"Coagulation defect, unspecified",1,1,100.000000,25490,0.390000
+PULASKI,2011,Congenital cerebral cysts,1,1,100.000000,13284,0.750000
+PULASKI,2012,Sudden infant death syndrome,1,1,100.000000,13060,0.760000
+PULASKI,2014,Other and unspecified convulsions,1,1,100.000000,12965,0.770000
+PULASKI,2017,"Infantile spinal muscular atrophy, type I [Werdnig-Hoffman]",1,4,25.000000,12660,3.150000
+PULASKI,2017,Extreme immaturity,1,4,25.000000,12660,3.150000
+PULASKI,2017,Sudden infant death syndrome,1,4,25.000000,12660,3.150000
+PULASKI,2017,Holoprosencephaly,1,4,25.000000,12660,3.150000
+PUTNAM,2011,Sudden infant death syndrome,1,2,50.000000,37902,0.520000
+PUTNAM,2011,Unspecified threat to breathing,1,2,50.000000,37902,0.520000
+PUTNAM,2012,"Birth asphyxia, unspecified",1,1,100.000000,37725,0.260000
+PUTNAM,2013,"Assault (homicide) by drugs, medicaments, and biological substances",1,1,100.000000,37605,0.260000
+PUTNAM,2015,"Bacterial sepsis of newborn, unspecified",1,1,100.000000,37621,0.260000
+PUTNAM,2016,Extreme immaturity,1,3,33.333300,37436,0.800000
+PUTNAM,2016,Accidental suffocation and strangulation in bed,1,3,33.333300,37436,0.800000
+PUTNAM,2016,Malignant neoplasm of cerebral ventricle,1,3,33.333300,37436,0.800000
+PUTNAM,2017,Disseminated intravascular coagulation [defibrination syndrome],1,3,33.333300,37436,0.800000
+PUTNAM,2017,Other specified trisomies and partial trisomies of autosomes,1,3,33.333300,37436,0.800000
+PUTNAM,2017,Sudden infant death syndrome,1,3,33.333300,37436,0.800000
+PUTNAM,2018,"Multiple congenital malformations, not elsewhere classified",1,1,100.000000,37436,0.260000
+RANDOLPH,2012,Sudden infant death syndrome,1,1,100.000000,25856,0.380000
+RANDOLPH,2013,"Trisomy and partial trisomy of autosomes, unspecified",1,1,100.000000,25610,0.390000
+RANDOLPH,2014,Extreme immaturity,1,2,50.000000,25336,0.780000
+RANDOLPH,2014,Sudden infant death syndrome,1,2,50.000000,25336,0.780000
+RANDOLPH,2016,Extreme immaturity,1,2,50.000000,25082,0.790000
+RANDOLPH,2016,,1,2,50.000000,25082,0.790000
+RANDOLPH,2018,Accidental suffocation and strangulation in bed,1,2,50.000000,25082,0.790000
+RANDOLPH,2018,Respiratory distress syndrome of newborn,1,2,50.000000,25082,0.790000
+RIPLEY,2012,Congenital diaphragmatic hernia,1,2,50.000000,28571,0.700000
+RIPLEY,2012,Anencephaly,1,2,50.000000,28571,0.700000
+RIPLEY,2014,Accidental suffocation and strangulation in bed,1,1,100.000000,28549,0.350000
+RIPLEY,2017,Sudden infant death syndrome,2,3,66.666600,28846,1.040000
+RIPLEY,2017,"Assault (homicide) by hanging, strangulation, and suffocation",1,3,33.333300,28846,1.040000
+RUSH,2010,Sudden infant death syndrome,2,2,100.000000,17392,1.140000
+RUSH,2012,,1,2,50.000000,17133,1.160000
+RUSH,2012,"Metabolic disorder, unspecified",1,2,50.000000,17133,1.160000
+RUSH,2013,Acidosis,1,1,100.000000,17001,0.580000
+RUSH,2015,Accidental suffocation and strangulation in bed,1,1,100.000000,16725,0.590000
+SCOTT,2010,Sudden infant death syndrome,1,2,50.000000,24181,0.820000
+SCOTT,2010,,1,2,50.000000,24181,0.820000
+SCOTT,2012,Accidental suffocation and strangulation in bed,1,1,100.000000,23769,0.420000
+SCOTT,2013,"Down's syndrome, unspecified",1,1,100.000000,23804,0.420000
+SCOTT,2014,Achondroplasia,1,2,50.000000,23661,0.840000
+SCOTT,2014,Necrotizing enterocolitis of newborn,1,2,50.000000,23661,0.840000
+SCOTT,2015,Sudden infant death syndrome,1,1,100.000000,23707,0.420000
+SCOTT,2017,Sudden infant death syndrome,1,1,100.000000,23730,0.420000
+SHELBY,2010,Sudden infant death syndrome,1,1,100.000000,44436,0.220000
+SHELBY,2011,"Interstitial pulmonary disease, unspecified",1,2,50.000000,44349,0.450000
+SHELBY,2011,Secondary malignant neoplasm of brain and cerebral meninges,1,2,50.000000,44349,0.450000
+SHELBY,2013,Respiratory distress syndrome of newborn,1,2,50.000000,44422,0.450000
+SHELBY,2013,Persistent fetal circulation,1,2,50.000000,44422,0.450000
+SHELBY,2014,Congenital stenosis of aortic valve,1,1,100.000000,44487,0.220000
+SHELBY,2015,"Hanging, strangulation, and suffocation, undetermined intent",1,3,33.333300,44442,0.670000
+SHELBY,2015,Other specified congenital musculoskeletal deformities,1,3,33.333300,44442,0.670000
+SHELBY,2015,"Spinal muscular atrophy, unspecified",1,3,33.333300,44442,0.670000
+SHELBY,2017,Parainfluenza virus pneumonia,1,5,20.000000,44324,1.120000
+SHELBY,2017,Congenital malformation syndromes predominantly involving limbs,1,5,20.000000,44324,1.120000
+SHELBY,2017,Persistent fetal circulation,1,5,20.000000,44324,1.120000
+SHELBY,2017,Accidental suffocation and strangulation in bed,1,5,20.000000,44324,1.120000
+SHELBY,2017,"Intrauterine hypoxia, unspecified",1,5,20.000000,44324,1.120000
+SHELBY,2018,Sudden infant death syndrome,1,5,20.000000,44324,1.120000
+SHELBY,2018,Extreme immaturity,1,5,20.000000,44324,1.120000
+SHELBY,2018,"Adenovirus infection, unspecified",1,5,20.000000,44324,1.120000
+SHELBY,2018,"Other maltreatment syndromes, by unspecified person",1,5,20.000000,44324,1.120000
+SHELBY,2018,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,5,20.000000,44324,1.120000
+SPENCER,2011,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,1,100.000000,21049,0.470000
+SPENCER,2012,Ebstein's anomaly,1,1,100.000000,20866,0.470000
+SPENCER,2013,Newborn affected by other forms of placental separation and hemorrhage,1,2,50.000000,20824,0.960000
+SPENCER,2013,Hypoplastic left heart syndrome,1,2,50.000000,20824,0.960000
+SPENCER,2015,Inhalation and ingestion of other objects causing obstruction of respiratory tract,1,1,100.000000,20727,0.480000
+SPENCER,2016,"Pneumonia, unspecified",1,1,100.000000,20648,0.480000
+ST JOSEPH,2010,Necrotizing enterocolitis of newborn,2,12,16.666600,266931,0.440000
+ST JOSEPH,2010,Extreme immaturity,1,12,8.333300,266931,0.440000
+ST JOSEPH,2010,"Intestinal obstruction of newborn, unspecified",1,12,8.333300,266931,0.440000
+ST JOSEPH,2010,Unspecified renal failure,1,12,8.333300,266931,0.440000
+ST JOSEPH,2010,Congenital cytomegalovirus infection,1,12,8.333300,266931,0.440000
+ST JOSEPH,2010,"Congenital hydrocephalus, unspecified",1,12,8.333300,266931,0.440000
+ST JOSEPH,2010,Sudden infant death syndrome,1,12,8.333300,266931,0.440000
+ST JOSEPH,2010,"Osteochondrodysplasia, unspecified",1,12,8.333300,266931,0.440000
+ST JOSEPH,2010,Convulsions of newborn,1,12,8.333300,266931,0.440000
+ST JOSEPH,2010,Neonatal cardiac failure,1,12,8.333300,266931,0.440000
+ST JOSEPH,2010,Hydrops fetalis not due to hemolytic disease,1,12,8.333300,266931,0.440000
+ST JOSEPH,2011,Sudden infant death syndrome,3,12,25.000000,266710,0.440000
+ST JOSEPH,2011,Other specified respiratory conditions of newborn,1,12,8.333300,266710,0.440000
+ST JOSEPH,2011,,1,12,8.333300,266710,0.440000
+ST JOSEPH,2011,Extreme immaturity,1,12,8.333300,266710,0.440000
+ST JOSEPH,2011,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,12,8.333300,266710,0.440000
+ST JOSEPH,2011,Other bacterial sepsis of newborn,1,12,8.333300,266710,0.440000
+ST JOSEPH,2011,Accidental suffocation and strangulation in bed,1,12,8.333300,266710,0.440000
+ST JOSEPH,2011,"Congenital malformation of the heart, unspecified",1,12,8.333300,266710,0.440000
+ST JOSEPH,2011,Wilson-Mikity syndrome,1,12,8.333300,266710,0.440000
+ST JOSEPH,2011,Other and unspecified gastroenteritis and colitis of infectious origin,1,12,8.333300,266710,0.440000
+ST JOSEPH,2012,Sudden infant death syndrome,2,15,13.333300,266612,0.560000
+ST JOSEPH,2012,Accidental suffocation and strangulation in bed,2,15,13.333300,266612,0.560000
+ST JOSEPH,2012,Respiratory distress syndrome of newborn,1,15,6.666600,266612,0.560000
+ST JOSEPH,2012,"Congenital pneumonia, unspecified",1,15,6.666600,266612,0.560000
+ST JOSEPH,2012,"Multiple congenital malformations, not elsewhere classified",1,15,6.666600,266612,0.560000
+ST JOSEPH,2012,Hypoxic ischemic encephalopathy of newborn,1,15,6.666600,266612,0.560000
+ST JOSEPH,2012,"Edwards' syndrome, unspecified",1,15,6.666600,266612,0.560000
+ST JOSEPH,2012,Newborn affected by chorioamnionitis,1,15,6.666600,266612,0.560000
+ST JOSEPH,2012,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,15,6.666600,266612,0.560000
+ST JOSEPH,2012,"Congenital malformation of intestine, unspecified",1,15,6.666600,266612,0.560000
+ST JOSEPH,2012,"Septicemia, unspecified",1,15,6.666600,266612,0.560000
+ST JOSEPH,2012,"Congenital malformation of brain, unspecified",1,15,6.666600,266612,0.560000
+ST JOSEPH,2012,Discordant ventriculoarterial connection,1,15,6.666600,266612,0.560000
+ST JOSEPH,2013,Sudden infant death syndrome,2,16,12.500000,266972,0.590000
+ST JOSEPH,2013,Accidental suffocation and strangulation in bed,2,16,12.500000,266972,0.590000
+ST JOSEPH,2013,Unspecified renal failure,1,16,6.250000,266972,0.590000
+ST JOSEPH,2013,"Other congenital anemias, not elsewhere classified",1,16,6.250000,266972,0.590000
+ST JOSEPH,2013,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,16,6.250000,266972,0.590000
+ST JOSEPH,2013,Other specified congenital malformations of brain,1,16,6.250000,266972,0.590000
+ST JOSEPH,2013,Necrotizing enterocolitis of newborn,1,16,6.250000,266972,0.590000
+ST JOSEPH,2013,Extreme immaturity,1,16,6.250000,266972,0.590000
+ST JOSEPH,2013,Hypoplasia and dysplasia of lung,1,16,6.250000,266972,0.590000
+ST JOSEPH,2013,Other specified congenital malformations of heart,1,16,6.250000,266972,0.590000
+ST JOSEPH,2013,Respiratory distress syndrome of newborn,1,16,6.250000,266972,0.590000
+ST JOSEPH,2013,"Intracranial (nontraumatic) hemorrhage of newborn, unspecified",1,16,6.250000,266972,0.590000
+ST JOSEPH,2013,Interstitial emphysema,1,16,6.250000,266972,0.590000
+ST JOSEPH,2013,Other disorders of lung,1,16,6.250000,266972,0.590000
+ST JOSEPH,2014,Other specified respiratory conditions of newborn,2,20,10.000000,267620,0.740000
+ST JOSEPH,2014,"Interstitial pulmonary disease, unspecified",1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,Other ill-defined heart diseases,1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,Necrotizing enterocolitis of newborn,1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,Hypoxic ischemic encephalopathy of newborn,1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,Accidental suffocation and strangulation in bed,1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,Anencephaly,1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,Other reduction deformities of brain,1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,"Other maltreatment syndromes, by parent",1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,Other specified conditions originating in the perinatal period,1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,"Edwards' syndrome, unspecified",1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,"Congenital malformation of the heart, unspecified",1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,Assault (homicide) by unspecified means,1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,"Pneumothorax, unspecified",1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,Sudden infant death syndrome,1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,Other and unspecified gastroenteritis and colitis of infectious origin,1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,Unspecified threat to breathing,1,20,5.000000,267620,0.740000
+ST JOSEPH,2014,"Bronchopneumonia, unspecified",1,20,5.000000,267620,0.740000
+ST JOSEPH,2015,Primary atelectasis of newborn,2,19,10.526300,268134,0.700000
+ST JOSEPH,2015,"Bacterial sepsis of newborn, unspecified",2,19,10.526300,268134,0.700000
+ST JOSEPH,2015,Other generalized epilepsy and epileptic syndromes,1,19,5.263100,268134,0.700000
+ST JOSEPH,2015,"Intrauterine hypoxia, unspecified",1,19,5.263100,268134,0.700000
+ST JOSEPH,2015,Anencephaly,1,19,5.263100,268134,0.700000
+ST JOSEPH,2015,Bronchopulmonary dysplasia originating in the perinatal period,1,19,5.263100,268134,0.700000
+ST JOSEPH,2015,Newborn affected by oligohydramnios,1,19,5.263100,268134,0.700000
+ST JOSEPH,2015,"Vascular disorder of intestine, unspecified",1,19,5.263100,268134,0.700000
+ST JOSEPH,2015,Other and unspecified gastroenteritis and colitis of infectious origin,1,19,5.263100,268134,0.700000
+ST JOSEPH,2015,Neonatal cardiac dysrhythmia,1,19,5.263100,268134,0.700000
+ST JOSEPH,2015,Extreme immaturity,1,19,5.263100,268134,0.700000
+ST JOSEPH,2015,Hydrops fetalis not due to hemolytic disease,1,19,5.263100,268134,0.700000
+ST JOSEPH,2015,Other specified respiratory disorders,1,19,5.263100,268134,0.700000
+ST JOSEPH,2015,"Congenital malformation of the heart, unspecified",1,19,5.263100,268134,0.700000
+ST JOSEPH,2015,Unspecified pulmonary hemorrhage originating in the perinatal period,1,19,5.263100,268134,0.700000
+ST JOSEPH,2015,Sudden infant death syndrome,1,19,5.263100,268134,0.700000
+ST JOSEPH,2015,"Septicemia, unspecified",1,19,5.263100,268134,0.700000
+ST JOSEPH,2016,Sudden infant death syndrome,2,13,15.384600,269141,0.480000
+ST JOSEPH,2016,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,2,13,15.384600,269141,0.480000
+ST JOSEPH,2016,Streptococcal meningitis,1,13,7.692300,269141,0.480000
+ST JOSEPH,2016,"Status epilepticus, unspecified",1,13,7.692300,269141,0.480000
+ST JOSEPH,2016,Extreme immaturity,1,13,7.692300,269141,0.480000
+ST JOSEPH,2016,Respiratory failure of newborn,1,13,7.692300,269141,0.480000
+ST JOSEPH,2016,"Congenital malformation of the heart, unspecified",1,13,7.692300,269141,0.480000
+ST JOSEPH,2016,Congenital cerebral cysts,1,13,7.692300,269141,0.480000
+ST JOSEPH,2016,Hypoxic ischemic encephalopathy of newborn,1,13,7.692300,269141,0.480000
+ST JOSEPH,2016,"Bacterial sepsis of newborn, unspecified",1,13,7.692300,269141,0.480000
+ST JOSEPH,2016,Primary atelectasis of newborn,1,13,7.692300,269141,0.480000
+ST JOSEPH,2017,Sudden infant death syndrome,7,27,25.925900,269141,1.000000
+ST JOSEPH,2017,Congenital diaphragmatic hernia,2,27,7.407400,269141,1.000000
+ST JOSEPH,2017,Accidental suffocation and strangulation in bed,2,27,7.407400,269141,1.000000
+ST JOSEPH,2017,Hypoxic ischemic encephalopathy of newborn,2,27,7.407400,269141,1.000000
+ST JOSEPH,2017,"Acute renal failure, unspecified",2,27,7.407400,269141,1.000000
+ST JOSEPH,2017,Necrotizing enterocolitis of newborn,1,27,3.703700,269141,1.000000
+ST JOSEPH,2017,Respiratory failure of newborn,1,27,3.703700,269141,1.000000
+ST JOSEPH,2017,Tetralogy of Fallot,1,27,3.703700,269141,1.000000
+ST JOSEPH,2017,Sepsis of newborn due to other and unspecified streptococci,1,27,3.703700,269141,1.000000
+ST JOSEPH,2017,Pulmonary edema,1,27,3.703700,269141,1.000000
+ST JOSEPH,2017,Other ill-defined and unspecified causes of mortality,1,27,3.703700,269141,1.000000
+ST JOSEPH,2017,Other specified congenital infectious and parasitic diseases,1,27,3.703700,269141,1.000000
+ST JOSEPH,2017,"Intraventricular (nontraumatic) hemorrhage, grade 3, of newborn",1,27,3.703700,269141,1.000000
+ST JOSEPH,2017,Other disorders of lung,1,27,3.703700,269141,1.000000
+ST JOSEPH,2017,"Intracranial (nontraumatic) hemorrhage of newborn, unspecified",1,27,3.703700,269141,1.000000
+ST JOSEPH,2017,Other specified cerebrovascular diseases,1,27,3.703700,269141,1.000000
+ST JOSEPH,2017,"Birth asphyxia, unspecified",1,27,3.703700,269141,1.000000
+ST JOSEPH,2018,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,2,10,20.000000,269141,0.370000
+ST JOSEPH,2018,Persistent fetal circulation,1,10,10.000000,269141,0.370000
+ST JOSEPH,2018,Other congenital malformations of pharynx,1,10,10.000000,269141,0.370000
+ST JOSEPH,2018,Extreme immaturity,1,10,10.000000,269141,0.370000
+ST JOSEPH,2018,"Bronchopneumonia, unspecified",1,10,10.000000,269141,0.370000
+ST JOSEPH,2018,"Edwards' syndrome, unspecified",1,10,10.000000,269141,0.370000
+ST JOSEPH,2018,Necrotizing enterocolitis of newborn,1,10,10.000000,269141,0.370000
+ST JOSEPH,2018,Sudden infant death syndrome,1,10,10.000000,269141,0.370000
+ST JOSEPH,2018,"Congenital malformation of brain, unspecified",1,10,10.000000,269141,0.370000
+STARKE,2012,Intracerebral (nontraumatic) hemorrhage of newborn,1,4,25.000000,23195,1.720000
+STARKE,2012,,1,4,25.000000,23195,1.720000
+STARKE,2012,"Bacterial sepsis of newborn, unspecified",1,4,25.000000,23195,1.720000
+STARKE,2012,Accidental suffocation and strangulation in bed,1,4,25.000000,23195,1.720000
+STARKE,2013,Sudden infant death syndrome,2,2,100.000000,23189,0.860000
+STARKE,2014,Pneumothorax originating in the perinatal period,1,2,50.000000,23011,0.860000
+STARKE,2014,Sudden infant death syndrome,1,2,50.000000,23011,0.860000
+STARKE,2017,Person injured in collision between other specified motor vehicles (traffic),1,1,100.000000,23009,0.430000
+STEUBEN,2010,"Acute appendicitis, unspecified",1,1,100.000000,34185,0.290000
+STEUBEN,2011,Extreme immaturity,1,1,100.000000,34070,0.290000
+STEUBEN,2012,Unspecified threat to breathing,1,1,100.000000,34164,0.290000
+STEUBEN,2013,,1,2,50.000000,34346,0.580000
+STEUBEN,2013,Atrioventricular septal defect,1,2,50.000000,34346,0.580000
+STEUBEN,2014,Sudden infant death syndrome,2,4,50.000000,34427,1.160000
+STEUBEN,2014,"Hanging, strangulation, and suffocation, undetermined intent",1,4,25.000000,34427,1.160000
+STEUBEN,2014,Primary atelectasis of newborn,1,4,25.000000,34427,1.160000
+STEUBEN,2015,Newborn affected by chorioamnionitis,1,2,50.000000,34343,0.580000
+STEUBEN,2015,Sudden infant death syndrome,1,2,50.000000,34343,0.580000
+STEUBEN,2018,Sepsis of newborn due to Escherichia coli,1,1,100.000000,34116,0.290000
+SULLIVAN,2010,Accidental suffocation and strangulation in bed,1,1,100.000000,21475,0.460000
+SULLIVAN,2011,Accidental suffocation and strangulation in bed,1,1,100.000000,21234,0.470000
+SULLIVAN,2016,Other ill-defined and unspecified causes of mortality,1,4,25.000000,20802,1.920000
+SULLIVAN,2016,"Fetal blood loss, unspecified",1,4,25.000000,20802,1.920000
+SULLIVAN,2016,Drowning and submersion while in bathtub,1,4,25.000000,20802,1.920000
+SULLIVAN,2016,Accidental suffocation and strangulation in bed,1,4,25.000000,20802,1.920000
+SULLIVAN,2017,Extreme immaturity,1,1,100.000000,20802,0.480000
+SWITZERLAND,2010,,1,1,100.000000,10613,0.940000
+SWITZERLAND,2012,"Congenital malformation of the heart, unspecified",1,1,100.000000,10395,0.960000
+TIPPECANOE,2010,Newborn affected by premature rupture of membranes,1,3,33.333300,172780,0.170000
+TIPPECANOE,2010,Other and unspecified gastroenteritis and colitis of infectious origin,1,3,33.333300,172780,0.170000
+TIPPECANOE,2010,Necrotizing enterocolitis of newborn,1,3,33.333300,172780,0.170000
+TIPPECANOE,2011,"Lobar pneumonia, unspecified",1,6,16.666600,175513,0.340000
+TIPPECANOE,2011,Holoprosencephaly,1,6,16.666600,175513,0.340000
+TIPPECANOE,2011,Other bacterial meningitis,1,6,16.666600,175513,0.340000
+TIPPECANOE,2011,Other disorders of lung,1,6,16.666600,175513,0.340000
+TIPPECANOE,2011,Persistent fetal circulation,1,6,16.666600,175513,0.340000
+TIPPECANOE,2011,"Mononeuropathy, unspecified",1,6,16.666600,175513,0.340000
+TIPPECANOE,2012,"Bacterial sepsis of newborn, unspecified",2,7,28.571400,178430,0.390000
+TIPPECANOE,2012,"Congenital malformation, unspecified",1,7,14.285700,178430,0.390000
+TIPPECANOE,2012,"Intrauterine hypoxia, unspecified",1,7,14.285700,178430,0.390000
+TIPPECANOE,2012,"Other specified congenital malformation syndromes, not elsewhere classified",1,7,14.285700,178430,0.390000
+TIPPECANOE,2012,Congenital diaphragmatic hernia,1,7,14.285700,178430,0.390000
+TIPPECANOE,2012,Sudden infant death syndrome,1,7,14.285700,178430,0.390000
+TIPPECANOE,2013,Sudden infant death syndrome,2,10,20.000000,181242,0.550000
+TIPPECANOE,2013,Disorders of urea cycle metabolism,1,10,10.000000,181242,0.550000
+TIPPECANOE,2013,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,10,10.000000,181242,0.550000
+TIPPECANOE,2013,Other specified congenital malformations of heart,1,10,10.000000,181242,0.550000
+TIPPECANOE,2013,"Immunodeficiency, unspecified",1,10,10.000000,181242,0.550000
+TIPPECANOE,2013,Other specified cerebrovascular diseases,1,10,10.000000,181242,0.550000
+TIPPECANOE,2013,"Congenital malformation of the heart, unspecified",1,10,10.000000,181242,0.550000
+TIPPECANOE,2013,"Intrauterine hypoxia, unspecified",1,10,10.000000,181242,0.550000
+TIPPECANOE,2013,Other specified threats to breathing,1,10,10.000000,181242,0.550000
+TIPPECANOE,2014,Accidental suffocation and strangulation in bed,3,13,23.076900,183515,0.700000
+TIPPECANOE,2014,Unspecified threat to breathing,1,13,7.692300,183515,0.700000
+TIPPECANOE,2014,Double outlet right ventricle,1,13,7.692300,183515,0.700000
+TIPPECANOE,2014,Inhalation and ingestion of food causing obstruction of respiratory tract,1,13,7.692300,183515,0.700000
+TIPPECANOE,2014,Newborn affected by other forms of placental separation and hemorrhage,1,13,7.692300,183515,0.700000
+TIPPECANOE,2014,Other and unspecified gastroenteritis and colitis of infectious origin,1,13,7.692300,183515,0.700000
+TIPPECANOE,2014,Malignant neoplasm of abdomen,1,13,7.692300,183515,0.700000
+TIPPECANOE,2014,"Patau's syndrome, unspecified",1,13,7.692300,183515,0.700000
+TIPPECANOE,2014,Exomphalos,1,13,7.692300,183515,0.700000
+TIPPECANOE,2014,Disseminated intravascular coagulation of newborn,1,13,7.692300,183515,0.700000
+TIPPECANOE,2014,"Multiple congenital malformations, not elsewhere classified",1,13,7.692300,183515,0.700000
+TIPPECANOE,2015,Accidental suffocation and strangulation in bed,6,15,40.000000,185741,0.800000
+TIPPECANOE,2015,"Other maltreatment syndromes, by unspecified person",1,15,6.666600,185741,0.800000
+TIPPECANOE,2015,"Hanging, strangulation, and suffocation, undetermined intent",1,15,6.666600,185741,0.800000
+TIPPECANOE,2015,Sudden infant death syndrome,1,15,6.666600,185741,0.800000
+TIPPECANOE,2015,Agenesis of lung,1,15,6.666600,185741,0.800000
+TIPPECANOE,2015,Unspecified threat to breathing,1,15,6.666600,185741,0.800000
+TIPPECANOE,2015,Hyperkalemia,1,15,6.666600,185741,0.800000
+TIPPECANOE,2015,Hypoplasia and dysplasia of lung,1,15,6.666600,185741,0.800000
+TIPPECANOE,2015,Congenital diaphragmatic hernia,1,15,6.666600,185741,0.800000
+TIPPECANOE,2015,"Congenital pneumonia, unspecified",1,15,6.666600,185741,0.800000
+TIPPECANOE,2016,Hypoxic ischemic encephalopathy of newborn,1,3,33.333300,188059,0.150000
+TIPPECANOE,2016,Hypoplastic left heart syndrome,1,3,33.333300,188059,0.150000
+TIPPECANOE,2016,Extreme immaturity,1,3,33.333300,188059,0.150000
+TIPPECANOE,2017,Accidental suffocation and strangulation in bed,2,8,25.000000,188059,0.420000
+TIPPECANOE,2017,Hypoxic ischemic encephalopathy of newborn,1,8,12.500000,188059,0.420000
+TIPPECANOE,2017,Anencephaly,1,8,12.500000,188059,0.420000
+TIPPECANOE,2017,Embolism and thrombosis of vena cava,1,8,12.500000,188059,0.420000
+TIPPECANOE,2017,"Edwards' syndrome, unspecified",1,8,12.500000,188059,0.420000
+TIPPECANOE,2017,"Congenital malformation of face and neck, unspecified",1,8,12.500000,188059,0.420000
+TIPPECANOE,2017,Disorders of diaphragm,1,8,12.500000,188059,0.420000
+TIPPECANOE,2018,Newborn affected by premature rupture of membranes,2,9,22.222200,188059,0.470000
+TIPPECANOE,2018,Accidental suffocation and strangulation in bed,1,9,11.111100,188059,0.470000
+TIPPECANOE,2018,Hypoxic ischemic encephalopathy of newborn,1,9,11.111100,188059,0.470000
+TIPPECANOE,2018,Disorders of fatty-acid metabolism,1,9,11.111100,188059,0.470000
+TIPPECANOE,2018,Other specified diseases of intestine,1,9,11.111100,188059,0.470000
+TIPPECANOE,2018,Ischemic infarction of muscle,1,9,11.111100,188059,0.470000
+TIPPECANOE,2018,"Herpesviral infection, unspecified",1,9,11.111100,188059,0.470000
+TIPPECANOE,2018,Other specified diseases of liver,1,9,11.111100,188059,0.470000
+TIPTON,2010,Hypoplasia and dysplasia of lung,1,2,50.000000,15936,1.250000
+TIPTON,2010,"Congenital malformation of the heart, unspecified",1,2,50.000000,15936,1.250000
+TIPTON,2011,"Disorder involving the immune mechanism, unspecified",1,1,100.000000,15855,0.630000
+TIPTON,2012,"Patau's syndrome, unspecified",1,1,100.000000,15728,0.630000
+TIPTON,2013,"Polycystic kidney, unspecified",1,1,100.000000,15582,0.640000
+TIPTON,2015,Congenital herpesviral [herpes simplex] infection,1,1,100.000000,15292,0.650000
+TIPTON,2016,Persistent fetal circulation,2,2,100.000000,15182,1.310000
+VANDERBURGH,2010,,2,5,40.000000,179703,0.270000
+VANDERBURGH,2010,Newborn affected by maternal use of alcohol,1,5,20.000000,179703,0.270000
+VANDERBURGH,2010,Sepsis of newborn due to other and unspecified streptococci,1,5,20.000000,179703,0.270000
+VANDERBURGH,2010,"Septicemia, unspecified",1,5,20.000000,179703,0.270000
+VANDERBURGH,2011,Perinatal intestinal perforation,1,5,20.000000,180372,0.270000
+VANDERBURGH,2011,"Edwards' syndrome, unspecified",1,5,20.000000,180372,0.270000
+VANDERBURGH,2011,Hypoplasia and dysplasia of lung,1,5,20.000000,180372,0.270000
+VANDERBURGH,2011,Hypoplastic left heart syndrome,1,5,20.000000,180372,0.270000
+VANDERBURGH,2011,"Congenital malformation of the heart, unspecified",1,5,20.000000,180372,0.270000
+VANDERBURGH,2012,Unspecified threat to breathing,1,12,8.333300,181031,0.660000
+VANDERBURGH,2012,"Multiple congenital malformations, not elsewhere classified",1,12,8.333300,181031,0.660000
+VANDERBURGH,2012,Respiratory arrest,1,12,8.333300,181031,0.660000
+VANDERBURGH,2012,Necrotizing enterocolitis of newborn,1,12,8.333300,181031,0.660000
+VANDERBURGH,2012,Extreme immaturity,1,12,8.333300,181031,0.660000
+VANDERBURGH,2012,Accidental suffocation and strangulation in bed,1,12,8.333300,181031,0.660000
+VANDERBURGH,2012,"Assault (homicide) by drugs, medicaments, and biological substances",1,12,8.333300,181031,0.660000
+VANDERBURGH,2012,Other specified cerebrovascular diseases,1,12,8.333300,181031,0.660000
+VANDERBURGH,2012,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,12,8.333300,181031,0.660000
+VANDERBURGH,2012,Congenital hypotonia,1,12,8.333300,181031,0.660000
+VANDERBURGH,2012,Congenital diaphragmatic hernia,1,12,8.333300,181031,0.660000
+VANDERBURGH,2012,Unspecified renal failure,1,12,8.333300,181031,0.660000
+VANDERBURGH,2013,"Bacterial sepsis of newborn, unspecified",2,10,20.000000,181693,0.550000
+VANDERBURGH,2013,"Intrauterine hypoxia, unspecified",1,10,10.000000,181693,0.550000
+VANDERBURGH,2013,Respiratory distress syndrome of newborn,1,10,10.000000,181693,0.550000
+VANDERBURGH,2013,Anencephaly,1,10,10.000000,181693,0.550000
+VANDERBURGH,2013,Streptococcal meningitis,1,10,10.000000,181693,0.550000
+VANDERBURGH,2013,Accidental suffocation and strangulation in bed,1,10,10.000000,181693,0.550000
+VANDERBURGH,2013,Newborn affected by maternal death,1,10,10.000000,181693,0.550000
+VANDERBURGH,2013,Other specified threats to breathing,1,10,10.000000,181693,0.550000
+VANDERBURGH,2013,Extreme immaturity,1,10,10.000000,181693,0.550000
+VANDERBURGH,2014,"Assault (homicide) by hanging, strangulation, and suffocation",1,7,14.285700,182073,0.380000
+VANDERBURGH,2014,Extreme immaturity,1,7,14.285700,182073,0.380000
+VANDERBURGH,2014,"Edwards' syndrome, unspecified",1,7,14.285700,182073,0.380000
+VANDERBURGH,2014,Hypoplasia and dysplasia of lung,1,7,14.285700,182073,0.380000
+VANDERBURGH,2014,Essential (primary) hypertension,1,7,14.285700,182073,0.380000
+VANDERBURGH,2014,Inhalation of gastric contents,1,7,14.285700,182073,0.380000
+VANDERBURGH,2014,Hypoplastic left heart syndrome,1,7,14.285700,182073,0.380000
+VANDERBURGH,2015,Unspecified chronic respiratory disease originating in the perinatal period,2,7,28.571400,181941,0.380000
+VANDERBURGH,2015,"Intracranial (nontraumatic) hemorrhage of newborn, unspecified",1,7,14.285700,181941,0.380000
+VANDERBURGH,2015,Unspecified chronic bronchitis,1,7,14.285700,181941,0.380000
+VANDERBURGH,2015,"Bacterial sepsis of newborn, unspecified",1,7,14.285700,181941,0.380000
+VANDERBURGH,2015,Disorders of urea cycle metabolism,1,7,14.285700,181941,0.380000
+VANDERBURGH,2015,Neonatal cardiac dysrhythmia,1,7,14.285700,181941,0.380000
+VANDERBURGH,2016,Accidental suffocation and strangulation in bed,4,10,40.000000,181721,0.550000
+VANDERBURGH,2016,"Hanging, strangulation, and suffocation, undetermined intent",1,10,10.000000,181721,0.550000
+VANDERBURGH,2016,"Bacterial sepsis of newborn, unspecified",1,10,10.000000,181721,0.550000
+VANDERBURGH,2016,"Cardiomyopathy, unspecified",1,10,10.000000,181721,0.550000
+VANDERBURGH,2016,Extreme immaturity,1,10,10.000000,181721,0.550000
+VANDERBURGH,2016,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,10,10.000000,181721,0.550000
+VANDERBURGH,2016,Other disorders of lung,1,10,10.000000,181721,0.550000
+VANDERBURGH,2017,Assault (homicide) by unspecified means,1,7,14.285700,181721,0.380000
+VANDERBURGH,2017,Other specified congenital infectious and parasitic diseases,1,7,14.285700,181721,0.380000
+VANDERBURGH,2017,Necrotizing enterocolitis of newborn,1,7,14.285700,181721,0.380000
+VANDERBURGH,2017,Other and unspecified gastroenteritis and colitis of infectious origin,1,7,14.285700,181721,0.380000
+VANDERBURGH,2017,Other ill-defined and unspecified causes of mortality,1,7,14.285700,181721,0.380000
+VANDERBURGH,2017,Person injured in collision between other specified motor vehicles (traffic),1,7,14.285700,181721,0.380000
+VANDERBURGH,2017,Accidental suffocation and strangulation in bed,1,7,14.285700,181721,0.380000
+VANDERBURGH,2018,Hypoxic ischemic encephalopathy of newborn,2,13,15.384600,181721,0.710000
+VANDERBURGH,2018,"Meningococcemia, unspecified",1,13,7.692300,181721,0.710000
+VANDERBURGH,2018,"Hanging, strangulation, and suffocation, undetermined intent",1,13,7.692300,181721,0.710000
+VANDERBURGH,2018,"Abnormal reaction, surgical operation with formation of external stoma",1,13,7.692300,181721,0.710000
+VANDERBURGH,2018,Pericardial effusion (noninflammatory),1,13,7.692300,181721,0.710000
+VANDERBURGH,2018,Primary atelectasis of newborn,1,13,7.692300,181721,0.710000
+VANDERBURGH,2018,Accidental suffocation and strangulation in bed,1,13,7.692300,181721,0.710000
+VANDERBURGH,2018,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,13,7.692300,181721,0.710000
+VANDERBURGH,2018,"Congenital malformation of the heart, unspecified",1,13,7.692300,181721,0.710000
+VANDERBURGH,2018,"Bronchopneumonia, unspecified",1,13,7.692300,181721,0.710000
+VANDERBURGH,2018,Extremely low birthweight,1,13,7.692300,181721,0.710000
+VANDERBURGH,2018,"Bacterial sepsis of newborn, unspecified",1,13,7.692300,181721,0.710000
+VERMILLION,2015,Accidental suffocation and strangulation in bed,1,1,100.000000,15634,0.630000
+VERMILLION,2017,Unspecified threat to breathing,1,1,100.000000,15645,0.630000
+VIGO,2010,Unspecified threat to breathing,2,4,50.000000,107848,0.370000
+VIGO,2010,Accidental suffocation and strangulation in bed,1,4,25.000000,107848,0.370000
+VIGO,2010,Sudden infant death syndrome,1,4,25.000000,107848,0.370000
+VIGO,2011,"Birth asphyxia, unspecified",1,4,25.000000,108296,0.360000
+VIGO,2011,Hypoplasia and dysplasia of lung,1,4,25.000000,108296,0.360000
+VIGO,2011,Sudden infant death syndrome,1,4,25.000000,108296,0.360000
+VIGO,2011,Acute and subacute infective endocarditis,1,4,25.000000,108296,0.360000
+VIGO,2012,Other specified congenital infectious and parasitic diseases,1,6,16.666600,108528,0.550000
+VIGO,2012,"Bacterial sepsis of newborn, unspecified",1,6,16.666600,108528,0.550000
+VIGO,2012,"Malignant neoplasm of kidney, except renal pelvis",1,6,16.666600,108528,0.550000
+VIGO,2012,Sudden infant death syndrome,1,6,16.666600,108528,0.550000
+VIGO,2012,Other and unspecified gastroenteritis and colitis of infectious origin,1,6,16.666600,108528,0.550000
+VIGO,2012,Other disorders of lung,1,6,16.666600,108528,0.550000
+VIGO,2013,Accidental suffocation and strangulation in bed,1,2,50.000000,108226,0.180000
+VIGO,2013,Unspecified chronic respiratory disease originating in the perinatal period,1,2,50.000000,108226,0.180000
+VIGO,2014,Accidental suffocation and strangulation in bed,3,9,33.333300,108100,0.830000
+VIGO,2014,"Vascular disorder of intestine, unspecified",1,9,11.111100,108100,0.830000
+VIGO,2014,Other preterm infants,1,9,11.111100,108100,0.830000
+VIGO,2014,Hypoplastic left heart syndrome,1,9,11.111100,108100,0.830000
+VIGO,2014,"Degenerative disease of nervous system, unspecified",1,9,11.111100,108100,0.830000
+VIGO,2014,Unspecified renal failure,1,9,11.111100,108100,0.830000
+VIGO,2014,Assault (homicide) by unspecified means,1,9,11.111100,108100,0.830000
+VIGO,2015,Accidental suffocation and strangulation in bed,2,7,28.571400,107708,0.640000
+VIGO,2015,Anencephaly,1,7,14.285700,107708,0.640000
+VIGO,2015,Hypoplasia and dysplasia of lung,1,7,14.285700,107708,0.640000
+VIGO,2015,Newborn affected by maternal hypertensive disorders,1,7,14.285700,107708,0.640000
+VIGO,2015,Other ill-defined and unspecified causes of mortality,1,7,14.285700,107708,0.640000
+VIGO,2015,Other generalized epilepsy and epileptic syndromes,1,7,14.285700,107708,0.640000
+VIGO,2016,"Anoxic brain damage, not elsewhere classified",1,4,25.000000,107931,0.370000
+VIGO,2016,"Congenital malformation of the heart, unspecified",1,4,25.000000,107931,0.370000
+VIGO,2016,Accidental suffocation and strangulation in bed,1,4,25.000000,107931,0.370000
+VIGO,2016,Primary atelectasis of newborn,1,4,25.000000,107931,0.370000
+VIGO,2017,Hypoxic ischemic encephalopathy of newborn,2,10,20.000000,107931,0.920000
+VIGO,2017,Other preterm infants,1,10,10.000000,107931,0.920000
+VIGO,2017,Extreme immaturity,1,10,10.000000,107931,0.920000
+VIGO,2017,Osteogenesis imperfecta,1,10,10.000000,107931,0.920000
+VIGO,2017,Atrioventricular septal defect,1,10,10.000000,107931,0.920000
+VIGO,2017,Other ill-defined and unspecified causes of mortality,1,10,10.000000,107931,0.920000
+VIGO,2017,Exposure to excessive natural heat,1,10,10.000000,107931,0.920000
+VIGO,2017,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,10,10.000000,107931,0.920000
+VIGO,2017,Other diseases of larynx,1,10,10.000000,107931,0.920000
+VIGO,2018,"Down's syndrome, unspecified",1,4,25.000000,107931,0.370000
+VIGO,2018,Other ill-defined and unspecified causes of mortality,1,4,25.000000,107931,0.370000
+VIGO,2018,Other and unspecified gastroenteritis and colitis of infectious origin,1,4,25.000000,107931,0.370000
+VIGO,2018,Hypoxic ischemic encephalopathy of newborn,1,4,25.000000,107931,0.370000
+WABASH,2010,Hypoxic ischemic encephalopathy of newborn,1,1,100.000000,32888,0.300000
+WABASH,2011,"Congenital hydrocephalus, unspecified",1,3,33.333300,32587,0.920000
+WABASH,2011,Sudden infant death syndrome,1,3,33.333300,32587,0.920000
+WABASH,2011,Other preterm infants,1,3,33.333300,32587,0.920000
+WABASH,2012,Sudden infant death syndrome,2,2,100.000000,32437,0.610000
+WABASH,2014,Hypoxic ischemic encephalopathy of newborn,1,1,100.000000,32255,0.310000
+WABASH,2015,Respiratory distress syndrome of newborn,1,2,50.000000,32075,0.620000
+WABASH,2015,"Streptococcal infection, unspecified",1,2,50.000000,32075,0.620000
+WABASH,2016,Convulsions of newborn,1,2,50.000000,31762,0.620000
+WABASH,2016,Sudden infant death syndrome,1,2,50.000000,31762,0.620000
+WARREN,2012,Respiratory distress syndrome of newborn,1,1,100.000000,8391,1.190000
+WARREN,2017,Other viral infections of unspecified site,1,1,100.000000,8166,1.220000
+WARREN,2018,"Birth asphyxia, unspecified",1,2,50.000000,8166,2.440000
+WARREN,2018,Other malformations of cerebral vessels,1,2,50.000000,8166,2.440000
+WARRICK,2011,Accidental suffocation and strangulation in bed,1,1,100.000000,60231,0.160000
+WARRICK,2012,"Spinal muscular atrophy, unspecified",1,1,100.000000,60458,0.160000
+WARRICK,2013,"Bronchopneumonia, unspecified",1,1,100.000000,61054,0.160000
+WARRICK,2014,Neonatal cardiac failure,1,2,50.000000,61229,0.320000
+WARRICK,2014,Adult respiratory distress syndrome,1,2,50.000000,61229,0.320000
+WARRICK,2015,"Slow fetal growth, unspecified",1,2,50.000000,61894,0.320000
+WARRICK,2015,Accidental suffocation and strangulation in bed,1,2,50.000000,61894,0.320000
+WARRICK,2016,Sepsis of newborn due to Escherichia coli,1,2,50.000000,62498,0.320000
+WARRICK,2016,Pneumothorax originating in the perinatal period,1,2,50.000000,62498,0.320000
+WARRICK,2017,Congenital herpesviral [herpes simplex] infection,1,4,25.000000,62498,0.640000
+WARRICK,2017,"Chronic ischemic heart disease, unspecified",1,4,25.000000,62498,0.640000
+WARRICK,2017,Assault (homicide) by unspecified means,1,4,25.000000,62498,0.640000
+WARRICK,2017,Accidental suffocation and strangulation in bed,1,4,25.000000,62498,0.640000
+WASHINGTON,2010,Other ill-defined and unspecified causes of mortality,1,1,100.000000,28262,0.350000
+WASHINGTON,2012,,1,3,33.333300,27911,1.070000
+WASHINGTON,2012,Victim of cataclysmic storm,1,3,33.333300,27911,1.070000
+WASHINGTON,2012,Accidental suffocation and strangulation in bed,1,3,33.333300,27911,1.070000
+WASHINGTON,2013,,1,1,100.000000,27791,0.350000
+WASHINGTON,2018,Other specified threats to breathing,1,1,100.000000,27670,0.360000
+WAYNE,2010,Necrotizing enterocolitis of newborn,1,2,50.000000,68917,0.290000
+WAYNE,2010,Primary pulmonary hypertension,1,2,50.000000,68917,0.290000
+WAYNE,2011,"Congenital malformation of the heart, unspecified",2,2,100.000000,68663,0.290000
+WAYNE,2012,Sudden infant death syndrome,3,7,42.857100,68304,1.020000
+WAYNE,2012,"Lobar pneumonia, unspecified",1,7,14.285700,68304,1.020000
+WAYNE,2012,"Neglect and abandonment, by unspecified person",1,7,14.285700,68304,1.020000
+WAYNE,2012,Other and unspecified gastroenteritis and colitis of infectious origin,1,7,14.285700,68304,1.020000
+WAYNE,2012,"Lymphedema, not elsewhere classified",1,7,14.285700,68304,1.020000
+WAYNE,2013,Sudden infant death syndrome,2,5,40.000000,67854,0.730000
+WAYNE,2013,"Spinal muscular atrophy, unspecified",1,5,20.000000,67854,0.730000
+WAYNE,2013,Extreme immaturity,1,5,20.000000,67854,0.730000
+WAYNE,2013,"Edwards' syndrome, unspecified",1,5,20.000000,67854,0.730000
+WAYNE,2014,"Infantile spinal muscular atrophy, type I [Werdnig-Hoffman]",1,3,33.333300,67406,0.440000
+WAYNE,2014,Persistent fetal circulation,1,3,33.333300,67406,0.440000
+WAYNE,2014,Other reduction deformities of brain,1,3,33.333300,67406,0.440000
+WAYNE,2015,Other ill-defined and unspecified causes of mortality,1,5,20.000000,66984,0.740000
+WAYNE,2015,Assault (homicide) by unspecified means,1,5,20.000000,66984,0.740000
+WAYNE,2015,"Encephalopathy, unspecified",1,5,20.000000,66984,0.740000
+WAYNE,2015,Anencephaly,1,5,20.000000,66984,0.740000
+WAYNE,2015,Renal dysplasia,1,5,20.000000,66984,0.740000
+WAYNE,2016,Other ill-defined and unspecified causes of mortality,1,2,50.000000,66568,0.300000
+WAYNE,2016,"Congenital malformation of the heart, unspecified",1,2,50.000000,66568,0.300000
+WAYNE,2017,Unspecified chronic respiratory disease originating in the perinatal period,1,4,25.000000,66568,0.600000
+WAYNE,2017,"Acute renal failure, unspecified",1,4,25.000000,66568,0.600000
+WAYNE,2017,"Influenza with other respiratory manifestations, influenza virus identified",1,4,25.000000,66568,0.600000
+WAYNE,2017,Accidental suffocation and strangulation in bed,1,4,25.000000,66568,0.600000
+WAYNE,2018,Unspecified threat to breathing,1,3,33.333300,66568,0.450000
+WAYNE,2018,,1,3,33.333300,66568,0.450000
+WAYNE,2018,Sudden infant death syndrome,1,3,33.333300,66568,0.450000
+WELLS,2010,Other specified conditions originating in the perinatal period,1,1,100.000000,27636,0.360000
+WELLS,2011,Tetralogy of Fallot,1,3,33.333300,27747,1.080000
+WELLS,2011,Myotonic disorders,1,3,33.333300,27747,1.080000
+WELLS,2011,"Spinal muscular atrophy, unspecified",1,3,33.333300,27747,1.080000
+WELLS,2012,Sepsis of newborn due to Escherichia coli,1,1,100.000000,27713,0.360000
+WELLS,2014,Accidental suffocation and strangulation in bed,1,1,100.000000,27839,0.350000
+WELLS,2015,"Multiple congenital malformations, not elsewhere classified",1,1,100.000000,27937,0.350000
+WELLS,2018,Newborn affected by chorioamnionitis,1,1,100.000000,27949,0.350000
+WHITE,2010,Newborn affected by chorioamnionitis,1,1,100.000000,24643,0.400000
+WHITE,2011,Gastroschisis,1,1,100.000000,24518,0.400000
+WHITE,2012,Unspecified threat to breathing,1,1,100.000000,24390,0.410000
+WHITE,2013,Aortic (valve) stenosis,1,2,50.000000,24328,0.820000
+WHITE,2013,Necrotizing enterocolitis of newborn,1,2,50.000000,24328,0.820000
+WHITE,2014,Extreme immaturity,1,2,50.000000,24383,0.820000
+WHITE,2014,Accidental suffocation and strangulation in bed,1,2,50.000000,24383,0.820000
+WHITE,2015,"Other maltreatment syndromes, by parent",1,1,100.000000,24224,0.410000
+WHITE,2017,Other viral infections of unspecified site,1,2,50.000000,23999,0.830000
+WHITE,2017,Anencephaly,1,2,50.000000,23999,0.830000
+WHITE,2018,Sudden infant death syndrome,1,3,33.333300,23999,1.250000
+WHITE,2018,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1,3,33.333300,23999,1.250000
+WHITE,2018,"Edwards' syndrome, unspecified",1,3,33.333300,23999,1.250000
+WHITLEY,2010,"Bronchopneumonia, unspecified",1,2,50.000000,33292,0.600000
+WHITLEY,2010,Extreme immaturity,1,2,50.000000,33292,0.600000
+WHITLEY,2011,"Septicemia, unspecified",1,1,100.000000,33305,0.300000
+WHITLEY,2013,"Caught, crushed, jammed, or pinched in or between objects",1,2,50.000000,33232,0.600000
+WHITLEY,2013,Sudden infant death syndrome,1,2,50.000000,33232,0.600000
+WHITLEY,2014,Sudden infant death syndrome,1,3,33.333300,33413,0.890000
+WHITLEY,2014,Other specified conduction disorders,1,3,33.333300,33413,0.890000
+WHITLEY,2014,Respiratory distress syndrome of newborn,1,3,33.333300,33413,0.890000
+WHITLEY,2016,Hypoplastic right heart syndrome,1,4,25.000000,33449,1.190000
+WHITLEY,2016,"Chromosomal abnormality, unspecified",1,4,25.000000,33449,1.190000
+WHITLEY,2016,Acute tracheitis,1,4,25.000000,33449,1.190000
+WHITLEY,2016,"Bacterial sepsis of newborn, unspecified",1,4,25.000000,33449,1.190000
+WHITLEY,2017,Accidental suffocation and strangulation in bed,1,4,25.000000,33449,1.190000
+WHITLEY,2017,"Bronchopneumonia, unspecified",1,4,25.000000,33449,1.190000
+WHITLEY,2017,"Chromosomal abnormality, unspecified",1,4,25.000000,33449,1.190000
+WHITLEY,2017,Other ill-defined and unspecified causes of mortality,1,4,25.000000,33449,1.190000
+WHITLEY,2018,Nonspecific mesenteric lymphadenitis,1,1,100.000000,33449,0.290000
